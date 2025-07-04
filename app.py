@@ -26,9 +26,8 @@ import pandas as pd
 import streamlit as st
 
 @st.cache_data(show_spinner=True)
-def load_data(local_fname: str, url_fallback: str | None) -> pd.DataFrame:
-    """Load a CSV from the repo if present, else from a URL."""
-    local_path = Path(__file__).parent / local_fname
+df = load_data("data/ecowise_survey_arm_ready.csv", DATA_URL)
+
     if local_path.exists():
         st.caption(f"✅ Loaded data from local file: {local_path.name}")
         return pd.read_csv(local_path)
