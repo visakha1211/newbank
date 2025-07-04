@@ -20,17 +20,22 @@ st.set_page_config(layout="wide", page_title="EcoWise Insight Studio")
 st.title("🌿 EcoWise Insight Studio 2025")
 st.caption("Sustainable‑appliance market intelligence dashboard")
 
-# ---- DATA LOADING HELPER ----
+# ---------- DATA LOADING ----------
 from pathlib import Path
 import pandas as pd
 import streamlit as st
 
 @st.cache_data(show_spinner=True)
-df = load_data("data/ecowise_survey_arm_ready.csv", DATA_URL)
-
+def load_data(local_fname: str, url_fallback: str | None) -> pd.DataFrame:
+    """
+    Try to read a CSV from the repo first; if absent, fall back to a remote URL.
+    Stops the app with a friendly error if neither source is available.
+    """
+    local_path = Path(__file__).parent / local_fname
     if local_path.exists():
-        st.caption(f"✅ Loaded data from local file: {local_path.name}")
+        st.caption(f"✅ Loaded data from local file: {local_path.relative_to(Path(__file__).parent)}")
         return pd.read_csv(local_path)
+
     if url_fallback:
         try:
             st.caption("🔄 Fetching data from remote URL…")
@@ -38,12 +43,19 @@ df = load_data("data/ecowise_survey_arm_ready.csv", DATA_URL)
         except Exception as e:
             st.error(f"Could not fetch CSV from `{url_fallback}`\\n{e}")
             st.stop()
+
     st.error("⚠️  No dataset found. Add the CSV to the repo **or** set a DATA_URL secret.")
     st.stop()
 
-# ---- CALL IT ----
-DATA_URL = st.secrets.get("DATA_URL", "")
-df = load_data("ecowise_survey_arm_ready.csv", DATA_URL)
+# ──> EDIT THIS PATH if you put the file elsewhere (e.g. just "ecowise_survey_arm_ready.csv")
+LOCAL_CSV = "data/ecowise_survey_arm_ready.csv"
+
+# If you created a Streamlit secret, this pulls it; otherwise an empty string
+DATA_URL  = st.secrets.get("DATA_URL", "")
+
+# Call the helper; the returned DataFrame is what the rest of the app uses
+df = load_data(LOCAL_CSV, DATA_URL)
+
 
 
 # Sidebar filters
