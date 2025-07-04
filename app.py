@@ -1,5 +1,5 @@
 # ───────────────────────────────────────────────────────────────
-#  EcoWise Insight Studio – full Streamlit dashboard (app.py)
+# EcoWise Insight Studio – full Streamlit dashboard (app.py)
 # ───────────────────────────────────────────────────────────────
 import streamlit as st
 import pandas as pd
@@ -24,25 +24,21 @@ from sklearn.cluster import KMeans
 from mlxtend.frequent_patterns import apriori, association_rules
 
 # ───────────────────────────────────────────────────────────────
-#  Config & Page Header
+# Config & Page Header
 # ───────────────────────────────────────────────────────────────
 st.set_page_config(layout="wide", page_title="EcoWise Insight Studio")
 st.title("🌿 EcoWise Insight Studio 2025")
 st.caption("Sustainable-appliance market intelligence dashboard")
 
 # ───────────────────────────────────────────────────────────────
-#  Robust DATA LOADER  – local file first, URL fallback
+# Robust DATA LOADER – local file first, URL fallback
 # ───────────────────────────────────────────────────────────────
 @st.cache_data(show_spinner=True)
 def load_data(local_fname: str, url_fallback: str | None) -> pd.DataFrame:
-    """
-    1. If <local_fname> exists in the repo, read that.
-    2. Else try <url_fallback>.
-    3. Else stop the app with a friendly message.
-    """
+    """Load from repo if present, otherwise from a URL."""
     local_path = Path(__file__).parent / local_fname
     if local_path.exists():
-        st.caption(f"✅ Loaded data from local file: {local_path.relative_to(Path(__file__).parent)}")
+        st.caption(f"✅ Loaded data from local file: {local_path.name}")
         return pd.read_csv(local_path)
 
     if url_fallback:
@@ -60,13 +56,14 @@ def load_data(local_fname: str, url_fallback: str | None) -> pd.DataFrame:
     )
     st.stop()
 
-#  Edit path if you keep the file elsewhere (e.g. "./ecowise_survey_arm_ready.csv")
-LOCAL_CSV = "data/ecowise_survey_arm_ready.csv"
-DATA_URL  = st.secrets.get("DATA_URL", "")  # empty string if not set
+# >>> Point to the CSV you actually committed <<<
+LOCAL_CSV = "ecowise_full_arm_ready.csv"   # <-- updated filename
+DATA_URL  = st.secrets.get("DATA_URL", "")  # leave blank if not using a URL
+
 df = load_data(LOCAL_CSV, DATA_URL)
 
 # ───────────────────────────────────────────────────────────────
-#  Sidebar Filters
+# Sidebar Filters
 # ───────────────────────────────────────────────────────────────
 with st.sidebar:
     st.subheader("🔍 Global Filters")
@@ -74,7 +71,7 @@ with st.sidebar:
         "Country", sorted(df["Country"].unique()),
         default=list(df["Country"].unique())
     )
-    age_range = st.slider("Age range", 18, 75, (18, 75))
+    age_range   = st.slider("Age range", 18, 75, (18, 75))
     adopt_filter = st.selectbox(
         "Adoption status", ["All", "Will Adopt = 1", "Will Adopt = 0"])
 
@@ -88,10 +85,12 @@ elif adopt_filter == "Will Adopt = 0":
     filt_df = filt_df[filt_df["Will_Adopt"] == 0]
 
 # ───────────────────────────────────────────────────────────────
-#  Tabs
+# Tabs
 # ───────────────────────────────────────────────────────────────
-tabs = st.tabs(["📊 Data Visualisation", "🤖 Classification",
-                "🧩 Clustering", "🔗 Association Rules", "📈 Regression"])
+tabs = st.tabs(
+    ["📊 Data Visualisation", "🤖 Classification",
+     "🧩 Clustering", "🔗 Association Rules", "📈 Regression"]
+)
 
 # ==============================================================
 # 1 Data Visualisation
@@ -108,7 +107,6 @@ with tabs[0]:
         adoption.plot(kind="bar", ax=ax)
         ax.set_ylabel("Probability of adoption")
         st.pyplot(fig)
-        st.caption("Share of consumers likely to buy EcoWise within 6 months.")
 
     # Income distribution
     with col2:
@@ -117,9 +115,8 @@ with tabs[0]:
         ax2.hist(filt_df["Annual_HH_Income_USD"], bins=30)
         ax2.set_xlabel("Income")
         st.pyplot(fig2)
-        st.caption("Right-skewed distribution with long-tail high-income outliers.")
 
-    # Additional quick charts
+    # More quick charts
     more_charts = [
         ("Age vs. Premium willingness (%)", "Age", "Premium_WTP_pct"),
         ("kWh vs. EE share (%)", "Monthly_kWh", "EE_Appliance_Share"),
@@ -130,7 +127,6 @@ with tabs[0]:
         ("Feature popularity", "Wanted_Features", None),
         ("Interested categories", "Interested_Categories", None)
     ]
-
     for title, xcol, ycol in more_charts:
         st.markdown(f"#### {title}")
         if ycol:
@@ -145,8 +141,6 @@ with tabs[0]:
             top_vals.plot(kind="barh", ax=ax)
             st.pyplot(fig)
 
-    st.success("10 + visuals rendered. Use sidebar filters to refine insights.")
-
 # ==============================================================
 # 2 Classification
 # ==============================================================
@@ -157,22 +151,22 @@ with tabs[1]:
     y = df[target]
     X = df.drop(columns=[target])
 
-    numeric_cols = X.select_dtypes(include=["int64", "float64"]).columns.tolist()
-    cat_cols = [c for c in X.columns if c not in numeric_cols]
+    num_cols = X.select_dtypes(include=["int64", "float64"]).columns.tolist()
+    cat_cols = [c for c in X.columns if c not in num_cols]
 
     pre = ColumnTransformer([
-        ("num", StandardScaler(), numeric_cols),
+        ("num", StandardScaler(), num_cols),
         ("cat", OneHotEncoder(handle_unknown="ignore"), cat_cols)
     ])
 
     base_models = {
-        "KNN": KNeighborsClassifier(),
-        "Decision Tree": DecisionTreeClassifier(random_state=0),
-        "Random Forest": RandomForestClassifier(random_state=0),
+        "KNN":               KNeighborsClassifier(),
+        "Decision Tree":     DecisionTreeClassifier(random_state=0),
+        "Random Forest":     RandomForestClassifier(random_state=0),
         "Gradient Boosting": GradientBoostingClassifier(random_state=0)
     }
 
-    metrics_table, roc_data, trained_pipes = [], [], {}
+    metrics, roc_data, trained = [], [], {}
     for name, model in base_models.items():
         X_tr, X_te, y_tr, y_te = train_test_split(
             X, y, test_size=0.3, random_state=0, stratify=y)
@@ -180,7 +174,7 @@ with tabs[1]:
         pipe.fit(X_tr, y_tr)
 
         y_pred = pipe.predict(X_te)
-        metrics_table.append({
+        metrics.append({
             "Model": name,
             "Accuracy": accuracy_score(y_te, y_pred),
             "Precision": precision_score(y_te, y_pred, zero_division=0),
@@ -188,14 +182,14 @@ with tabs[1]:
             "F1": f1_score(y_te, y_pred, zero_division=0)
         })
 
-        y_prob = (pipe.predict_proba(X_te)[:, 1] if hasattr(pipe, "predict_proba")
-                  else y_pred)
+        y_prob = (pipe.predict_proba(X_te)[:, 1]
+                  if hasattr(pipe, "predict_proba") else y_pred)
         fpr, tpr, _ = roc_curve(y_te, y_prob)
         roc_data.append((fpr, tpr, name, auc(fpr, tpr)))
-        trained_pipes[name] = pipe
+        trained[name] = pipe
 
     st.subheader("Performance summary")
-    st.dataframe(pd.DataFrame(metrics_table)
+    st.dataframe(pd.DataFrame(metrics)
                  .set_index("Model").style.format("{:.3f}"))
 
     st.subheader("ROC curves")
@@ -208,8 +202,8 @@ with tabs[1]:
     st.pyplot(fig)
 
     st.subheader("Confusion matrix")
-    algo = st.selectbox("Choose algorithm", list(trained_pipes.keys()))
-    pipe = trained_pipes[algo]
+    algo = st.selectbox("Choose algorithm", list(trained.keys()))
+    pipe = trained[algo]
     _, X_te, _, y_te = train_test_split(
         X, y, test_size=0.3, random_state=0, stratify=y)
     cm = confusion_matrix(y_te, pipe.predict(X_te))
@@ -233,33 +227,29 @@ with tabs[1]:
 # ==============================================================
 with tabs[2]:
     st.header("Customer Clustering")
-    numeric_cols_all = df.select_dtypes(include=["int64", "float64"]).columns.tolist()
+    num_cols_all = df.select_dtypes(include=["int64", "float64"]).columns.tolist()
     cluster_feats = st.multiselect(
-        "Numeric columns to use", numeric_cols_all,
+        "Numeric columns to use", num_cols_all,
         default=["Age", "Annual_HH_Income_USD", "Monthly_kWh", "Premium_WTP_pct"]
     )
     k = st.slider("Number of clusters (k)", 2, 10, 4)
 
-    # Elbow chart
-    inertias = []
-    for k_elb in range(2, 11):
-        inertias.append(KMeans(n_clusters=k_elb,
-                               random_state=0, n_init="auto")
-                        .fit(df[cluster_feats]).inertia_)
+    # Elbow
+    inertias = [KMeans(n_clusters=k_elb, random_state=0, n_init="auto")
+                .fit(df[cluster_feats]).inertia_ for k_elb in range(2, 11)]
     fig_elb, ax_elb = plt.subplots()
     ax_elb.plot(range(2, 11), inertias, marker="o")
     ax_elb.set_xlabel("k"); ax_elb.set_ylabel("Inertia")
     st.pyplot(fig_elb)
 
     km = KMeans(n_clusters=k, random_state=0, n_init="auto").fit(df[cluster_feats])
-    df_clustered = df.assign(Cluster=km.labels_)
-
+    df_clust = df.assign(Cluster=km.labels_)
     st.subheader("Cluster personas (feature means)")
-    st.write(df_clustered.groupby("Cluster")[cluster_feats + ["Will_Adopt"]]
+    st.write(df_clust.groupby("Cluster")[cluster_feats + ["Will_Adopt"]]
              .mean().round(2))
 
-    st.download_button("Download data with cluster labels",
-                       df_clustered.to_csv(index=False).encode(),
+    st.download_button("Download cluster-labelled data",
+                       df_clust.to_csv(index=False).encode(),
                        file_name="ew_clustered.csv",
                        mime="text/csv")
 
@@ -271,11 +261,11 @@ with tabs[3]:
     bool_cols = [c for c in df.columns if c.startswith(
         ("Feat_", "Cat_", "Src_", "Factor_", "Barrier_"))]
     cols_sel = st.multiselect("Columns to include", bool_cols, default=bool_cols[:20])
-    supp = st.slider("Min support", 0.01, 0.3, 0.05, 0.01)
-    conf = st.slider("Min confidence", 0.1, 1.0, 0.3, 0.05)
-    lift_min = st.slider("Min lift", 1.0, 5.0, 1.1, 0.1)
+    supp  = st.slider("Min support",     0.01, 0.30, 0.05, 0.01)
+    conf  = st.slider("Min confidence",  0.10, 1.00, 0.30, 0.05)
+    lift_min = st.slider("Min lift",     1.00, 5.00, 1.10, 0.10)
 
-    freq = apriori(df[cols_sel], min_support=supp, use_colnames=True)
+    freq  = apriori(df[cols_sel], min_support=supp, use_colnames=True)
     rules = association_rules(freq, metric="confidence", min_threshold=conf)
     rules = rules[rules["lift"] >= lift_min].sort_values("lift", ascending=False).head(10)
     st.write(rules[["antecedents", "consequents", "support", "confidence", "lift"]])
@@ -285,7 +275,7 @@ with tabs[3]:
 # ==============================================================
 with tabs[4]:
     st.header("Regression Insights")
-    target_reg = st.selectbox("Choose target variable",
+    target_reg = st.selectbox("Target variable",
                               ["Budget_USD", "Premium_WTP_pct", "Acceptable_Payback_yrs"])
     y_reg = df[target_reg]
     X_reg = df.drop(columns=[target_reg])
@@ -298,10 +288,10 @@ with tabs[4]:
         ("cat", OneHotEncoder(handle_unknown="ignore"), cat_cols)
     ])
     models_reg = {
-        "Linear": LinearRegression(),
-        "Ridge": Ridge(alpha=1.0),
-        "Lasso": Lasso(alpha=0.01),
-        "Decision Tree": DecisionTreeRegressor(random_state=0, max_depth=5)
+        "Linear":         LinearRegression(),
+        "Ridge":          Ridge(alpha=1.0),
+        "Lasso":          Lasso(alpha=0.01),
+        "Decision Tree":  DecisionTreeRegressor(random_state=0, max_depth=5)
     }
 
     metrics = []
@@ -313,9 +303,13 @@ with tabs[4]:
         y_pred = pipe.predict(X_te)
         metrics.append({
             "Model": name,
-            "R²": r2_score(y_te, y_pred),
+            "R²":  r2_score(y_te, y_pred),
             "MAE": mean_absolute_error(y_te, y_pred)
         })
+
+    st.dataframe(pd.DataFrame(metrics).set_index("Model").style.format("{:.3f}"))
+    st.info("Higher R² and lower MAE indicate better predictive power.")
+
 
     st.dataframe(pd.DataFrame(metrics).set_index("Model").style.format("{:.3f}"))
     st.info("Higher R² and lower MAE indicate better predictive power.")
