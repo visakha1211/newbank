@@ -1,0 +1,1001 @@
+country,city_tier,age,gender,education,household_income_usd,household_size,monthly_energy_bill_usd,appliance_replacement_horizon,env_concern_score,energy_saving_priority,brand_trust,price_sensitivity_score,govt_incentive_awareness,willing_to_purchase_12m,max_willingness_to_pay_usd,adoption_advocate,preferred_financing,service_expectation_days,own_LED,own_SolarHeater,own_InverterAC,own_None,barrier_Price,barrier_Models,barrier_Trust,barrier_Install,barrier_None,pref_Inverter,pref_SmartIoT,pref_Compact,pref_Recyclable,pref_FastService,src_OnlineRev,src_InStore,src_Social,src_FriendsFam,src_GovtPortal
+Singapore,Metro,46,Male,Bachelor,15953.0,5,127.65,1-2yr,3,Environment,3,2,1,0,6926.688219055597,5,CreditEMI,6,0,0,0,1,0,0,0,0,1,1,1,1,0,0,0,1,1,1,0
+India,Metro,20,Male,Bachelor,57240.0,4,317.8,>2yr,4,Environment,4,4,1,2,5306.0,5,StoreFinance,2,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0
+UAE,Rural,35,Female,Postgrad,50539.0,2,258.73,<6mo,4,Lower bills,3,4,1,1,4712.0,4,Cash,6,0,0,0,1,0,0,1,0,0,1,0,1,0,1,1,1,1,0,0
+UAE,Metro,31,Female,Postgrad,64153.0,7,362.81,1-2yr,4,Environment,2,3,1,1,5615.0,5,CreditEMI,4,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0
+Singapore,Metro,39,Male,Bachelor,59315.0,3,314.06,>2yr,4,Environment,3,2,1,1,5486.0,4,Cash,3,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0
+India,Metro,25,Male,Postgrad,5220.0,4,48.12,>2yr,3,Environment,3,3,1,1,977.0,5,BNPL,5,0,0,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1
+India,Metro,45,Male,Diploma,17167.0,1,103.35,6-12mo,3,Lower bills,2,2,0,1,2024.0,4,Cash,5,0,0,0,1,0,0,1,1,0,1,0,0,1,0,1,0,0,0,0
+Singapore,Metro,27,Other,Diploma,40000.0,4,232.64,6-12mo,3,Environment,3,4,1,0,3630.0,2,BNPL,1,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,1,0,1,0
+UAE,Metro,18,Male,Bachelor,18969.0,3,109.26,6-12mo,4,Brand image,3,1,1,1,2030.0,4,Cash,9,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+India,Rural,39,Female,Diploma,8165.0,5,67.28,<6mo,3,New tech,4,2,0,0,1303.0,3,CreditEMI,3,0,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,1,0,0
+India,Metro,53,Male,Diploma,38859.0,8,240.65,6-12mo,2,Environment,2,1,1,0,3610.0,1,CreditEMI,3,0,0,0,1,1,1,0,1,0,1,0,0,0,1,1,1,0,0,1
+India,Metro,25,Female,Secondary,11172.0,5,94.82,6-12mo,3,New tech,3,3,1,1,1336.0,3,StoreFinance,5,0,0,0,1,0,0,0,0,1,0,0,1,1,1,0,1,0,1,1
+India,Metro,23,Female,Diploma,13563.0,4,74.1,6-12mo,3,Environment,2,3,1,0,1570.0,5,Cash,5,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0
+India,Metro,34,Male,Diploma,23895.0,3,139.18,6-12mo,3,Lower bills,3,4,1,0,2335.0,1,BNPL,7,1,0,1,0,0,0,0,0,1,1,1,0,0,1,1,0,0,0,1
+Singapore,Metro,26,Male,Postgrad,60032.0,4,321.55,>2yr,3,New tech,4,4,1,1,5494.0,1,CreditEMI,3,0,0,0,1,0,0,0,0,1,1,0,1,1,0,0,0,0,0,1
+India,Rural,33,Male,Secondary,18077.0,1,83.83,>2yr,3,Lower bills,3,3,0,0,1969.0,1,CreditEMI,5,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0
+India,Tier2,41,Female,Diploma,13433.0,7,92.59,<6mo,3,New tech,3,2,1,0,1624.0,1,StoreFinance,5,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+India,Tier2,18,Female,Bachelor,46062.0,5,251.73,>2yr,4,New tech,4,4,1,0,4217.0,3,CreditEMI,8,0,0,0,1,0,0,1,1,0,0,0,1,1,0,0,0,0,1,1
+India,Metro,29,Female,Diploma,14033.0,4,93.21,1-2yr,3,Lower bills,3,3,1,1,1699.0,3,StoreFinance,6,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1
+India,Tier2,21,Female,Diploma,9010.0,3,40.68,6-12mo,1,Lower bills,4,4,0,0,1065.0,1,Cash,5,0,1,1,0,0,1,1,0,0,1,0,0,1,1,1,0,1,0,0
+India,Metro,40,Male,Diploma,10388.0,2,56.4,>2yr,4,Environment,3,2,1,0,1442.0,5,Cash,3,0,0,0,1,0,1,1,0,0,1,0,0,0,1,1,1,0,0,1
+India,Metro,39,Male,Diploma,16337.0,7,119.46,1-2yr,3,Brand image,1,3,1,0,1827.0,4,StoreFinance,5,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1
+India,Metro,51,Female,Bachelor,19067.0,8,135.81,6-12mo,2,New tech,1,1,0,1,1974.0,2,Cash,6,1,1,1,0,0,1,0,0,0,1,1,1,0,0,0,0,1,0,0
+Singapore,Metro,29,Male,Postgrad,35148.0,4,184.34,>2yr,3,Environment,4,2,1,1,3465.0,2,Cash,3,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0
+India,Tier2,40,Male,Diploma,14980.0,4,107.62,6-12mo,4,Lower bills,3,1,0,1,1669.0,4,StoreFinance,8,0,0,0,1,0,0,0,0,1,0,0,0,1,0,1,1,0,1,0
+India,Tier2,29,Male,Secondary,11575.0,4,83.03,6-12mo,3,Lower bills,1,1,0,1,1470.0,2,CreditEMI,5,0,0,0,1,0,0,0,1,0,0,0,1,0,1,1,0,1,1,0
+India,Tier2,22,Female,Bachelor,4881.0,5,49.54,>2yr,4,Environment,4,3,0,0,1016.0,4,CreditEMI,6,0,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0,1,0,0
+India,Tier2,31,Male,Diploma,5488.0,4,50.45,1-2yr,4,Lower bills,2,2,0,0,998.0,4,StoreFinance,3,0,0,0,1,1,0,1,0,0,1,0,0,0,0,1,0,1,0,0
+Singapore,Metro,37,Female,Secondary,134346.0,5,704.06,6-12mo,3,Govt rebate,4,4,1,2,11408.0,2,CreditEMI,1,1,1,1,0,0,0,1,1,0,0,1,0,0,1,0,1,0,0,0
+Singapore,Metro,50,Male,Diploma,86578.0,4,456.39,6-12mo,2,Lower bills,5,3,1,1,17067.982592990975,2,Cash,4,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+UAE,Metro,33,Female,Bachelor,26536.0,3,155.1,>2yr,3,Environment,4,3,1,0,2599.0,3,StoreFinance,8,0,0,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,1,0
+UAE,Metro,23,Male,Secondary,28654.0,6,170.17,6-12mo,3,Brand image,3,1,1,1,2896.0,3,StoreFinance,2,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,0,0,0,1
+India,Metro,41,Female,Secondary,19588.0,7,147.88,1-2yr,5,Environment,1,4,1,2,2230.0,4,BNPL,6,0,0,0,1,0,0,0,1,0,1,1,0,0,1,0,0,0,1,0
+India,Metro,25,Male,Bachelor,25972.0,2,145.37,>2yr,3,Environment,5,3,0,1,2606.0,5,BNPL,6,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0
+UAE,Metro,18,Male,Secondary,43554.0,5,245.19,>2yr,4,Lower bills,4,4,1,1,4129.0,4,Cash,4,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0,1,0,1,0
+UAE,Metro,36,Male,Bachelor,34883.0,1,171.75,1-2yr,4,Lower bills,2,3,0,1,3314.0,5,Cash,9,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0
+India,Metro,45,Male,Diploma,4162.0,4,42.53,1-2yr,1,Lower bills,2,3,1,0,605.0,2,Cash,9,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0
+Singapore,Metro,42,Male,Postgrad,39826.0,5,224.56,>2yr,3,Environment,4,2,1,1,3693.0,2,BNPL,6,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0
+Singapore,Metro,35,Female,Bachelor,97246.0,3,493.59,1-2yr,4,Lower bills,2,4,0,0,8447.0,5,Cash,3,1,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,1,0
+India,Metro,24,Male,Bachelor,15396.0,3,93.85,1-2yr,2,Lower bills,2,5,1,0,1773.0,3,StoreFinance,4,0,1,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,1
+India,Metro,40,Male,Bachelor,13675.0,6,101.08,6-12mo,2,Environment,2,4,1,0,1441.0,2,Cash,5,0,0,0,1,0,1,0,0,0,1,0,0,0,1,1,0,0,0,1
+India,Metro,41,Female,Secondary,38951.0,3,217.89,1-2yr,5,Govt rebate,4,2,0,2,3685.0,5,BNPL,3,0,0,1,0,0,1,0,0,0,1,0,0,0,1,1,0,0,0,0
+UAE,Metro,19,Female,Bachelor,75814.0,4,394.64,6-12mo,3,Environment,3,2,1,2,6400.0,2,Cash,5,0,0,0,1,0,1,0,1,0,1,0,0,0,1,1,0,0,0,1
+India,Metro,43,Female,Secondary,4656.0,4,28.66,6-12mo,1,Lower bills,3,2,0,0,903.0,2,StoreFinance,8,0,0,0,1,0,0,0,0,1,1,0,0,0,0,1,1,1,0,0
+India,Metro,31,Female,Bachelor,13819.0,4,64.69,1-2yr,4,Environment,2,1,1,1,1642.0,5,Cash,9,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,1,0
+India,Tier2,23,Female,Diploma,10984.0,2,65.09,6-12mo,3,Govt rebate,2,3,1,0,1382.0,4,CreditEMI,3,0,0,0,1,1,0,1,0,0,0,0,1,0,0,1,0,0,0,1
+India,Tier2,40,Female,Bachelor,24740.0,2,143.57,1-2yr,3,Lower bills,4,4,0,0,2524.0,4,StoreFinance,2,0,0,0,1,1,0,1,1,0,0,0,1,0,0,1,1,1,0,0
+Singapore,Metro,35,Female,Bachelor,20844.0,3,127.46,<6mo,3,Lower bills,4,1,1,1,2302.0,4,Cash,1,0,0,0,1,0,0,0,0,1,0,0,1,1,0,1,1,0,0,0
+India,Metro,37,Female,Bachelor,16779.0,3,92.19,<6mo,3,Lower bills,4,2,1,1,1791.0,2,Cash,4,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,1
+Singapore,Metro,53,Male,Diploma,20193.0,4,148.97,>2yr,3,Lower bills,3,4,0,1,2167.0,2,CreditEMI,4,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+India,Tier2,23,Male,Diploma,13267.0,4,91.97,>2yr,3,Environment,5,5,1,2,1455.0,5,Cash,6,0,1,1,0,0,0,0,0,1,1,0,0,1,0,1,0,0,0,0
+Singapore,Metro,40,Female,Bachelor,56206.0,4,292.68,1-2yr,3,Lower bills,2,5,1,0,4996.0,2,BNPL,2,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0
+India,Rural,34,Male,Bachelor,10977.0,4,80.28,>2yr,2,Lower bills,3,3,1,1,1358.0,1,Cash,5,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+India,Metro,37,Male,Bachelor,14301.0,2,84.23,6-12mo,1,Environment,5,3,0,0,1727.0,1,CreditEMI,7,1,0,1,0,1,1,0,1,0,1,0,0,0,0,0,0,0,1,0
+UAE,Metro,24,Female,Postgrad,64839.0,2,336.63,>2yr,2,Lower bills,3,2,0,0,5718.0,2,BNPL,3,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,1,0,1
+UAE,Metro,18,Male,Bachelor,39918.0,3,214.41,1-2yr,4,Brand image,4,2,1,0,3727.0,4,BNPL,5,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1
+Singapore,Metro,18,Male,Postgrad,24549.0,4,175.41,1-2yr,3,New tech,3,4,0,0,2497.0,2,Cash,3,0,0,0,1,1,0,0,0,0,0,0,1,0,1,1,0,0,0,1
+Singapore,Metro,30,Male,Postgrad,23466.0,6,151.41,<6mo,3,Brand image,3,3,1,0,2373.0,3,StoreFinance,1,0,0,0,1,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0
+Singapore,Metro,20,Male,Bachelor,36027.0,2,185.83,1-2yr,4,Lower bills,3,3,0,0,3341.0,4,CreditEMI,2,0,0,0,1,1,1,0,0,0,0,0,0,0,1,1,0,1,1,0
+UAE,Metro,18,Female,Bachelor,55734.0,6,305.3,6-12mo,5,Lower bills,3,4,1,1,5201.0,5,StoreFinance,2,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0,1,0,1,0
+India,Metro,30,Female,Diploma,11601.0,4,81.53,1-2yr,4,Environment,4,4,0,2,1387.0,3,CreditEMI,4,0,0,0,1,0,0,0,0,1,1,0,1,0,1,1,0,0,0,0
+India,Rural,25,Male,Bachelor,8762.0,5,67.27,1-2yr,4,Lower bills,2,2,0,1,1248.0,3,Cash,5,0,0,0,1,0,1,0,0,0,0,1,1,0,0,0,0,1,1,0
+India,Tier2,31,Female,Bachelor,12694.0,4,74.17,>2yr,4,Environment,3,1,1,0,1658.0,5,Cash,5,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,1,1,0,0
+India,Tier2,25,Male,Postgrad,17521.0,3,106.66,6-12mo,4,Environment,2,3,1,1,2014.0,4,StoreFinance,6,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,0,1,0,1
+UAE,Metro,28,Female,Bachelor,26909.0,1,124.93,6-12mo,4,Environment,2,2,1,0,2675.0,3,CreditEMI,6,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,1,1,0,1
+India,Metro,26,Male,Bachelor,15949.0,3,97.81,>2yr,1,Lower bills,4,2,1,0,1807.0,1,CreditEMI,3,0,0,0,1,0,0,0,0,1,0,0,1,0,1,0,0,1,1,0
+India,Metro,29,Female,Secondary,26150.0,2,139.81,>2yr,4,Environment,3,2,0,0,2514.0,5,Cash,4,0,0,0,1,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0
+India,Tier2,18,Male,Secondary,27718.0,4,158.32,6-12mo,4,Govt rebate,2,2,0,1,2866.0,3,CreditEMI,5,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0,0,0,1,1
+UAE,Metro,31,Female,Postgrad,45524.0,4,254.81,>2yr,3,Environment,4,1,0,0,4329.0,2,StoreFinance,3,1,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0
+UAE,Tier2,24,Male,Postgrad,48061.0,4,259.34,6-12mo,4,Lower bills,4,4,1,0,4352.0,3,CreditEMI,9,0,0,0,1,0,0,0,1,0,1,1,0,0,0,1,1,0,0,0
+India,Metro,20,Male,Secondary,6044.0,5,58.54,1-2yr,2,Environment,3,4,1,1,1031.0,3,StoreFinance,7,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+India,Metro,26,Female,Bachelor,18120.0,1,85.7,1-2yr,4,Lower bills,4,4,1,1,2090.0,3,CreditEMI,7,0,0,0,1,0,0,0,0,1,0,0,1,0,0,1,0,0,0,1
+India,Tier2,41,Male,Diploma,23669.0,3,135.82,6-12mo,1,Environment,4,1,1,0,2551.0,1,StoreFinance,1,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,1,1,0,0
+UAE,Metro,31,Female,Secondary,28401.0,7,173.11,1-2yr,3,Lower bills,4,3,0,1,2686.0,4,BNPL,7,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0
+Singapore,Metro,35,Male,Postgrad,66111.0,1,319.12,1-2yr,5,Environment,4,2,1,2,5825.0,5,CreditEMI,4,1,0,1,0,0,0,0,0,1,0,1,1,0,0,0,0,1,0,1
+India,Metro,37,Male,Secondary,28016.0,2,155.18,>2yr,5,Lower bills,3,3,1,2,2891.0,5,Cash,4,1,0,0,0,0,0,0,0,1,0,1,0,0,1,1,0,0,0,0
+Singapore,Metro,46,Male,Diploma,16752.0,3,100.25,>2yr,4,New tech,3,2,1,0,2031.0,3,Cash,9,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,1
+Singapore,Metro,38,Female,Postgrad,87746.0,3,461.18,1-2yr,3,Environment,1,3,1,1,21053.306431818473,4,CreditEMI,5,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1
+India,Metro,52,Female,Postgrad,16541.0,7,104.87,1-2yr,3,Govt rebate,3,3,0,1,1860.0,4,CreditEMI,6,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,0,1,0
+UAE,Metro,34,Male,Postgrad,45195.0,4,224.79,1-2yr,3,Lower bills,3,2,1,1,4296.0,2,StoreFinance,8,0,0,0,1,0,0,0,0,1,0,0,1,1,1,1,0,0,0,0
+UAE,Metro,56,Female,Diploma,31343.0,4,181.44,1-2yr,5,Lower bills,2,3,1,0,3425.0,5,CreditEMI,6,0,0,0,1,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0
+India,Tier2,40,Male,Bachelor,22299.0,3,131.1,6-12mo,4,Lower bills,3,2,1,1,2394.0,3,BNPL,6,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0
+UAE,Metro,41,Female,Diploma,34602.0,2,169.17,>2yr,3,New tech,4,2,1,2,3260.0,4,CreditEMI,2,0,0,0,1,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0
+Singapore,Metro,44,Female,Secondary,38271.0,4,215.93,6-12mo,3,Govt rebate,2,3,0,1,3673.0,1,CreditEMI,2,0,0,0,1,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0
+India,Metro,35,Male,Secondary,18725.0,3,86.46,>2yr,5,Environment,3,3,0,0,1972.0,5,StoreFinance,7,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+Singapore,Metro,41,Male,Postgrad,16752.0,3,88.54,<6mo,4,Lower bills,2,2,1,1,1952.0,4,Cash,1,0,0,0,1,0,0,0,1,0,1,1,0,1,0,1,0,0,0,0
+India,Metro,42,Male,Diploma,12386.0,4,88.76,1-2yr,4,Lower bills,3,3,0,0,1666.0,4,Cash,5,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,1,0,0,1
+UAE,Metro,36,Male,Postgrad,15370.0,4,89.17,1-2yr,3,Brand image,1,4,1,0,1730.0,5,Cash,6,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,1
+India,Metro,45,Other,Secondary,4297.0,5,64.03,>2yr,4,Environment,2,3,0,0,1046.0,3,Cash,8,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,1,1
+India,Tier2,35,Male,Diploma,26173.0,5,158.18,<6mo,1,Lower bills,4,5,0,0,2679.0,2,CreditEMI,7,0,0,0,1,1,1,1,0,0,0,0,0,0,1,1,0,0,0,0
+India,Metro,31,Male,Secondary,6830.0,4,49.59,<6mo,2,Brand image,3,2,1,0,1088.0,1,StoreFinance,4,1,1,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,1,1
+UAE,Metro,28,Male,Bachelor,64445.0,5,356.89,<6mo,3,Govt rebate,3,3,0,0,5663.0,3,StoreFinance,3,1,1,1,0,1,1,1,0,0,0,0,1,0,1,0,0,0,1,0
+India,Tier2,42,Female,Secondary,15892.0,4,115.73,>2yr,4,Brand image,4,4,1,1,1844.0,2,StoreFinance,4,0,0,0,1,0,1,1,1,0,1,0,1,0,0,0,1,0,1,1
+India,Metro,40,Male,Diploma,6324.0,5,69.51,6-12mo,3,Lower bills,2,3,1,0,1071.0,3,StoreFinance,2,0,0,0,1,0,1,1,0,0,0,0,1,1,0,0,0,1,1,0
+Singapore,Metro,23,Male,Postgrad,22101.0,5,117.33,<6mo,3,New tech,1,4,0,0,2310.0,2,Cash,4,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1
+India,Tier2,26,Other,Diploma,27361.0,5,158.09,6-12mo,4,Lower bills,4,3,0,2,2887.0,3,Cash,6,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0
+UAE,Metro,25,Female,Postgrad,55228.0,3,283.1,1-2yr,5,Govt rebate,2,4,0,0,5137.0,5,CreditEMI,7,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0
+India,Tier2,46,Male,Bachelor,18491.0,1,114.7,1-2yr,4,Lower bills,3,1,1,1,1995.0,4,Cash,4,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,1,0
+India,Metro,47,Male,Secondary,20680.0,3,122.55,>2yr,2,Lower bills,3,3,1,2,2139.0,3,CreditEMI,5,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0
+India,Metro,36,Male,Secondary,21924.0,3,109.97,<6mo,4,Lower bills,2,3,1,0,2237.0,5,Cash,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1
+India,Tier2,27,Female,Secondary,22228.0,6,140.03,6-12mo,4,Brand image,2,2,1,1,2369.0,2,CreditEMI,6,1,0,0,0,0,0,0,1,0,1,0,0,1,1,0,1,0,0,0
+India,Metro,37,Male,Bachelor,15649.0,8,112.83,1-2yr,5,Environment,2,2,1,1,1884.0,5,CreditEMI,6,1,1,1,0,1,0,1,1,0,1,0,0,0,0,0,0,0,1,1
+Singapore,Metro,49,Male,Bachelor,30050.0,1,140.28,>2yr,2,Lower bills,5,3,1,0,2840.0,3,BNPL,4,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,1,1,0,0
+UAE,Metro,33,Male,Bachelor,20791.0,2,107.98,>2yr,3,Lower bills,3,3,0,0,2111.0,4,Cash,4,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0,1,0,0
+India,Rural,39,Female,Bachelor,30143.0,3,174.46,<6mo,2,Environment,4,4,1,2,3006.0,2,StoreFinance,3,0,0,0,1,0,0,1,0,0,0,1,1,0,0,0,1,1,0,0
+India,Metro,26,Female,Diploma,16928.0,3,116.7,1-2yr,5,Govt rebate,3,3,1,1,2056.0,5,BNPL,3,0,0,0,1,1,1,1,0,0,1,0,0,0,1,0,0,1,0,0
+UAE,Metro,22,Female,Bachelor,50277.0,3,277.88,1-2yr,3,Environment,3,1,1,1,4614.0,5,CreditEMI,5,1,1,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0,0,0
+UAE,Metro,36,Male,Postgrad,39579.0,4,216.37,1-2yr,4,Lower bills,4,4,1,0,3637.0,3,Cash,7,0,0,0,1,1,0,0,0,0,1,0,1,0,0,0,0,0,1,1
+UAE,Metro,34,Female,Bachelor,43329.0,3,233.31,6-12mo,3,Environment,4,3,1,2,4052.0,1,CreditEMI,8,1,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,1
+India,Metro,36,Female,Diploma,19042.0,2,99.37,>2yr,2,Environment,3,2,1,0,2024.0,3,StoreFinance,4,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1
+India,Metro,18,Male,Bachelor,9702.0,1,51.54,1-2yr,2,Environment,4,3,1,0,1289.0,2,CreditEMI,2,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,1,1,1,0
+India,Metro,44,Female,Secondary,18202.0,5,126.44,<6mo,3,Brand image,3,4,0,0,1978.0,3,Cash,5,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0
+UAE,Metro,42,Female,Bachelor,19435.0,5,100.57,<6mo,4,New tech,4,2,1,1,2218.0,3,BNPL,5,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,1
+India,Rural,50,Female,Bachelor,4717.0,5,43.34,>2yr,4,Brand image,3,3,1,2,1039.0,4,Cash,7,0,0,0,1,0,1,0,1,0,1,0,1,0,0,1,1,0,0,0
+India,Rural,36,Female,Secondary,6216.0,5,72.34,>2yr,3,Govt rebate,2,3,0,0,1145.0,3,StoreFinance,5,0,0,0,1,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0
+UAE,Metro,44,Female,Postgrad,55905.0,2,289.28,6-12mo,2,Environment,3,3,1,0,13293.52331708866,4,Cash,6,0,0,0,1,0,1,1,1,0,0,0,1,0,0,0,0,1,1,0
+India,Tier2,18,Male,Bachelor,15119.0,3,73.59,>2yr,3,Brand image,3,1,1,1,1756.0,2,BNPL,4,0,0,0,1,0,1,1,0,0,1,0,0,0,1,0,1,1,0,1
+India,Tier2,32,Male,Secondary,10894.0,6,88.56,<6mo,3,Lower bills,4,3,1,1,5556.002934063145,3,BNPL,3,0,0,0,1,0,0,0,1,0,0,1,0,1,1,1,1,0,0,0
+UAE,Metro,33,Male,Bachelor,20903.0,4,120.69,>2yr,3,New tech,3,3,0,0,2071.0,4,CreditEMI,3,0,0,0,1,0,1,0,1,0,0,0,1,0,1,0,0,1,0,0
+India,Metro,18,Male,Secondary,24685.0,1,111.28,<6mo,2,Lower bills,2,4,1,1,2271.0,2,CreditEMI,8,0,0,0,1,1,0,1,1,0,1,1,0,0,0,1,0,0,0,0
+India,Metro,34,Male,Bachelor,3504.0,2,19.41,1-2yr,3,Lower bills,2,3,0,0,662.0,4,CreditEMI,4,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1
+India,Tier2,34,Male,Bachelor,14086.0,7,106.18,>2yr,4,Lower bills,4,3,1,2,1800.0,4,Cash,2,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0
+India,Tier2,35,Female,Bachelor,22568.0,4,133.07,>2yr,2,Environment,5,4,1,2,2278.0,3,StoreFinance,2,0,1,1,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,1
+UAE,Metro,47,Male,Postgrad,70324.0,2,357.5,1-2yr,3,Environment,2,2,1,1,6147.0,3,Cash,4,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0
+Singapore,Metro,27,Male,Diploma,40537.0,3,218.91,1-2yr,5,Environment,3,4,0,2,3816.0,4,CreditEMI,3,1,1,1,0,0,0,0,0,1,0,1,0,0,1,1,0,0,0,0
+India,Tier2,24,Female,Diploma,15314.0,3,98.24,1-2yr,5,Brand image,2,3,1,1,1748.0,5,CreditEMI,6,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0
+India,Metro,28,Male,Bachelor,10585.0,4,80.07,1-2yr,4,Lower bills,3,3,1,1,1591.0,5,BNPL,5,0,0,0,1,0,1,0,1,0,1,0,0,0,1,0,1,1,0,0
+India,Rural,30,Male,Bachelor,12162.0,5,83.79,1-2yr,4,Lower bills,3,2,1,2,1658.0,3,CreditEMI,7,0,0,0,1,0,1,0,1,0,0,0,0,1,1,0,0,1,1,1
+India,Rural,33,Male,Diploma,12037.0,2,71.48,6-12mo,5,New tech,3,3,0,2,1817.0,5,Cash,2,0,0,0,1,0,1,0,0,0,0,1,1,1,0,1,0,0,0,0
+UAE,Metro,38,Male,Bachelor,29885.0,7,193.23,6-12mo,4,New tech,3,3,1,0,2974.0,5,BNPL,5,1,1,0,0,1,1,0,1,0,1,1,0,0,1,0,0,1,1,0
+India,Metro,28,Female,Secondary,6702.0,6,64.68,<6mo,3,Environment,3,1,1,2,1163.0,1,CreditEMI,6,0,0,0,1,1,0,1,0,0,1,0,0,0,0,1,0,1,0,1
+India,Rural,47,Male,Bachelor,6945.0,1,59.09,6-12mo,4,Govt rebate,2,2,1,0,1314.0,4,CreditEMI,5,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+India,Tier2,40,Male,Secondary,7685.0,4,59.94,>2yr,3,Lower bills,3,2,1,1,1085.0,3,CreditEMI,7,0,0,0,1,0,1,0,0,0,0,1,1,0,0,0,0,1,0,0
+India,Metro,46,Male,Diploma,6756.0,6,61.82,1-2yr,5,New tech,3,3,1,2,1248.0,5,Cash,5,0,0,0,1,0,0,1,0,0,1,1,0,1,0,0,1,0,1,0
+India,Metro,53,Female,Secondary,27545.0,5,167.61,1-2yr,4,Environment,3,5,0,2,2558.0,4,Cash,3,0,0,0,1,1,1,0,1,0,0,0,1,0,0,0,1,0,0,0
+India,Tier2,34,Female,Secondary,25727.0,5,146.85,1-2yr,4,New tech,4,3,0,1,2824.0,4,Cash,3,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,1,1,1,0
+India,Metro,38,Female,Secondary,5440.0,2,33.47,>2yr,4,Environment,2,1,1,1,962.0,2,Cash,3,0,0,0,1,0,1,0,1,0,1,1,0,0,0,0,0,1,0,1
+Singapore,Metro,36,Female,Bachelor,19793.0,6,109.22,<6mo,1,Environment,2,3,1,0,2215.0,2,BNPL,4,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0
+India,Tier2,25,Female,Secondary,23005.0,7,161.32,>2yr,5,Lower bills,3,4,1,1,2364.0,4,CreditEMI,6,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,0,1,0,1
+UAE,Metro,31,Female,Bachelor,38423.0,5,213.63,1-2yr,2,Lower bills,2,2,0,1,3587.0,2,BNPL,5,0,0,0,1,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0
+India,Tier2,39,Male,Bachelor,28398.0,2,159.46,1-2yr,3,New tech,3,3,0,1,2954.0,3,Cash,5,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,1,0,0,1
+India,Metro,43,Female,Postgrad,12503.0,3,69.53,<6mo,4,Lower bills,4,1,1,2,1602.0,3,Cash,6,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0
+Singapore,Metro,28,Female,Postgrad,28323.0,6,154.0,1-2yr,2,Govt rebate,3,3,1,0,2842.0,1,CreditEMI,6,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,1,1,0,1
+India,Metro,42,Male,Secondary,12354.0,3,71.95,>2yr,3,New tech,2,3,1,0,1449.0,2,Cash,5,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,1,1,1
+India,Metro,33,Male,Diploma,33614.0,2,166.75,1-2yr,3,Environment,3,2,0,1,3330.0,3,StoreFinance,1,1,1,1,0,0,0,0,1,0,1,1,0,1,0,0,0,0,1,1
+India,Metro,38,Male,Secondary,10036.0,4,75.27,6-12mo,3,Lower bills,2,1,0,1,1301.0,3,CreditEMI,5,0,0,0,1,0,0,1,0,0,0,1,1,0,1,0,1,1,0,0
+India,Metro,29,Male,Bachelor,76695.0,3,407.5,6-12mo,2,Brand image,4,2,0,1,6688.0,2,BNPL,6,0,0,0,1,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+Singapore,Metro,40,Other,Postgrad,43064.0,2,218.13,<6mo,1,Govt rebate,3,1,0,2,3979.0,1,StoreFinance,3,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,1,0,0,1
+Singapore,Metro,39,Female,Postgrad,19427.0,5,114.96,6-12mo,4,Lower bills,2,3,0,0,2274.0,4,CreditEMI,4,0,0,0,1,0,1,0,1,0,1,1,0,0,0,1,1,0,0,0
+India,Metro,50,Female,Diploma,15379.0,3,106.12,<6mo,3,Environment,2,3,1,1,2039.0,2,Cash,6,0,0,0,1,0,1,1,1,0,1,0,0,0,1,1,0,0,0,1
+UAE,Metro,53,Female,Bachelor,48545.0,6,273.78,<6mo,1,New tech,3,3,1,0,4515.0,3,Cash,6,0,0,0,1,1,1,1,0,0,1,1,0,0,0,0,1,0,0,0
+UAE,Metro,25,Male,Bachelor,18497.0,2,106.62,>2yr,1,Brand image,1,4,0,0,1865.0,2,Cash,6,0,0,0,1,0,0,0,1,0,1,0,1,1,0,0,1,0,1,1
+India,Metro,27,Male,Bachelor,7071.0,3,47.84,1-2yr,1,Environment,2,1,0,0,968.0,1,CreditEMI,5,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0
+UAE,Metro,18,Male,Bachelor,29137.0,4,159.89,>2yr,3,Lower bills,2,3,0,0,2910.0,3,StoreFinance,4,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,0,0,1,0
+India,Metro,43,Male,Bachelor,10181.0,5,81.29,<6mo,3,Environment,4,4,0,1,1313.0,5,StoreFinance,3,0,0,0,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,0
+India,Metro,39,Male,Bachelor,14338.0,4,103.72,6-12mo,3,Lower bills,3,1,1,2,2005.0,2,Cash,4,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,1,1,0,0
+UAE,Metro,47,Female,Postgrad,26937.0,6,158.74,1-2yr,3,New tech,4,2,1,1,2722.0,2,Cash,5,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0
+India,Metro,18,Male,Bachelor,9656.0,4,60.45,<6mo,2,Environment,3,4,0,0,1437.0,3,CreditEMI,1,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1
+UAE,Metro,36,Male,Bachelor,27949.0,3,149.22,>2yr,3,Lower bills,4,3,1,1,2785.0,3,StoreFinance,4,0,0,0,1,0,1,0,1,0,0,0,1,0,1,0,1,0,1,0
+India,Metro,31,Male,Bachelor,12363.0,3,76.99,1-2yr,2,Lower bills,3,4,0,1,1453.0,2,StoreFinance,4,0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,1,0,0,1
+India,Metro,41,Male,Secondary,5398.0,4,33.95,6-12mo,3,Brand image,4,2,0,1,1096.0,3,CreditEMI,2,1,0,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,0
+UAE,Metro,38,Female,Bachelor,30403.0,4,158.36,>2yr,4,Environment,3,3,1,2,3190.0,4,CreditEMI,5,0,0,0,1,0,1,1,0,0,0,1,0,1,0,0,0,0,1,0
+India,Rural,47,Female,Secondary,11681.0,4,76.05,>2yr,2,Govt rebate,4,3,0,0,1434.0,5,CreditEMI,3,0,0,0,1,0,1,0,1,0,0,1,0,0,1,0,1,0,0,1
+India,Metro,21,Female,Postgrad,18007.0,4,107.84,1-2yr,4,New tech,3,3,1,1,2108.0,4,StoreFinance,6,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,1,0,0,1
+India,Tier2,33,Male,Bachelor,13035.0,7,98.64,6-12mo,4,Lower bills,3,3,0,1,1545.0,3,StoreFinance,3,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1
+Singapore,Metro,33,Female,Bachelor,19720.0,5,123.73,6-12mo,4,Lower bills,3,3,1,2,2076.0,4,CreditEMI,4,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1,0
+India,Rural,44,Male,Bachelor,12861.0,4,81.34,6-12mo,3,Govt rebate,3,1,1,1,1561.0,4,CreditEMI,7,0,0,0,1,0,1,0,0,0,1,1,0,0,1,1,0,1,1,0
+Singapore,Metro,34,Male,Bachelor,40275.0,6,225.07,>2yr,1,Lower bills,2,3,1,0,3688.0,1,Cash,2,0,0,0,1,0,1,0,0,0,0,1,0,1,1,0,0,1,0,0
+India,Tier2,48,Male,Postgrad,11928.0,5,86.24,1-2yr,2,Environment,3,5,1,0,1632.0,1,StoreFinance,8,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1
+India,Tier2,36,Male,Diploma,17919.0,2,98.63,6-12mo,2,Lower bills,3,4,1,0,1971.0,1,Cash,9,0,0,0,1,0,1,1,0,0,0,1,0,1,0,0,0,1,0,1
+India,Metro,37,Other,Bachelor,9911.0,4,76.13,6-12mo,3,Environment,3,1,0,1,1346.0,3,CreditEMI,6,1,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0
+UAE,Metro,43,Male,Bachelor,16225.0,4,112.32,1-2yr,4,Environment,2,3,0,2,1799.0,5,Cash,6,0,0,0,1,1,0,1,1,0,0,1,0,0,0,0,1,0,1,0
+India,Tier2,31,Male,Bachelor,11175.0,4,82.7,<6mo,3,Environment,4,1,1,2,1252.0,4,StoreFinance,1,0,0,0,1,0,0,1,0,0,0,1,1,0,1,0,0,1,1,0
+India,Tier2,40,Female,Bachelor,7832.0,7,73.33,>2yr,3,Lower bills,3,4,1,1,1182.0,3,BNPL,3,0,0,0,1,0,0,0,0,1,1,1,0,1,0,0,0,0,1,1
+UAE,Metro,31,Male,Bachelor,28844.0,6,165.97,<6mo,3,Lower bills,2,4,1,0,2694.0,2,CreditEMI,6,0,1,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,1,0
+India,Metro,33,Male,Diploma,6516.0,8,80.71,1-2yr,4,Lower bills,2,4,1,0,1080.0,4,CreditEMI,4,0,0,0,1,1,1,0,0,0,0,0,1,0,0,1,1,0,1,0
+India,Tier2,18,Female,Diploma,11559.0,5,77.69,1-2yr,3,Brand image,4,3,1,2,1454.0,2,Cash,8,0,0,0,1,0,1,0,1,0,0,1,0,0,1,0,0,1,0,1
+India,Tier2,37,Male,Bachelor,26104.0,2,130.78,>2yr,3,Lower bills,2,2,1,1,2655.0,3,Cash,4,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,1,1,1,0
+India,Tier2,32,Female,Secondary,12463.0,5,73.55,1-2yr,2,Environment,3,3,1,0,1556.0,1,Cash,6,0,0,0,1,1,0,0,0,0,0,1,0,0,0,1,1,0,0,0
+India,Metro,44,Male,Diploma,7796.0,4,60.21,6-12mo,1,New tech,3,2,0,1,925.0,1,BNPL,2,0,0,0,1,1,0,0,1,0,1,0,0,0,1,0,1,0,0,0
+UAE,Metro,52,Male,Bachelor,41488.0,4,223.54,>2yr,2,Environment,4,3,0,0,3812.0,3,Cash,4,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,1,0,1,0
+India,Tier2,37,Male,Diploma,6525.0,4,51.8,>2yr,3,Environment,3,2,0,1,919.0,3,StoreFinance,2,0,0,0,1,1,1,1,0,0,0,0,1,0,0,1,1,0,0,0
+India,Tier2,41,Female,Diploma,12884.0,4,85.83,1-2yr,2,Lower bills,4,3,0,0,1499.0,3,CreditEMI,6,0,0,0,1,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0
+India,Tier2,33,Female,Secondary,37763.0,1,189.36,1-2yr,4,Lower bills,4,4,0,1,3621.0,4,Cash,2,0,0,0,1,0,1,0,0,0,0,0,1,1,1,0,0,0,0,1
+UAE,Metro,32,Male,Postgrad,26000.0,3,143.11,6-12mo,3,Environment,5,3,0,1,2545.0,3,CreditEMI,7,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1,1,1,0,0
+India,Rural,32,Male,Bachelor,7171.0,7,81.29,1-2yr,3,Lower bills,3,3,0,0,1249.0,3,StoreFinance,1,0,0,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,1
+UAE,Metro,35,Female,Postgrad,33234.0,4,182.73,<6mo,4,Environment,3,3,1,2,8736.08507760651,4,Cash,6,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0
+Singapore,Metro,41,Female,Postgrad,23961.0,4,140.16,<6mo,2,Brand image,4,3,1,0,2477.0,3,CreditEMI,3,0,0,0,1,0,1,0,0,0,0,1,1,1,0,0,0,0,0,1
+UAE,Metro,52,Female,Bachelor,33217.0,2,161.6,>2yr,5,Environment,3,2,1,1,3302.0,5,Cash,7,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,1,1,1,0
+Singapore,Metro,46,Male,Bachelor,49577.0,4,269.16,1-2yr,2,Brand image,3,2,1,1,4369.0,1,Cash,5,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0
+India,Metro,36,Male,Bachelor,9715.0,5,80.78,>2yr,4,Lower bills,3,2,1,1,1259.0,3,Cash,3,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,1,1,1
+India,Metro,37,Female,Postgrad,47812.0,2,252.31,1-2yr,5,Environment,1,4,1,1,4477.0,5,StoreFinance,5,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,1,0,1,1
+India,Metro,18,Female,Secondary,25122.0,5,156.83,1-2yr,5,Govt rebate,4,4,1,2,2571.0,5,CreditEMI,5,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1
+UAE,Metro,51,Female,Diploma,34720.0,6,197.88,>2yr,3,Lower bills,4,2,1,2,3228.0,4,CreditEMI,5,0,0,0,1,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0
+India,Metro,56,Male,Bachelor,6487.0,5,44.03,1-2yr,4,Lower bills,2,5,1,2,1231.0,5,CreditEMI,4,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,0,0,0,1
+India,Metro,37,Male,Diploma,8750.0,6,79.85,<6mo,3,Lower bills,3,3,1,1,1289.0,4,StoreFinance,4,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+UAE,Metro,37,Male,Diploma,7870.0,6,60.05,6-12mo,4,Brand image,2,3,1,0,1205.0,4,BNPL,8,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0
+India,Metro,18,Female,Bachelor,10613.0,5,77.72,6-12mo,4,New tech,4,3,1,0,1254.0,4,StoreFinance,5,0,0,0,1,1,1,0,0,0,0,1,1,0,1,0,0,1,1,1
+India,Metro,31,Female,Bachelor,24859.0,8,177.7,>2yr,3,New tech,3,3,1,0,2685.0,3,CreditEMI,2,0,0,0,1,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0
+India,Metro,27,Female,Bachelor,13786.0,4,88.88,>2yr,2,Environment,3,3,1,0,1561.0,2,StoreFinance,7,0,0,0,1,0,0,1,0,0,0,1,1,0,1,1,0,0,0,0
+India,Rural,27,Male,Diploma,47566.0,1,253.24,6-12mo,4,Environment,2,4,1,1,4453.0,4,BNPL,9,0,0,0,1,1,0,1,0,0,0,0,0,0,1,1,0,1,1,0
+India,Tier2,30,Male,Secondary,20126.0,3,86.39,>2yr,3,Lower bills,4,2,0,0,2243.0,3,Cash,4,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,1
+UAE,Metro,34,Female,Bachelor,43508.0,2,227.49,1-2yr,4,Environment,2,2,1,0,4025.0,3,CreditEMI,2,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0
+India,Metro,45,Female,Secondary,22834.0,4,139.89,<6mo,2,Environment,2,3,0,0,2285.0,3,StoreFinance,3,0,0,0,1,0,0,1,0,0,0,0,1,0,1,1,1,1,0,0
+UAE,Metro,43,Male,Postgrad,24394.0,2,150.83,1-2yr,2,Govt rebate,4,4,0,0,2445.0,4,StoreFinance,7,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0
+Singapore,Metro,34,Female,Postgrad,39005.0,2,208.02,>2yr,4,Lower bills,3,2,0,1,3573.0,5,BNPL,5,0,0,0,1,1,1,0,1,0,1,0,1,1,0,1,0,1,0,1
+UAE,Metro,31,Male,Postgrad,68654.0,3,350.12,1-2yr,1,Environment,4,3,0,1,5807.0,1,StoreFinance,4,0,0,0,1,0,0,0,1,0,1,1,0,1,0,1,0,1,0,0
+India,Tier2,31,Male,Secondary,16371.0,3,91.93,1-2yr,3,New tech,2,4,0,0,1950.0,2,BNPL,5,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0
+Singapore,Tier2,43,Female,Bachelor,20787.0,4,131.21,>2yr,4,Environment,4,3,1,1,2441.0,4,CreditEMI,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+India,Tier2,33,Male,Postgrad,10321.0,3,65.4,>2yr,3,Lower bills,3,4,1,0,1333.0,3,StoreFinance,5,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,1,1
+UAE,Metro,18,Female,Diploma,20875.0,4,128.06,6-12mo,4,Lower bills,2,3,0,1,2332.0,3,CreditEMI,3,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0
+Singapore,Metro,18,Male,Secondary,34073.0,1,174.75,1-2yr,3,Lower bills,3,3,1,1,3387.0,3,Cash,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+India,Metro,40,Male,Bachelor,27103.0,5,149.6,<6mo,1,Govt rebate,3,3,0,0,2495.0,1,BNPL,3,0,0,0,1,0,0,1,0,0,0,0,1,0,1,1,0,0,0,1
+UAE,Metro,39,Female,Postgrad,23524.0,3,137.02,6-12mo,3,Environment,4,4,1,1,2425.0,4,BNPL,4,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0,1,0,1
+India,Metro,27,Male,Postgrad,21531.0,3,134.46,1-2yr,4,New tech,3,4,1,1,2274.0,5,Cash,7,0,0,0,1,0,0,0,0,1,1,0,0,0,0,1,0,1,0,0
+India,Metro,41,Male,Secondary,20848.0,5,139.07,6-12mo,3,New tech,2,4,1,1,2379.0,4,CreditEMI,2,0,0,0,1,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0
+India,Tier2,40,Female,Diploma,9572.0,5,69.18,1-2yr,2,Brand image,3,2,1,1,1250.0,3,Cash,5,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0
+Singapore,Metro,39,Male,Bachelor,15830.0,6,102.78,1-2yr,4,Lower bills,3,5,0,1,1652.0,5,CreditEMI,1,0,0,0,1,0,1,1,0,0,0,1,1,1,0,0,0,1,1,1
+UAE,Metro,38,Female,Bachelor,31163.0,2,156.53,>2yr,4,Lower bills,3,4,0,1,3226.0,5,CreditEMI,4,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,1,1,0,0
+UAE,Metro,45,Female,Diploma,19911.0,4,113.51,>2yr,5,New tech,3,3,1,0,2226.0,5,CreditEMI,6,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,1,0,0,0
+UAE,Metro,30,Female,Postgrad,45099.0,4,239.93,>2yr,3,Brand image,4,3,0,1,4096.0,2,CreditEMI,3,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0
+India,Rural,52,Female,Diploma,6383.0,2,53.88,<6mo,4,New tech,3,2,0,0,1153.0,5,BNPL,3,0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,1,0,0,0
+India,Rural,35,Male,Secondary,20113.0,4,106.54,1-2yr,2,Lower bills,2,3,1,1,1953.0,4,CreditEMI,3,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,1
+India,Tier2,52,Female,Bachelor,19903.0,4,128.37,1-2yr,5,Govt rebate,3,3,1,1,2150.0,4,CreditEMI,5,0,0,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0
+India,Tier2,42,Female,Bachelor,12792.0,6,83.46,>2yr,2,Lower bills,3,2,1,1,1543.0,2,StoreFinance,5,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+UAE,Metro,35,Male,Diploma,136879.0,3,693.4,1-2yr,3,New tech,2,4,0,2,11656.0,3,StoreFinance,6,1,1,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+India,Metro,57,Other,Diploma,22513.0,3,132.49,6-12mo,3,New tech,3,4,1,1,2330.0,5,CreditEMI,7,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0,1,1,1
+Singapore,Metro,30,Female,Diploma,34439.0,2,196.17,1-2yr,2,Environment,4,5,1,1,3204.0,2,BNPL,1,0,0,0,1,0,0,0,0,1,1,0,0,1,1,0,0,1,0,0
+India,Tier2,22,Female,Diploma,21460.0,3,115.84,6-12mo,2,Environment,3,4,1,2,2183.0,2,BNPL,6,0,0,0,1,1,0,0,0,0,1,0,1,0,1,1,0,0,1,0
+India,Metro,40,Male,Bachelor,10671.0,3,54.07,1-2yr,4,Lower bills,4,2,1,2,1439.0,4,CreditEMI,7,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0
+UAE,Metro,31,Female,Secondary,58070.0,5,327.23,1-2yr,3,Govt rebate,4,3,0,0,5242.0,1,CreditEMI,5,0,0,0,1,0,1,1,1,0,0,1,0,1,0,0,0,0,0,1
+India,Rural,32,Female,Bachelor,11307.0,2,50.34,>2yr,4,Environment,3,4,0,1,1597.0,4,Cash,5,0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,1,0,1,0
+India,Metro,30,Male,Bachelor,28343.0,5,165.78,>2yr,5,Environment,1,4,0,1,2886.0,5,CreditEMI,6,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,1
+Singapore,Metro,44,Female,Diploma,25315.0,3,147.52,>2yr,3,New tech,3,3,0,0,2472.0,2,CreditEMI,4,0,0,1,0,0,1,0,0,0,0,0,0,1,1,0,0,1,1,1
+India,Tier2,41,Female,Secondary,5029.0,8,47.0,6-12mo,4,Govt rebate,3,2,1,1,1006.0,2,CreditEMI,4,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,0,1
+India,Metro,35,Male,Diploma,2441.0,2,10.0,1-2yr,5,Lower bills,4,4,1,1,746.0,4,Cash,5,0,0,0,1,1,1,0,1,0,1,0,0,0,0,0,0,0,0,1
+UAE,Rural,18,Female,Diploma,21986.0,6,135.66,>2yr,3,Lower bills,1,4,1,1,2386.0,3,CreditEMI,5,0,0,0,1,0,0,0,0,1,1,1,1,0,0,0,1,1,0,0
+UAE,Metro,46,Female,Postgrad,17551.0,2,104.24,1-2yr,5,Lower bills,5,4,1,1,1959.0,5,StoreFinance,2,0,0,0,1,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1
+UAE,Tier2,38,Female,Bachelor,19955.0,3,129.23,<6mo,5,Govt rebate,3,4,0,1,2414.0,4,Cash,6,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0
+India,Tier2,19,Female,Diploma,10185.0,3,53.44,1-2yr,4,Environment,3,4,0,0,1459.0,4,CreditEMI,6,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0
+India,Tier2,29,Male,Secondary,18648.0,1,102.78,1-2yr,4,Environment,3,3,0,0,2169.0,4,StoreFinance,6,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0
+India,Tier2,27,Male,Secondary,12867.0,3,91.33,1-2yr,3,Environment,3,3,1,0,1446.0,4,Cash,6,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0
+India,Rural,40,Male,Bachelor,10434.0,3,43.98,>2yr,3,Lower bills,4,4,0,1,1309.0,2,CreditEMI,5,0,0,0,1,0,0,1,0,0,0,1,1,1,0,1,0,0,0,0
+Singapore,Metro,23,Female,Postgrad,39979.0,1,215.76,1-2yr,2,Brand image,3,4,0,0,3815.0,2,CreditEMI,3,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,1,0,0,1
+India,Metro,38,Male,Postgrad,11075.0,8,94.23,>2yr,1,Lower bills,3,3,1,1,4228.2883844573025,1,CreditEMI,4,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0
+India,Tier2,36,Male,Secondary,18510.0,5,124.06,1-2yr,3,New tech,5,3,0,1,1943.0,3,Cash,6,1,0,0,0,0,0,0,0,1,1,0,0,0,1,1,1,1,0,0
+India,Tier2,18,Male,Bachelor,21863.0,7,130.74,6-12mo,3,New tech,3,2,1,1,2408.0,2,CreditEMI,5,0,0,0,1,1,0,0,0,0,0,0,1,1,1,1,0,1,0,1
+India,Metro,25,Female,Bachelor,54407.0,6,288.3,6-12mo,3,Lower bills,3,3,1,1,5033.0,3,BNPL,1,0,1,1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0
+India,Tier2,41,Male,Bachelor,16787.0,4,98.44,6-12mo,2,Brand image,5,3,0,0,1722.0,3,StoreFinance,4,0,0,0,1,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1
+Singapore,Metro,39,Male,Secondary,126572.0,3,636.77,>2yr,5,Govt rebate,3,4,1,2,10716.0,5,Cash,2,0,1,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0
+India,Tier2,41,Female,Secondary,9223.0,3,68.07,6-12mo,3,Lower bills,3,4,1,0,1267.0,4,StoreFinance,6,0,0,0,1,0,0,0,0,1,1,0,0,0,0,1,0,0,1,1
+Singapore,Metro,32,Male,Postgrad,40047.0,5,216.26,1-2yr,5,Govt rebate,1,2,1,2,3852.0,3,CreditEMI,3,0,0,0,1,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0
+India,Metro,44,Female,Secondary,17126.0,2,105.3,<6mo,3,Environment,4,1,1,0,1822.0,2,Cash,8,0,0,0,1,0,0,0,0,1,0,0,1,1,1,1,0,0,0,0
+India,Rural,23,Female,Diploma,15231.0,5,99.55,<6mo,4,Govt rebate,1,3,1,2,1731.0,4,Cash,4,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,1,0,1
+UAE,Metro,28,Male,Diploma,14298.0,2,81.6,1-2yr,5,Environment,2,4,0,1,1834.0,4,CreditEMI,1,0,0,0,1,0,1,1,0,0,0,1,0,1,0,0,0,0,0,1
+India,Rural,49,Female,Diploma,22397.0,2,131.98,<6mo,4,Brand image,3,3,1,2,2464.0,3,Cash,5,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,0
+UAE,Metro,34,Male,Secondary,20368.0,3,110.54,1-2yr,3,Lower bills,3,3,0,1,2183.0,3,Cash,3,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0
+India,Metro,27,Female,Bachelor,7088.0,6,51.41,6-12mo,4,Brand image,2,3,0,0,1319.0,5,CreditEMI,8,0,0,0,1,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0
+India,Tier2,22,Other,Diploma,42271.0,4,250.04,>2yr,5,Environment,2,4,0,1,4076.0,5,CreditEMI,7,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0
+UAE,Metro,36,Male,Postgrad,9047.0,2,57.98,1-2yr,4,Brand image,2,3,1,1,1286.0,5,CreditEMI,8,1,0,1,0,1,1,0,1,0,0,1,0,1,0,0,1,0,1,1
+India,Metro,45,Male,Secondary,4181.0,1,21.19,1-2yr,2,New tech,3,4,0,0,926.0,1,CreditEMI,6,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0
+India,Metro,18,Male,Bachelor,13259.0,2,77.83,<6mo,4,Lower bills,3,3,0,0,1787.0,4,Cash,6,0,0,0,1,0,0,0,0,1,0,0,1,0,1,0,0,1,1,0
+Singapore,Metro,38,Male,Diploma,13825.0,6,108.65,1-2yr,3,Environment,1,1,1,0,1761.0,2,BNPL,3,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0
+UAE,Tier2,40,Male,Bachelor,51963.0,4,279.37,1-2yr,3,Environment,4,1,1,2,4884.0,2,Cash,4,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0
+India,Rural,43,Female,Secondary,21680.0,3,114.23,1-2yr,3,Environment,2,3,0,1,2344.0,3,BNPL,5,1,0,1,0,1,0,0,0,0,1,0,0,0,1,0,1,0,0,1
+Singapore,Metro,36,Male,Postgrad,161510.0,4,832.95,>2yr,3,Govt rebate,2,4,1,1,13432.0,3,CreditEMI,1,0,0,1,0,0,1,1,0,0,1,0,0,1,0,1,0,0,1,0
+UAE,Metro,40,Male,Secondary,107279.19031199628,2,549.28,<6mo,5,Lower bills,4,2,0,2,9171.0,5,Cash,7,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1
+India,Rural,40,Male,Secondary,14160.0,1,78.33,>2yr,3,Lower bills,2,4,1,0,1890.0,4,CreditEMI,5,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,1
+UAE,Metro,47,Female,Diploma,30188.0,4,167.34,>2yr,2,Lower bills,5,3,0,1,3094.0,1,Cash,8,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,1,0,0,1
+UAE,Metro,44,Female,Bachelor,54476.0,1,272.08,1-2yr,3,Environment,3,3,1,0,4986.0,4,CreditEMI,8,0,0,0,1,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0
+UAE,Metro,34,Female,Diploma,32875.0,3,180.32,>2yr,2,Brand image,5,5,0,0,3151.0,2,BNPL,4,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,1,1,1
+India,Metro,27,Male,Bachelor,27943.0,3,161.21,>2yr,2,New tech,4,4,0,1,2897.0,2,BNPL,5,0,0,0,1,1,0,1,1,0,0,1,0,1,0,0,0,1,0,0
+India,Tier2,18,Female,Diploma,39374.0,6,234.85,1-2yr,3,Environment,3,3,1,2,3753.0,3,CreditEMI,4,0,0,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0
+India,Rural,43,Male,Secondary,5400.0,2,37.29,>2yr,2,New tech,2,3,1,0,1034.0,1,StoreFinance,6,0,0,0,1,0,1,0,1,0,0,0,1,0,0,1,0,0,0,1
+Singapore,Metro,18,Male,Bachelor,54996.0,3,290.15,1-2yr,3,Lower bills,4,2,0,0,5034.0,1,StoreFinance,4,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0,1,1,0,0
+India,Metro,31,Other,Bachelor,21183.0,1,98.38,>2yr,3,Environment,5,2,1,1,2333.0,2,CreditEMI,9,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+India,Metro,42,Male,Bachelor,8660.0,7,92.93,<6mo,3,Brand image,2,3,1,1,1058.0,4,CreditEMI,7,0,0,0,1,0,0,0,0,1,0,0,1,0,1,1,0,1,0,0
+India,Metro,31,Female,Secondary,20180.0,5,121.0,>2yr,3,Environment,3,4,0,0,2138.0,4,Cash,6,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0
+India,Tier2,28,Male,Diploma,34930.0,5,198.16,>2yr,2,Lower bills,4,3,0,0,3203.0,3,Cash,8,0,0,0,1,1,0,0,1,0,1,1,0,0,0,0,0,0,1,0
+India,Rural,35,Female,Secondary,28918.0,4,162.52,<6mo,2,Govt rebate,3,5,0,0,2869.0,3,Cash,7,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0
+India,Tier2,38,Male,Bachelor,18715.0,6,145.64,6-12mo,4,Lower bills,3,2,1,2,2039.0,3,Cash,7,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,1
+India,Tier2,33,Female,Secondary,22546.0,3,111.75,1-2yr,3,Brand image,3,1,1,1,2391.0,4,CreditEMI,4,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1,1,0,1
+India,Rural,30,Female,Bachelor,9336.0,4,78.81,1-2yr,4,New tech,3,3,0,0,1419.0,5,StoreFinance,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,1,0,0,1,0
+UAE,Metro,53,Male,Secondary,26888.0,5,172.34,1-2yr,1,Lower bills,1,2,1,1,2466.0,3,StoreFinance,7,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0
+India,Tier2,42,Female,Diploma,24696.0,2,128.38,1-2yr,4,New tech,1,3,0,1,2632.0,4,StoreFinance,7,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0
+India,Metro,20,Female,Bachelor,17435.0,2,92.36,<6mo,5,Lower bills,1,4,0,1,2127.0,5,CreditEMI,3,0,0,1,0,0,0,0,0,1,0,1,0,0,1,0,0,0,1,0
+India,Metro,30,Male,Diploma,25738.0,3,131.1,<6mo,4,Lower bills,4,3,1,2,2507.0,5,Cash,3,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+India,Tier2,18,Male,Postgrad,11061.0,6,65.85,6-12mo,3,Environment,3,3,1,1,1546.0,2,CreditEMI,4,0,0,0,1,1,0,0,0,0,0,1,0,0,0,1,1,0,1,0
+India,Metro,40,Male,Bachelor,35702.0,6,213.27,1-2yr,4,Govt rebate,2,1,1,2,3596.0,4,StoreFinance,5,0,0,1,0,0,0,1,0,0,1,0,0,1,0,1,1,1,0,0
+UAE,Metro,28,Female,Postgrad,29607.0,3,151.73,<6mo,3,Govt rebate,4,4,1,1,3008.0,4,CreditEMI,4,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,1,1,0,0
+Singapore,Metro,31,Female,Bachelor,35108.0,5,185.77,>2yr,4,Lower bills,3,2,1,0,3434.0,5,BNPL,7,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0,1,0,1,0
+India,Tier2,32,Male,Diploma,64617.0,4,342.93,6-12mo,1,Environment,3,3,0,0,5516.0,1,StoreFinance,6,1,0,1,0,0,1,0,0,0,0,0,0,1,0,1,1,0,1,0
+UAE,Metro,34,Male,Postgrad,21671.0,5,137.44,<6mo,4,Lower bills,4,3,0,2,2296.0,3,StoreFinance,6,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0
+India,Metro,50,Male,Diploma,7447.0,5,56.73,1-2yr,3,Brand image,3,2,0,0,3059.7120928980203,3,CreditEMI,5,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0
+India,Metro,46,Male,Bachelor,5472.0,3,41.55,1-2yr,1,Brand image,3,2,0,0,978.0,2,CreditEMI,6,0,0,0,1,0,1,1,1,0,0,1,0,0,1,0,1,0,1,0
+India,Tier2,31,Male,Secondary,9132.0,3,62.78,6-12mo,4,Environment,2,4,0,1,1292.0,5,CreditEMI,3,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0
+India,Tier2,18,Male,Diploma,19000.0,1,94.83,>2yr,4,Brand image,3,4,1,0,2057.0,3,CreditEMI,8,0,0,0,1,0,0,0,0,1,0,0,1,0,1,0,0,1,1,1
+UAE,Metro,54,Male,Diploma,36874.0,5,190.16,>2yr,2,Lower bills,4,4,1,0,3653.0,2,BNPL,5,0,1,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1
+India,Metro,35,Male,Bachelor,15067.0,3,97.34,<6mo,2,New tech,3,3,1,0,1704.0,2,Cash,7,0,0,0,1,0,0,0,0,1,1,0,1,0,1,1,0,0,0,0
+India,Metro,40,Female,Diploma,7386.0,4,66.85,1-2yr,2,Lower bills,2,3,0,0,1076.0,2,Cash,4,0,0,0,1,0,0,0,0,1,0,0,1,0,1,0,0,0,0,1
+India,Metro,35,Male,Bachelor,16940.0,2,104.92,1-2yr,3,New tech,2,2,0,0,1903.0,2,Cash,3,0,1,1,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0
+UAE,Metro,37,Other,Diploma,27017.0,5,161.37,<6mo,5,Brand image,3,4,1,2,2872.0,5,CreditEMI,5,1,1,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1
+India,Tier2,51,Male,Bachelor,7426.0,8,53.45,1-2yr,3,Govt rebate,2,3,1,1,1280.0,4,CreditEMI,5,0,0,0,1,1,1,0,0,0,1,0,0,0,0,1,1,1,0,0
+India,Rural,48,Male,Postgrad,12067.0,2,80.93,1-2yr,3,Environment,3,3,0,1,1518.0,5,StoreFinance,4,0,0,0,1,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0
+India,Metro,27,Female,Diploma,9169.0,6,80.06,<6mo,3,New tech,5,4,1,0,1426.0,3,CreditEMI,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+India,Rural,42,Male,Bachelor,36852.0,3,196.2,1-2yr,4,New tech,5,4,0,1,3490.0,4,StoreFinance,3,0,0,0,1,1,1,1,0,0,1,0,0,0,1,0,1,1,1,0
+India,Metro,37,Male,Secondary,13003.0,6,87.71,6-12mo,4,New tech,4,4,1,2,1625.0,4,CreditEMI,4,0,0,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0
+UAE,Metro,41,Female,Diploma,18971.0,4,119.29,>2yr,2,Lower bills,4,4,0,0,1815.0,2,CreditEMI,5,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,0,1,0,0
+India,Tier2,26,Male,Diploma,27443.0,5,150.37,>2yr,4,Environment,4,5,0,0,2860.0,3,CreditEMI,1,0,0,0,1,0,1,0,0,0,1,0,0,1,0,0,0,0,1,0
+UAE,Metro,18,Male,Diploma,43435.0,3,223.01,6-12mo,2,Lower bills,2,4,0,0,3927.0,3,StoreFinance,1,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,1,1,0
+India,Metro,42,Female,Secondary,13899.0,2,71.75,>2yr,1,Lower bills,4,3,1,0,1601.0,2,CreditEMI,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0
+Singapore,Metro,30,Female,Diploma,25714.0,5,138.03,6-12mo,5,Environment,4,2,1,1,2733.0,5,StoreFinance,1,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1,1,1,0
+UAE,Metro,30,Male,Bachelor,57508.0,3,311.51,6-12mo,3,New tech,4,2,1,2,5067.0,3,CreditEMI,9,1,0,0,0,0,0,0,1,0,0,0,1,0,1,1,1,0,0,0
+India,Tier2,38,Female,Diploma,4660.0,8,50.89,1-2yr,2,Environment,2,4,1,0,715.0,1,Cash,5,0,0,0,1,0,0,1,1,0,0,0,1,0,1,0,1,1,0,0
+Singapore,Metro,27,Female,Bachelor,23367.0,3,139.5,1-2yr,3,Environment,2,3,1,0,2506.0,5,Cash,5,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,1,1
+India,Metro,23,Female,Bachelor,24089.0,2,134.42,>2yr,3,Lower bills,3,4,0,1,2369.0,2,Cash,6,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,1,1,1,0
+India,Metro,36,Female,Secondary,15155.0,6,103.99,>2yr,5,Govt rebate,3,2,0,2,1972.0,5,CreditEMI,8,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1,0,1,1
+India,Metro,35,Female,Secondary,26869.0,2,156.96,>2yr,3,Environment,2,4,0,0,2822.0,1,BNPL,3,0,0,0,1,0,0,0,0,1,0,0,1,0,1,1,0,0,1,1
+UAE,Metro,41,Male,Postgrad,31252.0,3,175.4,1-2yr,3,Lower bills,1,3,0,0,2874.0,3,CreditEMI,6,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0
+UAE,Metro,29,Male,Postgrad,44600.0,4,239.38,1-2yr,3,Lower bills,3,4,0,1,4143.0,4,CreditEMI,8,0,0,0,1,0,1,1,1,0,1,1,0,0,1,0,1,0,0,0
+UAE,Metro,36,Female,Secondary,82204.0,7,455.7,>2yr,3,Lower bills,3,2,1,2,7153.0,2,BNPL,3,0,0,0,1,0,0,0,1,0,0,1,0,1,1,1,0,0,0,0
+UAE,Metro,28,Female,Secondary,42243.0,1,212.03,1-2yr,4,New tech,3,3,1,1,4001.0,5,StoreFinance,7,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0
+UAE,Metro,39,Female,Bachelor,17979.0,7,119.89,6-12mo,4,Environment,3,3,1,1,2038.0,4,CreditEMI,6,0,0,0,1,0,0,0,0,1,0,0,1,1,0,1,1,0,0,0
+UAE,Metro,39,Male,Diploma,67333.0,5,365.11,1-2yr,3,Govt rebate,4,3,1,1,5955.0,4,StoreFinance,9,0,0,0,1,0,0,0,0,1,0,1,0,0,0,1,1,0,0,1
+UAE,Metro,47,Female,Bachelor,94329.0,1,503.56,6-12mo,4,Environment,4,3,1,2,8045.0,4,CreditEMI,4,1,1,0,0,1,0,0,0,0,0,0,1,0,1,1,0,1,0,0
+India,Rural,39,Female,Bachelor,14412.0,3,92.97,1-2yr,3,Environment,2,5,0,1,1839.0,1,BNPL,8,0,0,0,1,1,1,0,0,0,1,1,0,0,1,0,1,0,1,0
+Singapore,Metro,33,Female,Bachelor,47226.0,4,254.7,<6mo,3,New tech,3,4,1,2,4315.0,2,Cash,3,0,0,0,1,1,1,0,0,0,0,0,0,1,0,1,0,0,1,0
+India,Metro,47,Male,Diploma,5876.0,6,72.71,1-2yr,2,New tech,4,3,1,0,1076.0,4,CreditEMI,5,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,1,1,0,0
+Singapore,Metro,30,Female,Postgrad,73369.0,2,391.27,<6mo,4,Lower bills,3,2,1,2,6545.0,5,Cash,2,1,1,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,1
+India,Metro,34,Female,Secondary,6392.0,5,74.23,>2yr,4,Brand image,3,4,0,2,1147.0,3,CreditEMI,4,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1
+India,Metro,28,Male,Diploma,4618.0,7,40.56,6-12mo,5,New tech,2,3,0,1,1060.0,4,CreditEMI,7,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0
+India,Tier2,37,Male,Diploma,16172.0,4,110.94,1-2yr,5,Environment,4,2,0,2,1827.0,4,CreditEMI,6,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,1
+India,Rural,19,Female,Bachelor,19396.0,4,101.92,1-2yr,5,Govt rebate,3,1,1,0,2335.0,5,StoreFinance,7,0,0,0,1,0,1,1,0,0,0,0,1,1,1,1,0,1,0,1
+Singapore,Metro,26,Female,Postgrad,26308.0,5,175.44,6-12mo,1,Lower bills,4,2,1,0,2536.0,1,StoreFinance,2,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0
+India,Tier2,31,Female,Diploma,13937.0,3,73.86,>2yr,3,New tech,1,4,0,0,1762.0,4,CreditEMI,9,0,0,0,1,1,1,0,1,0,1,1,0,0,0,0,0,1,0,0
+India,Metro,42,Female,Bachelor,5981.0,3,48.33,1-2yr,1,Environment,3,1,0,0,895.0,1,CreditEMI,7,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,0,1,1,0
+India,Metro,40,Female,Secondary,25783.0,5,155.92,1-2yr,2,Lower bills,2,1,0,1,2616.0,2,CreditEMI,2,0,0,0,1,0,0,0,0,1,1,0,1,0,1,0,0,0,0,1
+India,Metro,27,Male,Postgrad,7874.0,3,58.53,6-12mo,3,Environment,5,3,1,1,1361.0,2,StoreFinance,1,0,0,0,1,0,0,0,0,1,0,1,0,0,0,1,1,0,1,0
+India,Tier2,32,Female,Bachelor,33233.0,3,169.95,<6mo,3,Lower bills,3,2,0,0,3320.0,3,CreditEMI,5,0,0,0,1,0,1,1,1,0,1,1,0,1,0,0,1,0,1,0
+India,Rural,31,Female,Secondary,4896.0,4,51.91,<6mo,1,Lower bills,3,3,1,1,775.0,1,CreditEMI,3,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0
+India,Tier2,40,Male,Secondary,11582.0,4,72.46,1-2yr,3,Environment,2,4,1,1,1632.0,4,StoreFinance,6,0,0,0,1,0,0,0,0,1,0,1,0,1,0,1,0,1,0,0
+India,Metro,34,Female,Bachelor,13138.0,4,72.46,1-2yr,2,Govt rebate,4,4,1,0,1459.0,5,Cash,5,0,1,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0,0,0
+India,Metro,29,Male,Bachelor,11331.0,2,63.02,6-12mo,4,Lower bills,2,3,1,1,1514.0,4,CreditEMI,7,0,1,0,0,0,0,0,0,1,0,0,1,0,1,1,0,1,0,1
+Singapore,Metro,31,Male,Postgrad,68059.0,2,342.68,1-2yr,4,New tech,3,3,1,1,6050.0,5,Cash,4,0,0,0,1,0,1,0,1,0,0,1,0,0,0,1,0,1,0,0
+India,Metro,65,Male,Diploma,24951.062176963478,4,131.68,<6mo,2,Lower bills,3,2,1,2,2607.0,4,StoreFinance,5,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0
+India,Tier2,28,Male,Bachelor,14515.0,2,81.84,1-2yr,2,Lower bills,3,2,0,0,1814.0,1,CreditEMI,6,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,1,1,0
+India,Tier2,39,Female,Diploma,14357.0,4,93.03,1-2yr,3,Lower bills,3,3,0,0,1630.0,3,BNPL,6,0,0,0,1,0,1,0,1,0,0,1,0,0,1,1,1,0,0,1
+Singapore,Tier2,30,Male,Bachelor,46320.0,4,242.63,>2yr,5,Lower bills,2,3,1,0,4392.0,5,Cash,3,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0
+UAE,Metro,45,Male,Postgrad,35244.0,6,215.27,>2yr,3,Lower bills,3,2,1,1,3561.0,3,Cash,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,1,0
+India,Tier2,39,Male,Diploma,10140.0,7,76.35,>2yr,2,Environment,3,3,1,0,1258.0,1,CreditEMI,4,1,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,1,0
+UAE,Metro,32,Female,Diploma,40164.0,6,222.99,1-2yr,2,Lower bills,2,2,0,0,3800.0,2,Cash,6,1,1,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,1,0
+UAE,Metro,46,Male,Diploma,45209.0,4,251.88,1-2yr,4,Environment,3,4,0,0,4262.0,3,Cash,6,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0
+UAE,Metro,28,Male,Secondary,29438.0,2,155.81,1-2yr,4,Lower bills,3,2,0,2,3020.0,3,Cash,9,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1,0,0,0,1
+Singapore,Metro,32,Female,Bachelor,57630.0,3,307.48,<6mo,4,Environment,3,2,1,0,5147.0,3,CreditEMI,5,0,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1,0,1
+UAE,Metro,54,Female,Postgrad,12251.0,3,56.73,<6mo,2,New tech,2,4,0,0,1530.0,2,CreditEMI,5,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1
+UAE,Metro,25,Male,Bachelor,148866.0,5,773.95,1-2yr,3,Govt rebate,3,2,0,1,12597.0,3,CreditEMI,7,0,1,0,0,0,1,1,1,0,0,0,1,0,0,0,1,0,0,1
+India,Metro,41,Male,Bachelor,14432.0,6,111.41,>2yr,1,Environment,2,4,1,0,1717.0,1,CreditEMI,4,0,0,0,1,1,0,0,1,0,1,0,0,0,1,0,1,0,0,1
+India,Metro,24,Male,Diploma,8744.0,4,63.16,1-2yr,3,Brand image,4,3,0,1,4502.708201730282,3,CreditEMI,6,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0
+UAE,Metro,43,Female,Secondary,58050.0,2,304.53,>2yr,4,Govt rebate,3,5,1,2,5407.0,3,CreditEMI,7,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,1
+India,Tier2,38,Male,Bachelor,8166.0,2,69.31,>2yr,2,New tech,3,3,0,1,1150.0,1,CreditEMI,2,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0
+India,Metro,29,Female,Secondary,20264.0,6,119.26,6-12mo,4,New tech,4,4,0,1,2306.0,5,Cash,5,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,1,0,0,0
+India,Rural,29,Male,Bachelor,26590.0,3,140.53,1-2yr,3,Environment,3,4,1,0,2553.0,5,Cash,5,0,0,0,1,0,0,1,1,0,0,0,0,1,1,1,0,0,1,0
+India,Metro,23,Male,Postgrad,22109.0,3,123.5,>2yr,4,Brand image,3,4,1,0,2460.0,4,CreditEMI,4,1,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+India,Tier2,27,Female,Diploma,8898.0,3,59.91,<6mo,4,Lower bills,1,2,0,0,1336.0,3,Cash,3,0,0,0,1,0,0,0,0,1,1,0,1,0,0,1,0,0,1,1
+Singapore,Metro,45,Female,Postgrad,74185.0,2,390.95,>2yr,4,Govt rebate,3,4,1,2,6543.0,3,CreditEMI,4,0,0,0,1,1,1,0,1,0,0,0,0,1,0,1,0,0,0,0
+UAE,Metro,30,Male,Bachelor,78536.0,6,425.8,>2yr,3,Environment,3,2,1,0,6855.0,3,BNPL,2,0,0,0,1,1,0,0,0,0,0,1,0,1,1,0,1,0,0,0
+Singapore,Metro,38,Female,Bachelor,53566.0,2,272.54,1-2yr,2,Lower bills,2,3,1,1,5000.0,2,Cash,4,0,0,0,1,1,1,0,0,0,0,1,0,0,0,1,0,0,1,0
+India,Tier2,29,Male,Bachelor,6299.0,3,40.88,6-12mo,4,Govt rebate,5,4,1,2,1056.0,5,BNPL,4,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0
+India,Metro,26,Male,Secondary,13871.0,4,110.66,>2yr,1,Lower bills,3,2,1,1,1512.0,1,StoreFinance,2,0,0,0,1,0,0,0,1,0,1,0,0,1,1,0,0,0,0,1
+UAE,Tier2,26,Male,Postgrad,20782.0,4,107.67,6-12mo,5,Brand image,2,3,0,0,2143.0,4,StoreFinance,2,0,0,0,1,0,0,0,0,1,0,0,1,0,1,1,0,1,0,0
+India,Metro,43,Female,Bachelor,11151.0,2,64.87,<6mo,4,Environment,1,3,0,0,1458.0,3,Cash,5,0,0,0,1,0,0,0,0,1,1,0,1,0,0,1,1,0,0,0
+UAE,Metro,44,Male,Secondary,18542.0,2,98.58,6-12mo,3,Environment,3,1,1,1,2019.0,2,CreditEMI,6,1,1,1,0,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0
+UAE,Metro,25,Male,Postgrad,28146.0,6,172.54,<6mo,5,Lower bills,4,2,1,1,2922.0,3,Cash,7,0,0,0,1,0,0,0,0,1,0,1,1,0,0,1,0,1,0,0
+India,Metro,36,Male,Secondary,5190.0,6,49.98,>2yr,2,Lower bills,4,1,0,0,896.0,4,CreditEMI,2,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,1,0,0,1
+India,Metro,18,Female,Postgrad,4014.0,4,45.42,>2yr,3,Lower bills,2,3,0,0,956.0,3,Cash,6,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+India,Rural,46,Female,Bachelor,23420.0,2,109.72,>2yr,5,New tech,3,3,1,0,2502.0,5,StoreFinance,3,1,1,1,0,1,0,0,0,0,1,1,1,0,0,1,1,1,0,0
+UAE,Metro,43,Male,Bachelor,15748.0,5,97.48,>2yr,3,Environment,5,4,0,0,1655.0,2,StoreFinance,8,0,0,0,1,1,0,1,1,0,0,0,0,1,0,0,1,0,1,0
+Singapore,Metro,31,Female,Postgrad,63887.0,6,354.41,>2yr,5,Govt rebate,2,3,1,0,5704.0,4,Cash,4,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,1,1,0,1
+India,Metro,54,Female,Diploma,16448.0,4,106.21,>2yr,2,Environment,2,1,1,0,1779.0,1,Cash,7,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,1,0
+India,Tier2,22,Male,Bachelor,27168.0,2,146.85,1-2yr,3,Govt rebate,2,5,0,1,2769.0,5,Cash,1,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,1,1
+Singapore,Metro,28,Female,Postgrad,42078.0,6,235.35,1-2yr,2,Lower bills,2,1,1,0,4048.0,4,CreditEMI,2,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,1,1,1,0
+Singapore,Tier2,40,Female,Bachelor,93773.0,5,500.27,1-2yr,3,Environment,3,4,1,1,8073.0,4,CreditEMI,4,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,1,1,0
+Singapore,Metro,18,Female,Bachelor,72770.0,4,364.91,>2yr,1,Environment,4,1,0,0,6272.0,1,BNPL,4,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0
+Singapore,Metro,32,Male,Diploma,49603.0,5,273.82,>2yr,2,Environment,2,2,1,1,4545.0,2,StoreFinance,2,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0
+India,Metro,24,Male,Diploma,12790.0,4,88.76,>2yr,3,Environment,4,4,0,2,1268.0,2,Cash,8,0,0,0,1,0,1,0,1,0,0,0,1,1,0,0,1,0,1,1
+India,Metro,40,Female,Diploma,22694.0,4,141.33,1-2yr,4,Govt rebate,2,2,0,1,2472.0,2,CreditEMI,2,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,0,0,1,0
+UAE,Metro,31,Female,Bachelor,53647.0,6,305.71,>2yr,4,Lower bills,2,3,0,1,4979.0,5,CreditEMI,7,1,0,1,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0
+India,Tier2,30,Female,Bachelor,4785.0,4,64.32,1-2yr,5,Environment,4,4,0,2,1369.0,3,StoreFinance,5,0,0,0,1,1,1,0,1,0,0,0,0,0,1,0,0,1,0,0
+India,Metro,24,Female,Bachelor,16553.0,6,95.35,6-12mo,3,Govt rebate,2,3,0,1,1866.0,2,BNPL,9,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0,1,1,0,0
+UAE,Metro,18,Female,Diploma,43140.0,5,243.4,1-2yr,2,Environment,3,3,1,0,4021.0,2,CreditEMI,3,0,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0
+India,Tier2,40,Female,Bachelor,7589.0,2,61.44,6-12mo,3,Environment,3,2,0,0,1208.0,3,CreditEMI,6,0,0,0,1,0,1,0,0,0,1,0,0,0,1,1,1,0,0,1
+India,Tier2,54,Male,Diploma,22574.0,4,144.8,6-12mo,2,Govt rebate,2,3,1,0,2464.0,2,BNPL,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0
+Singapore,Metro,18,Female,Bachelor,56070.0,3,288.15,1-2yr,3,Lower bills,3,1,1,1,5118.0,2,Cash,3,0,0,1,0,0,1,0,0,0,0,0,0,1,1,0,0,1,0,0
+Singapore,Metro,37,Female,Bachelor,125650.0,5,645.32,1-2yr,4,Lower bills,4,4,0,2,10744.0,1,CreditEMI,3,1,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,1
+UAE,Metro,39,Male,Postgrad,20535.0,3,120.35,1-2yr,3,New tech,2,4,1,1,2309.0,3,CreditEMI,5,0,0,0,1,1,1,0,0,0,0,1,1,1,0,0,1,1,1,0
+India,Tier2,33,Female,Secondary,12601.0,3,75.92,1-2yr,3,Environment,1,2,0,0,3864.669094014793,3,CreditEMI,3,0,0,0,1,1,0,1,1,0,0,0,0,0,1,0,0,1,0,0
+India,Tier2,39,Female,Secondary,10370.0,1,55.55,1-2yr,4,Lower bills,3,2,1,2,1499.0,4,CreditEMI,6,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0
+India,Metro,33,Male,Postgrad,17992.0,5,95.43,1-2yr,3,Brand image,2,2,0,1,2089.0,4,StoreFinance,2,0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0
+UAE,Metro,39,Male,Diploma,71461.0,2,357.98,1-2yr,3,Environment,2,3,0,1,6214.0,3,Cash,1,0,1,1,0,1,0,0,0,0,0,1,1,0,0,0,1,0,1,1
+UAE,Tier2,33,Female,Secondary,20826.0,7,138.97,>2yr,2,Govt rebate,3,5,1,0,2352.0,1,CreditEMI,5,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0
+India,Rural,44,Female,Bachelor,7331.0,1,37.39,<6mo,2,Govt rebate,2,5,1,0,969.0,3,StoreFinance,3,0,0,0,1,1,0,1,1,0,1,0,0,0,0,0,1,0,0,0
+Singapore,Metro,33,Female,Bachelor,44419.0,4,238.14,6-12mo,3,New tech,3,3,0,1,4128.0,2,Cash,5,0,0,0,1,1,0,0,1,0,1,0,1,0,1,0,0,1,0,0
+UAE,Tier2,50,Male,Bachelor,46536.0,2,244.3,6-12mo,4,Lower bills,1,3,1,2,4354.0,5,CreditEMI,5,0,0,1,0,0,1,0,1,0,0,0,0,1,1,1,1,0,0,0
+Singapore,Metro,40,Female,Postgrad,45745.0,7,268.05,1-2yr,2,Govt rebate,4,3,1,0,4187.0,2,CreditEMI,2,0,0,0,1,1,0,1,0,0,0,0,1,0,0,0,1,1,0,0
+UAE,Metro,20,Male,Postgrad,50596.0,3,259.38,>2yr,2,Lower bills,3,5,1,0,4469.0,1,Cash,6,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,1,1,0
+UAE,Metro,35,Male,Postgrad,105460.77625258108,3,546.1,6-12mo,4,Environment,3,4,1,1,9198.0,3,CreditEMI,2,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0
+India,Metro,29,Male,Secondary,5076.0,2,36.16,1-2yr,1,Brand image,3,2,1,0,818.0,2,CreditEMI,3,0,0,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,1,0
+UAE,Metro,26,Male,Bachelor,20875.0,4,114.23,6-12mo,3,Lower bills,3,2,1,0,2374.0,1,BNPL,7,0,1,0,0,0,1,0,0,0,1,1,0,1,0,0,0,0,0,1
+India,Rural,18,Male,Bachelor,16956.0,5,122.8,<6mo,3,Environment,3,4,1,1,1795.0,2,BNPL,5,1,1,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0
+India,Tier2,39,Male,Diploma,8998.0,4,53.18,1-2yr,5,Lower bills,3,2,0,1,1150.0,5,BNPL,6,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+India,Metro,32,Female,Secondary,9428.0,2,48.73,<6mo,3,Govt rebate,3,2,1,1,1341.0,3,BNPL,2,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,1,1,0
+UAE,Metro,45,Male,Secondary,40933.0,4,228.37,>2yr,1,Lower bills,2,2,1,0,3900.0,1,CreditEMI,3,1,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,1,1
+India,Tier2,29,Female,Bachelor,17061.0,4,123.48,6-12mo,2,Brand image,4,3,1,0,1806.0,2,BNPL,3,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1
+UAE,Metro,18,Female,Bachelor,93368.0,5,489.87,>2yr,2,Lower bills,2,4,0,1,8080.0,2,StoreFinance,9,0,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,1
+India,Metro,18,Male,Bachelor,21953.0,5,123.28,6-12mo,2,Lower bills,4,2,1,0,2417.0,3,Cash,3,0,0,0,1,1,0,0,0,0,0,1,0,1,1,0,0,0,0,1
+India,Rural,36,Male,Bachelor,10617.0,7,86.14,6-12mo,4,Environment,2,3,1,1,1525.0,4,Cash,2,0,0,0,1,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0
+India,Metro,28,Female,Bachelor,20225.0,3,109.92,>2yr,3,Govt rebate,5,3,1,2,2178.0,1,StoreFinance,5,1,1,0,0,0,0,0,1,0,1,1,0,0,1,0,0,0,1,0
+India,Metro,18,Male,Diploma,3859.0,4,51.8,<6mo,4,Environment,3,3,1,0,589.0,5,CreditEMI,7,0,0,0,1,0,1,0,0,0,1,0,0,0,0,1,0,1,0,1
+UAE,Metro,37,Male,Postgrad,111315.0,4,574.8,6-12mo,3,Environment,3,3,0,0,9564.0,3,Cash,4,0,0,0,1,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0
+Singapore,Metro,21,Female,Postgrad,47131.0,4,258.93,6-12mo,3,Environment,1,3,1,0,4448.0,4,StoreFinance,2,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,1,1,1,0
+UAE,Tier2,31,Male,Diploma,32538.0,4,169.41,6-12mo,5,Environment,4,3,0,1,3163.0,4,Cash,6,0,0,0,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0
+India,Rural,44,Male,Bachelor,7614.0,4,56.46,<6mo,5,Lower bills,3,1,1,2,1276.0,5,CreditEMI,5,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+UAE,Tier2,37,Male,Bachelor,46845.0,3,255.09,1-2yr,2,Brand image,1,3,0,0,4308.0,1,CreditEMI,5,0,0,0,1,0,1,1,0,0,0,0,1,0,1,0,1,1,0,0
+UAE,Metro,43,Female,Bachelor,47486.0,4,269.3,6-12mo,2,Environment,3,3,1,0,4309.0,3,StoreFinance,6,0,0,0,1,0,0,0,0,1,0,0,1,0,1,0,0,0,1,1
+Singapore,Metro,39,Male,Secondary,51440.0,8,286.35,1-2yr,2,Lower bills,5,1,0,0,4855.0,3,CreditEMI,2,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1
+India,Rural,42,Male,Secondary,11850.0,5,93.27,<6mo,5,Environment,3,2,1,0,1562.0,5,CreditEMI,4,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,1,0,0
+India,Metro,42,Female,Postgrad,35682.0,5,206.22,1-2yr,2,Lower bills,3,4,1,0,3356.0,3,BNPL,8,1,1,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0
+India,Rural,31,Male,Bachelor,7072.0,3,49.71,6-12mo,4,Lower bills,4,3,0,2,1239.0,4,BNPL,6,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0,1,0,0
+India,Tier2,26,Male,Bachelor,23769.0,2,128.93,<6mo,3,Lower bills,5,3,0,1,2405.0,4,CreditEMI,4,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0
+Singapore,Metro,41,Male,Bachelor,59827.0,3,301.12,1-2yr,3,Lower bills,3,3,0,0,5402.0,3,CreditEMI,6,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+UAE,Metro,38,Female,Postgrad,24783.0,4,140.9,6-12mo,5,Govt rebate,1,3,1,2,6221.085111259891,4,BNPL,5,0,0,0,1,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0
+India,Metro,33,Male,Postgrad,10090.0,6,71.72,>2yr,3,Govt rebate,3,2,1,1,1240.0,4,BNPL,3,0,0,0,1,1,0,0,1,0,0,0,0,0,1,1,0,1,0,0
+UAE,Metro,47,Male,Postgrad,34440.0,3,183.56,>2yr,5,Environment,2,3,0,1,3505.0,5,BNPL,6,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+Singapore,Tier2,59,Male,Bachelor,58201.0,3,296.34,1-2yr,2,Lower bills,2,4,1,0,5253.0,1,BNPL,5,1,0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,1,0,1
+India,Metro,25,Male,Diploma,23770.0,2,130.35,<6mo,4,Brand image,2,2,1,0,2428.0,4,StoreFinance,4,0,0,0,1,0,0,0,0,1,1,1,1,0,0,1,0,0,0,1
+Singapore,Metro,24,Male,Bachelor,68143.0,5,373.9,>2yr,2,Govt rebate,2,3,0,0,6058.0,3,Cash,5,0,0,0,1,1,0,0,0,0,0,1,0,1,1,0,0,0,1,0
+India,Metro,59,Male,Diploma,11713.0,6,90.16,1-2yr,3,New tech,5,1,1,0,1515.0,2,BNPL,5,0,0,0,1,0,1,1,1,0,1,1,0,0,0,0,1,0,0,1
+India,Metro,19,Male,Diploma,39255.0,2,187.27,1-2yr,4,Environment,2,3,0,0,3550.0,3,Cash,6,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0,1,0,0
+Singapore,Metro,30,Female,Bachelor,75543.0,6,388.95,>2yr,5,Govt rebate,4,2,1,2,6766.0,5,BNPL,4,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0
+India,Tier2,44,Male,Bachelor,12913.0,6,78.7,1-2yr,2,Lower bills,3,3,1,1,1514.0,1,StoreFinance,3,0,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,1
+Singapore,Metro,18,Female,Bachelor,40854.0,8,245.4,6-12mo,4,New tech,2,2,0,2,3817.0,5,Cash,1,0,0,0,1,0,0,0,0,1,0,1,0,1,1,0,0,1,0,0
+UAE,Metro,35,Female,Diploma,73653.0,4,380.56,1-2yr,3,Govt rebate,3,3,1,0,6472.0,1,BNPL,8,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,1,0,1,0
+India,Metro,33,Female,Secondary,12552.0,1,86.73,<6mo,4,Brand image,3,5,1,1,1546.0,4,StoreFinance,6,0,0,0,1,1,0,0,0,0,1,0,0,1,1,1,0,0,1,0
+India,Tier2,52,Male,Bachelor,10086.0,1,43.3,6-12mo,4,Govt rebate,3,3,0,1,1445.0,1,StoreFinance,5,0,0,0,1,1,0,0,1,0,1,0,0,0,1,0,0,0,0,1
+UAE,Metro,36,Male,Postgrad,54779.0,7,318.7,1-2yr,2,Environment,3,3,0,0,4956.0,2,CreditEMI,3,0,1,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0
+India,Metro,18,Male,Secondary,29640.0,3,183.02,>2yr,3,Lower bills,3,3,1,1,8784.783795028734,4,CreditEMI,9,0,0,0,1,0,0,0,0,1,0,1,0,0,1,1,0,0,0,1
+India,Metro,29,Female,Diploma,26493.0,2,158.1,>2yr,3,Environment,2,2,1,0,2629.0,4,Cash,6,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+India,Metro,29,Female,Diploma,12393.0,5,85.98,<6mo,5,Environment,4,3,0,1,1617.0,5,CreditEMI,7,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,1,0,0
+India,Tier2,38,Female,Secondary,15838.0,3,89.73,6-12mo,3,Govt rebate,4,3,1,0,1683.0,4,Cash,4,0,0,0,1,0,0,1,1,0,0,1,1,0,0,0,0,0,0,1
+UAE,Metro,18,Male,Bachelor,60866.0,4,306.23,<6mo,5,Govt rebate,3,4,1,2,5563.0,5,CreditEMI,6,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,1,1,0,0
+UAE,Tier2,41,Female,Bachelor,37460.0,6,219.36,>2yr,5,Govt rebate,1,4,1,1,3846.0,5,CreditEMI,3,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1
+UAE,Metro,36,Male,Bachelor,61914.0,1,324.68,<6mo,3,Brand image,3,2,0,1,5516.0,2,Cash,2,0,0,0,1,0,0,0,0,1,0,1,1,0,1,0,0,0,1,0
+India,Metro,41,Female,Secondary,9044.0,4,83.3,>2yr,2,Lower bills,1,4,0,0,1196.0,1,CreditEMI,7,0,0,0,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,1
+India,Metro,38,Male,Diploma,14840.0,3,94.9,6-12mo,4,Lower bills,2,3,0,0,1802.0,3,CreditEMI,7,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1
+Singapore,Metro,39,Female,Secondary,35610.0,5,188.38,<6mo,4,Lower bills,4,3,1,2,3357.0,3,StoreFinance,1,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0,1,0,0
+India,Metro,45,Female,Diploma,24858.0,4,137.58,>2yr,3,Govt rebate,4,3,0,0,2351.0,3,BNPL,7,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+Singapore,Metro,33,Female,Postgrad,90521.0,5,475.4,<6mo,1,Environment,5,4,1,2,7692.0,2,CreditEMI,5,1,0,0,0,1,0,0,1,0,0,1,0,0,0,1,1,0,0,0
+UAE,Metro,37,Male,Diploma,48080.0,7,277.94,6-12mo,2,Environment,3,2,0,0,4430.0,3,CreditEMI,8,0,0,0,1,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0
+India,Rural,18,Female,Secondary,51717.0,2,258.09,>2yr,2,Lower bills,2,3,1,0,4522.0,3,BNPL,5,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0
+India,Metro,34,Female,Bachelor,20644.0,2,122.23,6-12mo,5,Lower bills,2,3,0,1,2323.0,5,Cash,4,1,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,1,0,0
+India,Tier2,46,Female,Diploma,36627.0,3,220.01,1-2yr,5,Lower bills,3,3,1,2,3454.0,5,CreditEMI,5,0,0,0,1,0,0,0,0,1,1,0,0,1,1,0,1,1,1,0
+India,Rural,46,Male,Diploma,9506.0,3,77.64,6-12mo,5,Lower bills,3,4,0,1,1334.0,5,CreditEMI,3,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1
+UAE,Metro,32,Female,Secondary,36164.0,5,214.17,6-12mo,3,Lower bills,4,5,1,0,3459.0,4,CreditEMI,7,0,0,0,1,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0
+Singapore,Metro,45,Female,Diploma,31721.0,5,193.72,1-2yr,2,New tech,3,3,1,1,3021.0,2,Cash,3,0,0,0,1,1,1,0,0,0,1,0,1,1,0,1,1,1,0,0
+India,Rural,37,Female,Postgrad,12059.0,3,82.62,6-12mo,4,Lower bills,2,2,1,1,1542.0,5,Cash,3,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1
+India,Metro,18,Male,Diploma,16773.0,3,92.54,<6mo,4,Lower bills,3,2,1,1,1984.0,3,Cash,10,0,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,1,0,1
+India,Tier2,36,Female,Bachelor,18876.0,3,141.82,<6mo,3,New tech,3,3,1,1,1971.0,3,CreditEMI,5,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,1,1
+India,Metro,18,Male,Bachelor,19102.0,5,121.33,1-2yr,4,Environment,5,3,1,0,2107.0,2,Cash,1,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1
+Singapore,Metro,37,Male,Secondary,41803.0,5,232.38,6-12mo,4,Environment,3,5,1,0,3968.0,4,Cash,1,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,0
+India,Metro,30,Male,Bachelor,8770.0,3,67.51,>2yr,4,Environment,3,3,1,1,1507.0,5,CreditEMI,5,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1
+India,Metro,20,Female,Bachelor,5533.0,7,75.0,6-12mo,3,Lower bills,4,3,1,1,892.0,3,Cash,7,0,0,0,1,0,1,0,1,0,1,0,0,1,0,0,1,1,0,0
+UAE,Tier2,54,Female,Diploma,51694.0,4,294.61,1-2yr,3,Lower bills,3,4,1,1,4731.0,2,CreditEMI,7,0,1,0,0,1,1,0,0,0,0,1,0,0,0,1,0,0,1,0
+India,Metro,36,Male,Secondary,9733.0,3,52.64,1-2yr,5,Environment,2,1,0,1,1274.0,5,CreditEMI,6,0,0,0,1,0,0,1,0,0,0,1,0,0,1,1,0,0,0,0
+UAE,Metro,28,Female,Bachelor,51003.0,6,277.9,6-12mo,2,Govt rebate,3,3,0,0,4548.0,3,BNPL,5,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0
+UAE,Metro,19,Male,Secondary,74438.0,5,393.56,1-2yr,3,Environment,4,3,1,1,6487.0,3,BNPL,9,0,0,0,1,0,1,0,0,0,0,1,0,0,0,1,1,0,0,0
+UAE,Metro,42,Female,Bachelor,21727.0,1,118.92,6-12mo,4,Lower bills,4,2,0,1,2425.0,4,CreditEMI,6,1,1,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,0
+India,Metro,44,Male,Secondary,12357.0,3,80.44,>2yr,5,New tech,3,3,1,2,1689.0,3,CreditEMI,4,0,0,0,1,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0
+UAE,Metro,26,Male,Diploma,98048.0,4,537.44,1-2yr,2,Lower bills,3,4,0,0,8275.0,2,BNPL,5,1,1,0,0,1,1,0,1,0,0,0,0,1,0,1,1,0,0,0
+India,Metro,34,Female,Diploma,41762.0,1,219.21,6-12mo,3,Environment,1,1,1,0,3777.0,4,CreditEMI,3,1,1,1,0,1,0,0,0,0,1,0,0,0,0,1,1,0,1,0
+Singapore,Metro,28,Female,Bachelor,30650.0,5,178.97,>2yr,1,New tech,5,3,1,0,2873.0,1,Cash,2,0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1,0,0,1
+Singapore,Metro,46,Male,Bachelor,69055.0,3,370.04,6-12mo,4,New tech,3,5,1,2,6106.0,3,CreditEMI,3,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1
+UAE,Metro,38,Male,Diploma,19895.0,4,131.43,<6mo,3,Lower bills,4,5,1,1,2262.0,3,CreditEMI,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+UAE,Tier2,36,Male,Bachelor,74278.0,2,394.55,1-2yr,3,New tech,3,4,0,1,6533.0,4,StoreFinance,6,0,0,0,1,0,0,0,0,1,0,1,0,0,0,1,0,1,0,0
+Singapore,Metro,47,Female,Secondary,35463.0,5,198.62,<6mo,2,Lower bills,2,2,1,1,3323.0,2,Cash,6,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0
+UAE,Metro,52,Male,Postgrad,52745.0,3,269.48,1-2yr,4,Environment,3,3,1,0,4691.0,5,CreditEMI,6,0,0,0,1,0,1,0,1,0,0,1,0,1,0,0,1,0,1,0
+India,Rural,45,Female,Bachelor,16883.0,3,100.89,<6mo,5,Lower bills,3,2,0,0,1912.0,5,StoreFinance,6,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0
+India,Metro,47,Male,Bachelor,14666.0,4,92.22,<6mo,3,Environment,3,5,1,1,1704.0,4,CreditEMI,1,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,1,0,1
+India,Metro,30,Female,Secondary,21598.0,3,132.59,>2yr,3,Govt rebate,4,4,1,0,2186.0,4,BNPL,7,0,0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,1,0,0
+UAE,Metro,40,Female,Bachelor,48871.0,7,268.6,1-2yr,4,New tech,4,4,0,1,4490.0,4,StoreFinance,4,1,1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0
+Singapore,Metro,33,Male,Bachelor,36844.0,2,186.77,6-12mo,2,Lower bills,4,5,1,0,3392.0,2,Cash,5,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,1,0,1,1
+Singapore,Metro,53,Male,Postgrad,40944.0,3,227.36,<6mo,3,Lower bills,2,2,0,0,3767.0,2,CreditEMI,5,0,0,0,1,0,0,0,0,1,0,0,1,0,0,1,0,0,1,1
+India,Tier2,18,Male,Bachelor,29190.0,3,157.93,<6mo,1,Govt rebate,3,3,0,0,2874.0,1,CreditEMI,10,0,0,0,1,0,1,1,1,0,0,1,0,1,0,1,0,0,0,0
+India,Tier2,32,Male,Postgrad,2751.0,3,25.17,6-12mo,2,Brand image,5,5,0,0,497.0,3,CreditEMI,4,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0
+UAE,Metro,33,Male,Diploma,39519.0,4,220.87,<6mo,1,Lower bills,3,2,0,1,3510.0,1,StoreFinance,4,0,0,0,1,0,0,0,0,1,0,1,0,0,1,1,0,0,0,0
+Singapore,Metro,55,Male,Secondary,55241.0,4,306.52,1-2yr,2,Lower bills,4,3,1,1,4908.0,4,Cash,2,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+UAE,Rural,34,Male,Bachelor,40846.0,2,215.33,1-2yr,2,Govt rebate,4,5,0,0,3704.0,2,CreditEMI,3,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0
+Singapore,Metro,43,Female,Bachelor,31952.0,3,169.44,>2yr,4,Environment,2,2,1,0,3202.0,4,BNPL,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,1
+India,Rural,34,Male,Diploma,40559.0,1,209.67,6-12mo,3,Govt rebate,4,2,0,2,3583.0,4,Cash,1,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,1,0,0
+UAE,Tier2,37,Male,Bachelor,31062.0,3,159.76,>2yr,2,Govt rebate,3,3,1,0,2984.0,2,Cash,6,0,0,0,1,0,0,1,1,0,0,1,0,1,1,0,1,0,1,0
+India,Metro,22,Female,Bachelor,24896.0,1,106.47,>2yr,3,New tech,2,1,0,0,2462.0,3,Cash,7,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1,0,1,1
+India,Tier2,43,Male,Postgrad,15044.0,3,80.22,6-12mo,3,New tech,3,5,0,1,1825.0,4,Cash,5,0,0,0,1,0,0,1,0,0,0,1,1,1,0,0,1,0,0,1
+UAE,Tier2,45,Male,Diploma,53880.0,5,292.24,<6mo,3,Environment,3,3,1,0,4803.0,4,Cash,4,1,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,1,1
+Singapore,Metro,34,Male,Bachelor,40182.0,3,224.59,1-2yr,5,Lower bills,3,2,1,1,3847.0,3,BNPL,4,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0
+India,Metro,26,Male,Bachelor,26903.0,3,165.33,6-12mo,4,Lower bills,4,4,1,1,2764.0,4,CreditEMI,2,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,1,1,0,0
+UAE,Metro,42,Female,Bachelor,24969.0,8,178.0,>2yr,3,Govt rebate,4,3,0,1,2581.0,2,CreditEMI,3,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0
+India,Tier2,33,Male,Diploma,22631.0,6,142.78,1-2yr,2,Environment,3,3,0,0,2264.0,3,Cash,5,0,0,0,1,0,1,1,0,0,1,0,0,1,1,0,0,0,1,1
+India,Rural,36,Female,Bachelor,19786.0,1,101.01,6-12mo,4,Lower bills,3,4,0,0,2274.0,4,Cash,4,0,0,1,0,1,0,0,0,0,0,0,1,0,1,0,1,1,0,1
+India,Metro,47,Female,Secondary,16574.0,7,111.39,1-2yr,3,Environment,3,3,0,0,1934.0,3,CreditEMI,3,1,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,1,0
+India,Metro,39,Male,Secondary,10128.0,3,56.11,<6mo,4,Lower bills,2,4,0,0,1266.0,3,CreditEMI,3,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0
+UAE,Metro,27,Female,Diploma,29015.0,4,175.95,6-12mo,3,Environment,3,4,0,0,2887.0,4,BNPL,6,0,1,1,0,0,0,0,0,1,0,0,0,1,1,0,0,1,1,1
+India,Tier2,56,Male,Bachelor,2834.0,3,19.59,1-2yr,2,Govt rebate,2,2,1,0,747.0,3,Cash,3,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1
+India,Tier2,18,Female,Bachelor,16636.0,5,102.81,>2yr,4,Lower bills,3,3,1,1,1836.0,5,StoreFinance,2,0,0,0,1,1,0,0,1,0,1,0,0,1,1,0,0,0,1,1
+India,Metro,37,Female,Bachelor,22914.0,1,120.82,<6mo,3,Environment,4,3,0,0,2367.0,1,CreditEMI,4,0,0,0,1,0,0,0,0,1,1,0,1,1,0,1,0,0,1,0
+India,Rural,46,Female,Postgrad,12028.0,3,87.07,>2yr,2,Brand image,2,3,0,1,1467.0,3,BNPL,6,0,0,0,1,1,1,0,0,0,0,1,0,1,0,0,0,0,1,0
+India,Tier2,18,Female,Secondary,19662.0,2,103.59,<6mo,5,Lower bills,1,3,0,1,2389.0,4,CreditEMI,7,0,0,0,1,0,0,1,1,0,1,0,0,1,1,0,1,1,0,0
+India,Metro,45,Female,Secondary,6030.0,3,49.92,1-2yr,2,Lower bills,3,2,1,1,926.0,1,CreditEMI,5,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,0,1,0,1
+India,Metro,43,Female,Diploma,11296.0,2,56.16,1-2yr,3,Lower bills,3,3,1,1,1362.0,2,CreditEMI,6,0,0,0,1,0,0,0,0,1,0,1,1,0,0,1,1,0,1,0
+India,Metro,18,Female,Diploma,10089.0,2,36.57,1-2yr,4,Lower bills,3,1,0,1,1439.0,2,Cash,4,1,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,1,0,0
+India,Rural,32,Female,Diploma,4514.0,5,47.11,<6mo,4,Environment,4,5,0,1,968.0,4,Cash,4,0,0,0,1,1,1,0,1,0,0,1,1,0,0,1,0,0,0,1
+India,Tier2,27,Male,Diploma,13105.0,4,94.78,6-12mo,2,Brand image,3,4,1,2,1595.0,3,CreditEMI,5,0,0,0,1,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0
+UAE,Tier2,26,Female,Bachelor,21798.0,4,127.97,>2yr,3,Lower bills,2,2,1,0,2484.0,2,StoreFinance,4,0,0,0,1,0,0,0,0,1,0,0,0,1,0,1,0,0,1,1
+India,Metro,34,Male,Secondary,6137.0,4,53.18,>2yr,2,Brand image,4,4,1,1,964.0,3,CreditEMI,5,0,0,0,1,0,0,1,1,0,0,0,0,1,0,1,0,0,0,0
+India,Tier2,34,Male,Diploma,30761.0,5,173.05,>2yr,4,Brand image,4,3,1,2,3029.0,4,Cash,1,0,0,0,1,0,1,0,1,0,1,1,1,0,0,1,0,0,0,0
+India,Metro,49,Male,Diploma,2819.0,5,41.7,1-2yr,2,Brand image,1,2,0,1,731.0,2,BNPL,8,0,0,0,1,1,0,1,0,0,1,0,0,1,0,1,0,0,0,0
+India,Rural,24,Female,Diploma,10383.0,4,71.26,6-12mo,4,Lower bills,3,4,1,2,1320.0,2,Cash,2,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0
+India,Rural,43,Female,Bachelor,12461.0,1,65.89,>2yr,5,New tech,1,2,1,1,1583.0,5,StoreFinance,4,0,0,0,1,0,0,0,0,1,1,0,1,0,0,1,0,1,0,0
+India,Tier2,41,Female,Secondary,27256.0,5,152.37,1-2yr,2,Govt rebate,2,4,1,1,2823.0,3,CreditEMI,6,0,0,0,1,1,0,0,1,0,1,1,0,0,0,1,1,0,0,0
+Singapore,Metro,27,Male,Bachelor,48046.0,2,243.98,<6mo,3,Govt rebate,3,3,1,2,4444.0,4,Cash,5,0,0,0,1,1,0,0,1,0,0,0,1,1,1,1,0,0,0,0
+Singapore,Metro,32,Male,Postgrad,47769.0,3,259.41,6-12mo,4,Lower bills,3,4,1,1,4417.0,5,CreditEMI,3,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,1
+India,Metro,31,Female,Secondary,18702.0,3,96.72,6-12mo,3,Brand image,3,2,0,0,1874.0,2,Cash,6,0,1,1,0,0,1,0,0,0,0,1,1,0,1,1,0,0,0,1
+India,Tier2,46,Male,Bachelor,34721.60874222385,5,207.49,1-2yr,4,Environment,4,4,0,1,3351.0,4,StoreFinance,7,0,0,0,1,1,0,0,0,0,1,0,0,0,1,1,0,1,0,0
+India,Tier2,36,Male,Bachelor,8505.0,5,87.84,1-2yr,3,Lower bills,1,5,1,0,1217.0,3,BNPL,6,0,0,0,1,0,1,0,0,0,0,1,0,0,0,1,0,1,0,1
+India,Metro,34,Other,Diploma,16439.0,4,109.03,6-12mo,3,Environment,3,5,1,0,1775.0,1,Cash,7,1,1,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1,0
+India,Rural,44,Male,Bachelor,8921.0,1,56.35,>2yr,4,Lower bills,2,3,0,2,1214.0,3,StoreFinance,4,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,1,0,0,1
+India,Rural,40,Female,Postgrad,14330.0,2,76.69,1-2yr,4,New tech,5,2,1,0,1679.0,5,StoreFinance,1,0,0,0,1,1,0,0,1,0,1,0,1,0,0,1,0,0,0,0
+India,Metro,44,Female,Diploma,10167.0,6,100.57,1-2yr,4,Lower bills,4,4,0,0,1292.0,3,StoreFinance,4,0,0,0,1,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0
+Singapore,Metro,29,Male,Bachelor,24117.0,2,129.39,6-12mo,2,Lower bills,4,4,1,0,2296.0,4,StoreFinance,3,0,0,0,1,0,1,0,1,0,0,0,0,1,0,1,0,1,0,0
+UAE,Metro,38,Male,Diploma,50913.0,6,275.38,1-2yr,2,Govt rebate,4,3,0,0,4597.0,2,Cash,3,0,0,1,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0
+India,Metro,26,Other,Bachelor,72727.0,3,385.75,1-2yr,1,Govt rebate,3,3,0,1,6334.0,1,StoreFinance,5,0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,1,1,0,1
+India,Metro,61,Male,Bachelor,7641.0,5,57.33,6-12mo,1,Environment,4,2,1,1,1098.0,2,StoreFinance,8,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,1
+India,Metro,47,Male,Secondary,24698.0,5,141.92,<6mo,3,Environment,3,2,1,1,2677.0,2,CreditEMI,3,0,0,0,1,1,0,0,1,0,1,0,0,0,0,1,1,0,0,0
+India,Metro,52,Female,Bachelor,13881.0,3,81.46,>2yr,3,New tech,3,3,1,0,1618.0,4,Cash,4,0,0,0,1,0,1,0,0,0,0,1,1,0,0,0,0,0,1,1
+UAE,Metro,18,Male,Secondary,29899.0,1,145.9,1-2yr,4,Brand image,2,5,1,1,2881.0,5,Cash,4,0,0,0,1,0,0,0,1,0,0,1,1,0,0,1,0,1,1,0
+Singapore,Metro,24,Male,Postgrad,41961.0,3,216.11,>2yr,5,Environment,3,2,1,1,3940.0,5,Cash,4,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0
+India,Metro,43,Female,Bachelor,34854.0,3,178.11,<6mo,1,Environment,3,3,0,0,3226.0,1,Cash,4,0,0,0,1,0,1,0,0,0,0,0,0,1,1,1,0,0,1,1
+Singapore,Metro,44,Male,Postgrad,88796.0,7,476.84,6-12mo,3,Lower bills,2,3,0,1,7566.0,2,StoreFinance,2,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1
+Singapore,Metro,28,Female,Secondary,47010.0,4,260.75,6-12mo,4,Environment,4,3,1,1,4333.0,3,CreditEMI,1,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,1
+India,Tier2,31,Female,Bachelor,10453.0,2,57.56,1-2yr,2,Lower bills,4,4,1,0,1414.0,1,CreditEMI,6,0,0,0,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0
+UAE,Metro,23,Female,Secondary,20868.0,7,145.59,>2yr,3,Environment,2,2,1,0,2207.0,1,CreditEMI,4,0,0,0,1,0,0,0,0,1,1,0,0,0,0,1,0,1,0,1
+India,Tier2,42,Male,Postgrad,6139.0,4,62.56,6-12mo,3,Environment,3,2,0,0,1139.0,4,Cash,4,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0
+UAE,Metro,45,Female,Diploma,28714.0,3,144.97,>2yr,3,Lower bills,2,3,0,0,2835.0,3,BNPL,5,0,0,1,0,0,1,0,0,0,1,1,0,1,0,1,1,0,0,0
+India,Tier2,38,Male,Bachelor,18635.0,5,114.11,1-2yr,2,Lower bills,4,2,1,0,2094.0,2,CreditEMI,5,0,0,0,1,1,1,0,0,0,0,1,0,1,0,0,1,1,0,0
+UAE,Metro,38,Male,Diploma,32548.0,6,183.26,1-2yr,5,Brand image,2,2,1,1,3152.0,5,CreditEMI,2,0,0,1,0,0,0,0,0,1,0,1,0,0,1,0,1,1,1,0
+UAE,Metro,18,Male,Bachelor,50793.0,3,277.68,6-12mo,3,Lower bills,3,5,0,0,4533.0,4,StoreFinance,6,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,0,0
+India,Rural,36,Male,Diploma,28435.0,5,161.5,>2yr,4,Govt rebate,5,4,1,1,2993.0,5,StoreFinance,4,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0
+India,Metro,18,Female,Bachelor,3682.0,4,38.88,1-2yr,3,Govt rebate,3,1,0,1,850.0,4,Cash,3,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0
+UAE,Metro,45,Female,Postgrad,42223.0,5,224.85,6-12mo,3,Brand image,5,2,1,0,3869.0,3,CreditEMI,5,0,0,0,1,1,1,0,1,0,1,0,0,0,0,0,1,1,1,0
+India,Metro,34,Female,Bachelor,12388.0,6,77.28,6-12mo,2,Lower bills,2,3,1,1,1451.0,3,StoreFinance,4,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0
+India,Tier2,34,Female,Bachelor,17916.0,2,100.95,1-2yr,4,Environment,2,3,1,0,2074.0,5,BNPL,6,0,0,0,1,1,1,0,1,0,0,0,0,1,1,0,0,0,1,0
+India,Metro,20,Male,Bachelor,8300.0,4,49.15,1-2yr,4,Govt rebate,2,3,1,1,1352.0,5,BNPL,5,0,0,0,1,1,1,1,0,0,1,0,1,0,0,1,1,0,0,0
+India,Metro,33,Female,Diploma,10990.0,4,84.94,1-2yr,1,New tech,3,3,1,0,1407.0,2,Cash,6,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0
+India,Rural,43,Male,Diploma,10378.0,3,54.89,6-12mo,2,Lower bills,3,3,1,0,1391.0,3,StoreFinance,5,0,0,0,1,1,0,0,1,0,1,1,1,0,0,1,1,0,0,1
+India,Tier2,29,Male,Postgrad,8963.0,2,51.37,6-12mo,2,Environment,4,3,0,1,1074.0,2,BNPL,3,0,0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1
+Singapore,Metro,25,Male,Bachelor,20397.0,2,123.5,>2yr,4,New tech,3,4,0,0,2193.0,4,CreditEMI,2,0,0,0,1,1,0,0,0,0,0,1,0,0,0,1,1,0,0,1
+India,Metro,43,Male,Bachelor,19583.0,3,107.39,>2yr,4,Environment,4,1,1,1,2089.0,4,StoreFinance,8,0,0,0,1,1,0,1,0,0,1,0,1,1,0,1,0,0,0,0
+India,Tier2,21,Female,Bachelor,18130.0,7,130.04,>2yr,1,Environment,2,4,0,0,1966.0,1,Cash,5,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0,1,1,1
+India,Metro,27,Male,Bachelor,6013.0,1,51.7,<6mo,5,Lower bills,3,2,1,1,1224.0,5,CreditEMI,4,0,0,0,1,0,1,0,0,0,1,0,1,1,0,0,1,0,0,0
+UAE,Metro,46,Female,Secondary,43594.0,3,238.22,1-2yr,2,Brand image,2,4,0,0,4103.0,1,StoreFinance,2,0,0,1,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0
+Singapore,Metro,36,Male,Bachelor,146837.0,8,774.2,1-2yr,3,Lower bills,2,3,0,2,12492.0,2,StoreFinance,7,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0
+India,Rural,23,Female,Bachelor,32761.0,6,187.28,1-2yr,3,Lower bills,3,1,1,1,3089.0,3,CreditEMI,5,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,1,0,1,0
+India,Metro,28,Female,Bachelor,17085.0,3,107.16,<6mo,4,Environment,1,3,1,2,1931.0,5,StoreFinance,4,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0
+India,Metro,41,Female,Bachelor,10344.0,5,61.69,6-12mo,4,Environment,2,2,0,1,1600.0,2,CreditEMI,5,1,0,1,0,0,0,0,1,0,0,0,0,1,1,1,0,0,1,1
+India,Metro,34,Male,Diploma,23647.0,3,142.11,>2yr,4,Environment,4,2,0,2,2470.0,4,Cash,3,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+India,Metro,29,Female,Secondary,7916.0,5,48.97,6-12mo,5,Lower bills,3,4,1,2,1396.0,4,CreditEMI,2,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0
+Singapore,Metro,28,Other,Postgrad,54133.0,4,287.31,1-2yr,4,Brand image,3,2,1,1,4968.0,4,CreditEMI,1,0,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,1,0
+Singapore,Metro,33,Male,Diploma,37647.0,4,202.88,1-2yr,1,Lower bills,3,2,1,0,3581.0,3,Cash,1,0,0,0,1,0,0,1,1,0,0,1,1,0,0,0,0,0,1,0
+India,Metro,38,Male,Secondary,11556.0,6,90.65,1-2yr,4,Environment,3,3,1,2,1585.0,4,Cash,3,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0
+India,Tier2,18,Male,Bachelor,22438.0,5,148.62,>2yr,4,Govt rebate,3,3,0,1,2518.0,5,BNPL,5,0,0,0,1,0,0,0,0,1,0,1,1,1,0,1,0,0,0,0
+India,Tier2,52,Male,Bachelor,11958.0,4,67.84,6-12mo,4,Govt rebate,4,3,1,2,1520.0,4,StoreFinance,3,0,0,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1
+India,Metro,46,Female,Bachelor,7660.0,4,57.8,>2yr,4,Lower bills,3,4,1,0,1177.0,4,Cash,4,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1
+UAE,Metro,39,Female,Bachelor,35641.0,3,209.9,1-2yr,5,Environment,4,3,0,2,3519.0,5,Cash,2,0,0,0,1,1,1,1,0,0,0,0,0,1,0,0,1,1,1,0
+India,Rural,41,Female,Diploma,10516.0,2,76.22,1-2yr,1,Govt rebate,3,2,0,0,1367.0,2,CreditEMI,4,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,1
+India,Tier2,18,Female,Bachelor,15773.0,3,112.69,6-12mo,5,Lower bills,4,1,0,2,1990.0,5,CreditEMI,7,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1
+India,Metro,34,Male,Secondary,11076.0,4,83.81,1-2yr,4,Brand image,3,3,0,1,1342.0,5,CreditEMI,3,0,0,0,1,1,1,0,0,0,0,1,0,1,0,0,0,1,0,0
+UAE,Metro,40,Female,Postgrad,59231.0,3,311.75,1-2yr,5,Govt rebate,3,3,1,1,5397.0,5,Cash,5,1,1,1,0,1,0,0,0,0,1,0,1,1,0,1,1,0,0,1
+India,Tier2,34,Female,Postgrad,4999.0,1,37.2,<6mo,2,New tech,2,3,1,0,1442.53985509407,4,Cash,7,0,0,0,1,1,0,0,0,0,1,0,1,1,0,1,0,1,0,0
+India,Metro,46,Male,Bachelor,49792.0,3,258.33,1-2yr,4,New tech,5,4,0,2,4538.0,2,StoreFinance,4,0,0,0,1,0,0,0,0,1,0,1,0,0,0,1,1,0,1,0
+India,Metro,33,Female,Bachelor,10357.0,6,99.72,1-2yr,3,Lower bills,4,4,0,1,1383.0,3,CreditEMI,7,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,1
+UAE,Metro,42,Male,Bachelor,11817.0,5,80.67,>2yr,2,Lower bills,4,3,1,0,1369.0,1,CreditEMI,4,0,0,0,1,0,1,0,0,0,1,0,1,1,0,1,0,1,0,0
+India,Tier2,39,Male,Bachelor,11650.0,4,75.89,1-2yr,5,Lower bills,4,1,0,1,1351.0,5,Cash,8,0,1,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0
+India,Rural,42,Female,Bachelor,18550.0,5,107.4,<6mo,3,Lower bills,3,3,1,1,2022.0,2,Cash,6,0,0,0,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1
+India,Metro,43,Male,Bachelor,13332.0,4,111.45,6-12mo,3,Environment,2,4,0,0,1483.0,5,CreditEMI,5,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0
+India,Tier2,36,Male,Secondary,41183.0,4,217.71,<6mo,5,New tech,4,3,0,1,3901.0,5,StoreFinance,8,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,1,0,0
+UAE,Metro,32,Male,Bachelor,38318.0,6,228.7,>2yr,3,Govt rebate,2,3,1,2,3609.0,1,Cash,4,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+India,Tier2,34,Male,Secondary,36797.0,5,214.97,1-2yr,5,Lower bills,4,2,0,2,3452.0,4,BNPL,2,0,0,0,1,1,0,1,1,0,1,1,0,1,0,0,1,1,0,0
+India,Metro,50,Male,Bachelor,5986.0,4,75.3,1-2yr,5,Lower bills,4,2,1,2,1162.0,5,StoreFinance,6,0,0,0,1,0,0,0,0,1,0,1,1,0,1,0,0,0,1,0
+India,Metro,24,Female,Bachelor,8972.0,2,47.76,6-12mo,3,Lower bills,3,4,0,0,1299.0,3,BNPL,5,0,0,0,1,1,0,0,1,0,0,0,0,1,0,1,0,0,0,1
+India,Metro,25,Male,Secondary,3177.0,7,56.78,6-12mo,2,Govt rebate,2,1,1,0,631.0,2,CreditEMI,5,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0
+India,Rural,22,Female,Postgrad,25662.0,5,146.4,1-2yr,2,Environment,4,4,1,0,2660.0,2,CreditEMI,4,0,0,0,1,1,0,0,1,0,1,0,0,1,0,1,0,0,0,1
+India,Rural,30,Male,Diploma,11269.0,6,82.58,6-12mo,4,Lower bills,5,3,1,1,1491.0,3,CreditEMI,6,0,0,0,1,0,0,0,0,1,0,1,0,0,1,1,1,1,0,0
+India,Metro,41,Male,Bachelor,16330.0,6,121.99,>2yr,5,Govt rebate,2,3,0,1,1907.0,5,BNPL,2,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0
+India,Metro,26,Female,Postgrad,38918.0,3,215.45,6-12mo,2,Brand image,3,3,0,1,3629.0,2,CreditEMI,2,0,0,0,1,0,0,1,1,0,0,0,1,0,0,1,0,1,1,0
+UAE,Rural,46,Male,Bachelor,46223.0,8,282.59,6-12mo,2,Environment,4,2,0,0,4236.0,1,BNPL,1,0,0,0,1,0,1,1,0,0,0,0,1,1,0,1,1,0,1,0
+UAE,Metro,42,Male,Bachelor,40540.0,3,236.01,6-12mo,3,Environment,5,3,0,2,3852.0,3,Cash,6,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0
+UAE,Metro,52,Female,Diploma,60682.0,6,317.85,6-12mo,1,Environment,2,4,1,0,5170.0,1,CreditEMI,8,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0,1,0,0
+India,Metro,31,Female,Diploma,16773.0,5,126.49,>2yr,3,Brand image,3,3,0,0,1831.0,2,CreditEMI,7,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,1,1,0
+India,Tier2,39,Male,Bachelor,10934.0,1,76.05,1-2yr,4,Lower bills,3,4,1,0,1528.0,4,CreditEMI,5,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,1,0,1
+UAE,Metro,36,Female,Diploma,25546.0,3,129.87,>2yr,2,Lower bills,4,4,0,1,2560.0,2,CreditEMI,5,1,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0
+India,Metro,45,Female,Secondary,20391.0,5,140.4,1-2yr,3,Lower bills,3,3,1,0,2251.0,4,BNPL,4,0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1
+India,Rural,18,Female,Bachelor,5245.0,4,36.28,<6mo,2,Environment,2,1,1,0,923.0,1,Cash,3,0,0,0,1,0,0,0,0,1,1,1,1,0,0,1,1,1,0,0
+UAE,Rural,31,Male,Diploma,51437.0,6,287.93,1-2yr,4,Environment,3,4,1,0,4816.0,3,CreditEMI,8,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1
+Singapore,Metro,29,Male,Bachelor,58825.0,4,313.06,>2yr,4,Lower bills,3,2,1,2,5297.0,3,CreditEMI,2,0,0,0,1,0,0,0,1,0,0,1,0,0,1,0,1,1,1,0
+Singapore,Metro,35,Female,Diploma,75272.0,3,403.53,<6mo,4,New tech,2,2,0,1,6530.0,4,Cash,3,0,0,0,1,1,1,0,1,0,0,0,0,1,0,0,1,0,0,1
+India,Tier2,42,Female,Diploma,9565.0,6,85.43,1-2yr,3,Lower bills,3,4,0,1,1407.0,4,CreditEMI,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0
+India,Metro,28,Female,Bachelor,18941.0,1,105.33,6-12mo,1,Lower bills,4,1,1,0,2005.0,2,CreditEMI,3,0,0,0,1,1,0,1,0,0,0,1,0,0,1,0,1,0,0,1
+UAE,Metro,29,Female,Secondary,21852.0,2,123.01,1-2yr,2,Environment,3,2,1,1,2283.0,3,Cash,4,0,1,1,0,0,1,0,0,0,1,0,0,1,1,0,0,0,0,1
+India,Metro,36,Male,Diploma,14402.0,6,87.19,<6mo,2,Lower bills,2,3,0,0,1646.0,3,Cash,3,0,0,0,1,0,0,1,0,0,1,0,1,0,0,1,0,0,1,0
+India,Rural,39,Male,Secondary,11772.0,2,71.13,<6mo,3,Brand image,2,2,0,0,1488.0,1,CreditEMI,3,0,0,0,1,0,0,0,1,0,0,1,1,0,0,1,0,1,1,0
+India,Metro,27,Male,Postgrad,16655.0,8,112.99,>2yr,2,Lower bills,3,4,0,0,1968.0,1,Cash,3,0,0,0,1,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+India,Metro,60,Male,Diploma,34528.0,4,183.17,>2yr,5,Lower bills,3,4,1,0,3333.0,5,CreditEMI,6,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0
+India,Rural,21,Male,Bachelor,6284.0,4,56.13,1-2yr,2,Lower bills,3,3,0,0,1174.0,2,BNPL,8,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0
+India,Rural,36,Male,Bachelor,11283.0,2,56.99,1-2yr,3,Environment,3,4,1,0,1579.0,3,Cash,5,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0
+India,Tier2,23,Female,Secondary,13975.0,7,113.27,1-2yr,3,New tech,4,4,1,1,1609.0,3,CreditEMI,5,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0
+India,Rural,20,Male,Diploma,35502.0,6,205.88,<6mo,2,New tech,3,5,1,0,3389.0,2,StoreFinance,3,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,1,1,0,0
+India,Rural,44,Female,Bachelor,5541.0,4,52.13,6-12mo,2,New tech,4,2,1,1,854.0,2,Cash,7,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0
+India,Tier2,34,Male,Diploma,14584.0,3,75.57,6-12mo,3,Environment,3,2,1,1,1708.0,2,CreditEMI,2,0,0,0,1,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0
+UAE,Metro,27,Male,Diploma,20188.0,1,105.92,1-2yr,3,Brand image,5,5,0,0,2273.0,4,Cash,4,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0
+UAE,Metro,36,Male,Bachelor,82040.0,5,438.4,>2yr,5,Environment,5,1,0,2,6916.0,4,Cash,5,1,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+UAE,Metro,60,Female,Bachelor,42605.0,2,227.71,1-2yr,3,New tech,2,3,1,2,3907.0,1,CreditEMI,4,0,0,0,1,0,0,0,0,1,1,0,0,1,0,1,0,1,0,1
+India,Tier2,43,Male,Postgrad,11729.0,4,74.86,6-12mo,3,New tech,3,2,0,1,1243.0,4,Cash,6,0,0,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,1
+India,Rural,46,Female,Bachelor,40811.0,3,208.84,<6mo,4,Environment,3,3,1,2,3896.0,3,StoreFinance,5,0,0,0,1,0,0,0,0,1,0,0,0,1,1,1,0,0,1,1
+India,Tier2,51,Female,Bachelor,17822.0,4,102.23,6-12mo,3,Environment,4,1,1,1,2030.0,1,CreditEMI,8,0,0,0,1,1,0,1,0,0,1,0,1,0,0,0,0,1,1,0
+India,Tier2,50,Male,Secondary,22338.0,1,123.47,6-12mo,2,New tech,2,3,1,0,2385.0,2,CreditEMI,6,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,1
+India,Metro,27,Female,Bachelor,69030.0,3,365.05,>2yr,5,Environment,3,4,0,1,6177.0,3,StoreFinance,10,1,1,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,1
+Singapore,Metro,39,Female,Bachelor,84212.0,3,422.64,>2yr,2,Environment,3,2,1,0,7291.0,1,Cash,2,0,1,0,0,0,1,0,0,0,1,1,0,0,1,1,0,0,0,0
+India,Metro,19,Male,Diploma,10058.0,3,78.22,>2yr,3,Lower bills,3,5,1,1,1380.0,5,CreditEMI,3,1,1,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,1,0
+UAE,Metro,38,Male,Bachelor,50287.0,4,255.4,>2yr,4,Lower bills,3,4,0,1,4611.0,4,Cash,7,0,0,0,1,0,0,1,0,0,1,1,0,1,0,1,0,0,0,0
+India,Metro,33,Female,Secondary,8580.0,4,62.14,1-2yr,1,Lower bills,4,2,1,0,1008.0,1,BNPL,5,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0
+UAE,Metro,32,Male,Bachelor,73349.0,3,376.75,1-2yr,5,New tech,3,4,0,0,6514.0,3,Cash,6,1,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,0
+India,Metro,40,Female,Secondary,24429.0,4,131.21,>2yr,5,Environment,2,5,1,1,8207.283594711793,5,BNPL,6,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,1,0
+India,Rural,25,Male,Diploma,4153.0,8,68.98,6-12mo,4,New tech,3,3,1,1,1094.0,4,BNPL,4,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1
+India,Tier2,30,Female,Bachelor,4229.0,5,56.14,>2yr,2,Lower bills,2,1,1,0,812.0,1,StoreFinance,7,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,0,0,1,0
+UAE,Metro,37,Other,Bachelor,40690.0,3,211.93,<6mo,3,Lower bills,4,3,1,1,3988.0,3,CreditEMI,6,0,0,0,1,0,0,0,0,1,1,0,0,0,0,1,0,1,1,0
+India,Metro,33,Male,Secondary,12601.0,5,76.57,>2yr,4,Govt rebate,2,1,0,0,1648.0,5,StoreFinance,8,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+India,Rural,23,Female,Secondary,10666.0,3,48.22,>2yr,4,Environment,3,4,0,1,1529.0,5,CreditEMI,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1
+Singapore,Tier2,21,Female,Secondary,93659.0,6,497.82,1-2yr,2,Environment,3,4,1,1,8035.0,1,CreditEMI,1,0,0,0,1,0,1,0,1,0,1,0,1,0,0,0,0,0,1,0
+India,Tier2,30,Female,Bachelor,18381.0,2,109.65,1-2yr,3,Lower bills,3,3,0,0,1988.0,3,Cash,4,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0
+UAE,Metro,32,Female,Secondary,21833.0,4,134.3,1-2yr,2,Environment,3,3,1,0,1952.0,1,CreditEMI,7,0,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,1
+India,Rural,38,Male,Bachelor,6366.0,1,34.83,1-2yr,3,New tech,3,3,1,1,1028.0,3,Cash,6,0,0,0,1,0,0,0,0,1,0,1,0,0,1,1,0,1,0,0
+UAE,Metro,22,Female,Secondary,73959.0,2,388.55,1-2yr,2,Environment,3,3,1,1,6437.0,4,Cash,1,0,0,0,1,1,0,1,1,0,0,0,0,1,0,0,0,1,0,1
+India,Metro,40,Male,Secondary,22206.0,5,128.19,1-2yr,4,New tech,3,3,0,1,2517.0,3,BNPL,6,0,0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,1,1
+India,Rural,18,Female,Diploma,66424.0,3,347.79,6-12mo,2,Brand image,2,3,1,0,5739.0,3,Cash,4,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0
+UAE,Metro,28,Female,Bachelor,28138.0,4,158.36,<6mo,3,Environment,5,2,1,0,2764.0,3,StoreFinance,4,1,1,1,0,0,0,0,0,1,1,0,1,0,0,0,1,1,0,1
+India,Metro,25,Male,Secondary,18076.0,4,105.14,>2yr,2,Environment,5,3,1,1,2023.0,2,CreditEMI,5,0,0,0,1,1,1,0,1,0,1,0,1,0,0,0,0,1,0,0
+India,Metro,23,Female,Postgrad,20640.0,5,149.37,1-2yr,5,Lower bills,3,3,1,2,2344.0,5,StoreFinance,4,0,0,0,1,0,1,0,1,0,0,1,0,1,1,0,1,0,1,1
+India,Tier2,47,Female,Diploma,9595.0,6,79.82,<6mo,4,Environment,4,2,1,1,1508.0,4,BNPL,5,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+UAE,Metro,18,Female,Diploma,65329.0,4,350.2,1-2yr,2,Lower bills,4,3,1,0,5904.0,1,CreditEMI,5,0,0,0,1,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0
+India,Metro,42,Male,Diploma,14877.0,3,92.61,>2yr,2,Lower bills,2,3,1,0,1545.0,2,StoreFinance,6,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,1,0,1,0
+India,Metro,42,Male,Bachelor,11804.0,8,120.97,6-12mo,3,Lower bills,2,3,1,0,3927.787802608136,3,CreditEMI,4,0,0,0,1,0,0,0,1,0,1,0,1,0,1,0,1,1,0,0
+Singapore,Metro,29,Female,Bachelor,36199.0,3,173.12,6-12mo,3,Environment,3,4,1,0,3293.0,3,CreditEMI,5,0,0,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1
+UAE,Metro,27,Female,Secondary,43594.0,8,246.88,1-2yr,3,Govt rebate,3,2,0,0,4073.0,3,StoreFinance,5,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1,0
+India,Tier2,44,Male,Bachelor,18943.0,3,110.76,1-2yr,5,New tech,2,4,1,2,2174.0,5,Cash,7,0,0,0,1,1,0,1,1,0,0,1,1,0,1,0,0,0,0,1
+UAE,Metro,43,Male,Diploma,32633.0,6,205.82,1-2yr,2,Lower bills,3,3,0,0,3032.0,4,StoreFinance,7,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0
+UAE,Metro,47,Male,Secondary,56480.0,2,291.25,1-2yr,3,Environment,4,4,1,1,4925.0,3,Cash,6,1,1,1,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0
+India,Metro,44,Female,Secondary,10052.0,3,64.13,>2yr,3,Brand image,3,1,1,1,1327.0,3,Cash,6,0,1,1,0,1,1,0,1,0,0,0,0,0,1,1,0,0,1,0
+UAE,Tier2,42,Male,Bachelor,53327.0,7,309.79,6-12mo,4,Lower bills,3,4,1,1,4770.0,5,Cash,3,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+UAE,Metro,18,Male,Postgrad,37717.0,4,204.69,1-2yr,3,Lower bills,3,2,1,0,3437.0,4,StoreFinance,3,0,0,0,1,1,0,0,1,0,1,0,0,0,0,1,0,1,1,0
+India,Metro,47,Male,Secondary,20654.0,3,110.78,>2yr,3,Environment,2,2,1,1,2117.0,4,Cash,3,0,0,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0
+India,Metro,25,Male,Postgrad,7037.0,6,56.34,<6mo,3,New tech,2,2,1,0,1111.0,3,Cash,5,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0
+Singapore,Metro,34,Female,Bachelor,38780.0,3,205.03,6-12mo,3,Lower bills,4,3,0,2,3667.0,2,BNPL,2,1,0,1,0,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0
+India,Tier2,24,Female,Secondary,13379.0,3,79.36,1-2yr,2,Environment,4,3,1,0,1410.0,2,Cash,2,1,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1
+Singapore,Metro,37,Female,Bachelor,36802.0,3,194.87,1-2yr,4,Govt rebate,4,3,0,0,3571.0,4,CreditEMI,3,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0
+UAE,Tier2,41,Female,Diploma,32220.0,4,201.4,6-12mo,4,Lower bills,2,2,0,2,3300.0,5,BNPL,4,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0
+UAE,Metro,32,Male,Secondary,57773.0,3,296.81,<6mo,5,Lower bills,4,4,0,1,5584.0,4,Cash,7,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0
+UAE,Metro,51,Other,Postgrad,37068.0,2,214.67,>2yr,3,Lower bills,4,3,1,2,3567.0,4,StoreFinance,4,0,0,0,1,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0
+India,Metro,48,Male,Diploma,12482.0,7,88.47,1-2yr,5,New tech,1,3,1,1,1630.0,4,Cash,6,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1
+UAE,Metro,38,Male,Bachelor,46790.0,4,245.6,<6mo,3,Lower bills,1,1,0,1,4195.0,2,Cash,7,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1
+India,Tier2,26,Female,Bachelor,19235.0,2,104.67,<6mo,3,Lower bills,3,2,1,0,1922.0,3,CreditEMI,1,0,0,0,1,0,1,0,1,0,0,1,0,0,0,1,0,1,1,0
+India,Rural,50,Female,Bachelor,10700.0,4,60.49,<6mo,3,Environment,3,4,1,0,1471.0,4,CreditEMI,5,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+India,Metro,33,Male,Postgrad,15505.0,3,105.11,6-12mo,3,Environment,4,3,1,0,1783.0,1,StoreFinance,1,0,0,0,1,1,0,0,1,0,0,0,1,0,0,1,0,0,1,1
+India,Metro,31,Female,Secondary,22037.0,4,113.0,<6mo,3,New tech,2,4,0,0,2285.0,2,BNPL,4,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,1,1,1
+UAE,Metro,37,Female,Bachelor,55958.0,6,299.78,1-2yr,3,Lower bills,1,2,0,1,5008.0,4,Cash,4,0,0,0,1,0,1,0,0,0,1,0,1,1,0,1,0,0,1,0
+UAE,Metro,18,Male,Bachelor,17308.0,5,115.4,<6mo,3,Govt rebate,1,3,1,0,1972.0,3,CreditEMI,3,0,0,0,1,1,1,1,0,0,0,0,1,0,0,1,0,0,0,1
+UAE,Metro,39,Female,Bachelor,15890.0,6,104.56,1-2yr,5,Environment,3,3,1,1,1929.0,5,BNPL,9,0,0,0,1,0,0,1,0,0,1,0,0,1,1,0,1,0,0,0
+Singapore,Metro,40,Female,Secondary,26398.0,2,141.89,6-12mo,2,Lower bills,2,4,0,0,2694.0,1,StoreFinance,5,0,0,0,1,0,1,0,1,0,0,0,0,0,1,0,1,1,0,1
+India,Metro,32,Male,Diploma,38075.0,3,218.86,>2yr,4,Lower bills,4,3,0,1,3536.0,5,BNPL,5,0,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,1,0,1
+India,Metro,31,Male,Bachelor,11548.0,3,58.35,6-12mo,3,Brand image,2,4,0,0,1534.0,3,CreditEMI,7,0,1,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0
+Singapore,Tier2,37,Male,Postgrad,38571.0,4,220.93,1-2yr,5,Lower bills,4,3,0,1,3711.0,5,Cash,3,0,0,0,1,1,1,0,1,0,1,0,1,0,0,1,0,0,0,0
+India,Metro,38,Male,Secondary,8421.0,6,78.55,<6mo,5,Brand image,3,4,1,1,1457.0,5,Cash,3,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,1,1,0
+UAE,Metro,44,Male,Bachelor,39301.0,4,209.24,6-12mo,5,Environment,3,3,1,1,3575.0,4,CreditEMI,5,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+India,Metro,32,Female,Diploma,44470.0,3,239.77,>2yr,3,Brand image,2,4,0,1,4172.0,3,CreditEMI,10,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,1
+UAE,Metro,23,Male,Bachelor,17982.0,4,128.7,6-12mo,2,Environment,5,3,1,0,1942.0,1,Cash,9,0,0,0,1,0,0,1,1,0,1,0,1,1,0,0,0,1,0,1
+India,Metro,41,Male,Bachelor,19764.0,1,111.69,6-12mo,2,Environment,4,2,1,0,2061.0,1,BNPL,3,0,0,0,1,1,1,0,1,0,0,0,0,0,1,0,0,1,1,1
+India,Metro,52,Female,Bachelor,26936.0,6,169.16,6-12mo,4,Lower bills,3,3,0,0,2821.0,4,CreditEMI,4,0,0,0,1,0,0,0,1,0,0,0,1,1,0,1,0,1,0,0
+India,Rural,42,Male,Bachelor,20779.0,1,102.93,>2yr,3,Brand image,2,4,1,0,2160.0,2,CreditEMI,5,0,0,0,1,0,1,1,0,0,0,1,1,1,0,0,0,0,0,1
+India,Tier2,32,Male,Secondary,13852.0,5,93.76,>2yr,4,Lower bills,3,2,0,0,1568.0,2,CreditEMI,4,0,0,0,1,1,0,1,0,0,0,1,0,0,1,0,1,0,0,0
+India,Metro,24,Female,Bachelor,20036.0,3,93.5,1-2yr,4,Environment,3,4,0,1,2409.0,5,CreditEMI,4,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0
+India,Metro,31,Female,Postgrad,18832.0,8,142.24,>2yr,4,Govt rebate,3,3,1,2,2187.0,3,BNPL,8,0,0,0,1,1,0,0,0,0,0,0,1,0,1,1,1,1,0,0
+India,Metro,40,Male,Secondary,14350.0,3,83.78,>2yr,4,Lower bills,2,4,1,1,1884.0,3,CreditEMI,3,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,1
+UAE,Rural,32,Female,Secondary,26413.0,2,125.89,<6mo,1,Lower bills,4,4,1,0,2768.0,1,CreditEMI,2,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,1,1
+UAE,Metro,36,Male,Bachelor,34816.0,8,213.06,1-2yr,3,Lower bills,4,1,1,2,3407.0,3,CreditEMI,9,1,1,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,1,0
+India,Rural,39,Female,Bachelor,12722.0,4,88.46,6-12mo,4,Lower bills,3,3,0,0,1600.0,4,CreditEMI,5,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0
+India,Rural,35,Male,Bachelor,10241.0,3,65.6,<6mo,1,Govt rebate,4,2,1,0,1310.0,1,Cash,8,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0
+India,Tier2,46,Other,Secondary,15399.0,6,107.84,>2yr,2,Lower bills,3,3,0,0,1636.0,3,CreditEMI,3,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,1,1,0
+India,Metro,31,Male,Bachelor,14565.0,5,97.21,1-2yr,3,Lower bills,3,4,1,0,1510.0,4,CreditEMI,5,0,0,0,1,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0
+Singapore,Metro,43,Male,Bachelor,11949.0,3,54.93,6-12mo,3,New tech,4,3,0,1,1463.0,3,Cash,5,0,0,0,1,0,1,1,0,0,1,0,0,0,0,1,1,0,0,1
+India,Metro,38,Female,Diploma,22891.0,5,140.79,>2yr,2,New tech,3,3,1,0,2331.0,1,CreditEMI,6,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0
+UAE,Metro,38,Female,Postgrad,57942.0,6,317.42,6-12mo,4,Govt rebate,1,2,0,0,5358.0,3,Cash,2,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+India,Tier2,31,Female,Secondary,7584.0,2,63.54,<6mo,5,New tech,3,4,1,0,1091.0,5,Cash,4,0,0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0
+India,Tier2,27,Male,Diploma,10914.0,5,78.42,6-12mo,2,Environment,3,3,0,0,1431.0,1,BNPL,6,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+UAE,Metro,18,Male,Bachelor,15557.0,5,108.78,1-2yr,3,Environment,3,3,1,0,1904.0,4,CreditEMI,5,0,0,0,1,0,1,1,0,0,0,1,0,1,0,0,0,0,0,1
+India,Tier2,38,Female,Secondary,20316.0,3,120.38,<6mo,4,Lower bills,2,3,1,2,2239.0,4,Cash,4,0,0,0,1,0,1,1,0,0,1,1,1,0,0,1,0,0,1,1
+India,Metro,53,Female,Bachelor,3721.0,1,26.66,<6mo,2,Environment,5,2,0,2,993.0,2,CreditEMI,1,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,1,1,1
+India,Metro,27,Male,Bachelor,9700.0,4,81.4,1-2yr,4,Govt rebate,3,4,1,0,1345.0,4,StoreFinance,3,0,0,0,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0
+India,Metro,32,Male,Postgrad,22611.0,2,119.27,1-2yr,5,Lower bills,3,2,1,2,2605.0,5,StoreFinance,8,0,0,0,1,0,1,1,1,0,0,0,0,0,1,1,0,0,0,0
+UAE,Tier2,22,Male,Postgrad,43665.0,4,233.88,6-12mo,2,Brand image,4,2,0,2,4032.0,3,Cash,5,0,0,0,1,0,0,0,1,0,0,1,1,1,0,1,0,1,1,0
+India,Tier2,39,Male,Bachelor,16522.0,1,78.45,6-12mo,2,Environment,3,2,0,1,1799.0,2,CreditEMI,3,0,0,0,1,1,0,1,0,0,0,1,0,1,0,1,0,1,0,0
+India,Tier2,51,Male,Diploma,13118.0,5,94.15,1-2yr,2,Environment,3,4,1,0,1411.0,3,StoreFinance,3,0,1,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,1
+UAE,Metro,42,Male,Secondary,52385.0,7,281.47,1-2yr,3,Govt rebate,4,3,1,1,4615.0,2,CreditEMI,5,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,0,1,0,0
+India,Metro,41,Male,Diploma,9554.0,4,80.77,>2yr,3,Lower bills,3,3,0,0,1360.0,4,BNPL,3,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,1,0,0
+India,Tier2,52,Female,Bachelor,17698.0,3,97.9,6-12mo,3,Environment,2,4,0,0,2159.0,3,CreditEMI,5,0,0,0,1,1,0,1,1,0,0,1,1,0,0,0,0,0,0,1
+India,Metro,36,Female,Secondary,11861.0,6,89.59,6-12mo,3,Lower bills,4,3,1,2,1448.0,3,CreditEMI,7,0,0,0,1,0,0,0,0,1,0,1,1,0,1,1,1,1,0,0
+UAE,Metro,36,Female,Postgrad,70290.0,2,366.25,6-12mo,1,Brand image,4,3,1,1,6181.0,1,StoreFinance,2,0,0,0,1,0,0,0,1,0,0,1,1,0,0,1,1,1,0,0
+India,Tier2,50,Female,Diploma,14591.0,3,81.88,1-2yr,4,Environment,3,5,1,1,1856.0,2,Cash,5,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1
+India,Metro,37,Male,Secondary,20004.0,5,135.33,1-2yr,2,Lower bills,3,1,0,0,2113.0,4,CreditEMI,5,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,1,1
+India,Metro,48,Male,Postgrad,23708.0,7,156.9,<6mo,4,Lower bills,2,2,0,1,2573.0,4,CreditEMI,5,0,0,0,1,0,0,1,0,0,1,1,0,1,0,0,0,0,1,1
+UAE,Metro,54,Female,Postgrad,64443.0,3,338.55,>2yr,3,Environment,2,3,1,1,14457.0964855926,2,CreditEMI,4,0,0,0,1,0,0,0,0,1,0,0,0,1,1,1,0,1,0,0
+India,Rural,38,Female,Postgrad,8030.0,3,55.13,>2yr,3,Govt rebate,4,2,1,1,1190.0,4,Cash,6,0,0,0,1,0,0,1,0,0,0,1,0,0,1,1,1,0,0,0
+India,Tier2,29,Male,Secondary,7848.0,6,71.15,1-2yr,5,Lower bills,2,4,1,1,1336.0,5,CreditEMI,6,0,0,0,1,1,0,0,0,0,0,1,0,0,0,1,1,1,0,0
+India,Rural,30,Female,Bachelor,44346.0,3,219.74,1-2yr,4,Lower bills,2,4,1,1,4147.0,4,StoreFinance,6,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1,1,0,0,0
+India,Tier2,36,Male,Bachelor,4872.0,4,62.15,1-2yr,3,Environment,2,2,1,1,1001.0,3,StoreFinance,7,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,1,0,0
+India,Metro,46,Male,Bachelor,12127.0,2,75.45,1-2yr,2,Lower bills,3,2,0,1,1618.0,3,CreditEMI,3,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0
+India,Metro,21,Male,Diploma,11300.0,3,70.82,1-2yr,4,Lower bills,3,2,1,0,1580.0,5,StoreFinance,2,0,0,0,1,0,1,0,0,0,0,1,1,0,1,1,0,1,0,0
+India,Metro,40,Female,Bachelor,21594.0,3,126.55,<6mo,3,Lower bills,4,3,0,1,2238.0,1,Cash,3,0,0,0,1,0,1,0,1,0,1,1,0,0,0,0,1,0,0,0
+India,Tier2,58,Male,Secondary,6160.0,5,58.36,<6mo,5,Brand image,1,4,1,0,1184.0,3,Cash,5,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,0,1,0
+UAE,Metro,30,Male,Diploma,33274.0,4,191.86,<6mo,3,Brand image,3,3,1,0,3296.0,4,BNPL,8,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1,1
+India,Metro,37,Male,Bachelor,31486.0,5,171.81,>2yr,5,Lower bills,3,3,0,0,2889.0,4,CreditEMI,3,1,0,0,0,1,0,0,1,0,1,1,0,0,1,1,0,1,0,0
+UAE,Metro,18,Female,Postgrad,55817.0,5,311.92,6-12mo,3,Govt rebate,3,5,1,2,5082.0,4,Cash,7,0,0,0,1,0,1,0,0,0,1,1,0,0,0,1,1,0,1,0
+India,Metro,30,Female,Bachelor,16426.0,3,89.84,1-2yr,1,Lower bills,3,3,0,0,1942.0,1,StoreFinance,1,0,0,0,1,0,1,1,0,0,0,1,0,0,1,1,0,0,0,0
+India,Metro,29,Male,Diploma,8459.0,3,50.91,<6mo,3,Lower bills,3,2,0,1,1096.0,3,BNPL,5,0,0,0,1,0,1,0,0,0,1,1,0,0,1,0,0,0,1,1
+India,Metro,40,Male,Diploma,4604.0,3,25.77,1-2yr,3,New tech,2,4,1,0,856.0,3,StoreFinance,3,0,0,0,1,0,0,1,0,0,1,1,0,0,0,1,0,1,0,1
+India,Tier2,28,Male,Diploma,17782.0,5,128.42,>2yr,3,Environment,2,3,1,0,2018.0,1,CreditEMI,8,0,1,1,0,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1
+India,Metro,37,Male,Postgrad,4315.0,6,51.2,1-2yr,4,Lower bills,2,1,1,1,975.0,3,CreditEMI,2,0,0,0,1,0,1,1,0,0,1,0,1,0,1,0,0,1,0,0
+Singapore,Metro,36,Female,Diploma,67136.0,4,360.02,>2yr,1,Lower bills,3,3,0,0,5824.0,1,Cash,7,0,0,0,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0
+Singapore,Metro,33,Male,Postgrad,136430.0,8,700.03,1-2yr,4,Environment,2,5,1,1,11531.0,3,CreditEMI,2,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,1
+Singapore,Metro,39,Male,Secondary,26566.0,4,149.1,1-2yr,4,Brand image,3,3,0,1,2895.0,5,CreditEMI,4,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1
+India,Metro,26,Female,Secondary,17365.0,5,116.39,1-2yr,5,Brand image,2,2,1,0,2025.0,5,CreditEMI,6,0,0,0,1,0,1,0,0,0,0,1,0,0,0,1,0,0,0,1
+India,Tier2,51,Female,Diploma,6090.0,4,49.63,1-2yr,2,Govt rebate,4,1,1,0,910.0,2,Cash,8,0,0,0,1,0,0,1,1,0,1,0,0,0,0,1,0,1,0,1
+UAE,Rural,18,Female,Bachelor,15451.0,8,116.41,>2yr,3,New tech,3,3,1,2,1761.0,2,CreditEMI,5,0,0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0
+India,Tier2,39,Female,Bachelor,11444.0,3,71.85,1-2yr,4,Lower bills,2,3,1,0,1472.0,4,CreditEMI,6,0,0,0,1,0,0,0,0,1,1,0,0,0,0,1,0,1,0,1
+UAE,Metro,36,Female,Diploma,37729.0,5,207.45,>2yr,3,Lower bills,4,4,1,0,3588.0,4,Cash,8,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0,1,1,0,0
+UAE,Metro,65,Male,Postgrad,35023.0,5,202.03,1-2yr,5,Lower bills,4,2,0,2,3471.0,5,StoreFinance,7,0,0,0,1,0,0,1,1,0,1,1,0,0,0,0,1,0,0,0
+India,Rural,38,Male,Bachelor,66662.0,2,356.24,>2yr,1,Environment,3,1,0,0,5792.0,3,Cash,5,0,0,1,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0
+India,Tier2,47,Female,Bachelor,26609.0,4,155.33,1-2yr,2,Lower bills,3,2,1,0,2712.0,3,Cash,6,0,0,0,1,0,1,1,1,0,1,0,0,0,1,0,0,0,1,1
+India,Tier2,18,Male,Diploma,6777.0,8,68.63,>2yr,2,Brand image,3,3,0,0,1071.0,2,CreditEMI,5,0,0,0,1,1,0,1,1,0,0,1,0,0,0,0,0,0,1,0
+Singapore,Metro,31,Male,Bachelor,51906.0,5,278.13,<6mo,3,Govt rebate,3,3,1,1,4749.0,3,Cash,3,0,0,0,1,1,1,0,1,0,0,0,0,1,0,0,1,0,0,0
+Singapore,Metro,38,Female,Diploma,49129.0,2,261.2,1-2yr,3,Lower bills,3,3,0,1,4462.0,1,Cash,5,0,1,0,0,0,1,1,0,0,1,1,0,0,1,0,0,0,1,0
+India,Metro,37,Male,Secondary,10523.0,6,75.4,1-2yr,3,Govt rebate,3,3,0,0,1349.0,4,Cash,4,0,0,0,1,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1
+India,Metro,41,Male,Diploma,10048.0,5,91.24,6-12mo,3,Brand image,4,3,1,1,1422.0,4,CreditEMI,5,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,1,0
+India,Metro,41,Female,Bachelor,32036.0,7,184.9,<6mo,2,Brand image,2,5,1,1,3191.0,2,CreditEMI,6,1,0,1,0,0,0,0,0,1,0,1,0,0,1,1,1,1,0,0
+Singapore,Metro,28,Female,Secondary,31623.0,2,167.4,6-12mo,3,Environment,4,3,1,1,3211.0,2,BNPL,2,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0,0,1,1
+UAE,Metro,39,Male,Secondary,107470.0,3,551.81,<6mo,4,Environment,2,4,0,2,9096.0,4,Cash,4,1,1,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0
+India,Rural,43,Male,Postgrad,13598.0,3,71.48,1-2yr,2,Lower bills,4,2,0,1,1486.0,3,Cash,2,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+Singapore,Metro,47,Male,Bachelor,24669.0,4,152.62,>2yr,2,Lower bills,3,3,0,1,8925.108271087169,1,StoreFinance,2,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0,1,1,0
+Singapore,Metro,42,Male,Bachelor,52032.0,4,276.11,1-2yr,5,Govt rebate,3,2,0,1,4740.0,4,Cash,3,0,1,1,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1
+UAE,Metro,48,Male,Diploma,19376.0,5,133.12,<6mo,3,Lower bills,3,2,1,0,2265.0,4,Cash,8,0,0,0,1,0,1,0,0,0,1,1,0,1,0,1,0,0,1,0
+UAE,Metro,48,Female,Bachelor,93106.0,6,486.38,>2yr,1,Govt rebate,2,3,1,1,7817.0,1,CreditEMI,3,1,1,1,0,1,1,0,1,0,0,1,1,0,0,0,1,0,1,0
+India,Metro,25,Male,Secondary,33196.0,4,174.96,1-2yr,5,Environment,3,2,1,1,3291.0,5,Cash,3,0,0,0,1,1,0,1,1,0,0,1,1,0,1,0,0,1,1,0
+India,Tier2,58,Female,Postgrad,24265.0,4,125.44,6-12mo,2,Govt rebate,4,4,0,1,2604.0,2,BNPL,7,0,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0
+UAE,Metro,41,Male,Bachelor,17362.0,6,127.49,1-2yr,4,Govt rebate,3,2,1,1,2296.0,3,StoreFinance,4,0,0,0,1,0,0,0,0,1,0,1,0,1,1,0,1,0,0,1
+Singapore,Metro,31,Male,Bachelor,108679.0,2,555.5,>2yr,4,New tech,2,4,1,2,9249.0,4,StoreFinance,1,0,0,0,1,1,0,1,0,0,0,1,0,0,1,1,1,1,0,0
+UAE,Metro,22,Female,Bachelor,37158.0,2,201.93,6-12mo,2,New tech,3,3,0,0,3415.0,3,StoreFinance,4,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0
+UAE,Metro,38,Male,Bachelor,42664.0,6,242.04,1-2yr,3,Lower bills,3,2,0,2,3914.0,4,Cash,9,0,0,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0
+UAE,Tier2,26,Male,Bachelor,13751.0,1,92.55,1-2yr,2,Environment,4,4,1,0,1545.0,3,Cash,6,1,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,0,0,1
+Singapore,Metro,29,Male,Diploma,40548.0,3,209.4,6-12mo,5,Govt rebate,3,2,1,1,3874.0,5,Cash,2,0,0,0,1,1,1,1,0,0,0,0,0,0,1,0,0,0,1,1
+Singapore,Metro,25,Male,Postgrad,50231.0,3,264.85,1-2yr,3,Lower bills,3,3,0,1,4574.0,3,CreditEMI,3,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0
+India,Metro,37,Male,Bachelor,30702.0,2,177.76,>2yr,3,Lower bills,3,4,1,1,3115.0,2,Cash,4,0,0,0,1,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0
+India,Metro,52,Male,Diploma,10892.0,1,64.95,<6mo,2,Environment,3,4,1,1,1598.0,1,BNPL,6,0,0,0,1,0,0,0,0,1,0,1,0,0,1,1,0,0,0,1
+India,Tier2,27,Female,Postgrad,2456.0,5,38.85,6-12mo,3,New tech,3,3,1,0,798.0,2,StoreFinance,4,0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,1
+India,Tier2,49,Female,Bachelor,12704.0,6,97.62,>2yr,4,New tech,4,1,1,2,1592.0,4,CreditEMI,5,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,1,1,1
+India,Tier2,50,Female,Diploma,12242.0,6,100.98,6-12mo,2,Brand image,3,4,0,1,1495.0,1,Cash,6,0,0,0,1,0,1,1,0,0,0,1,1,1,0,1,0,0,0,0
+India,Metro,32,Male,Postgrad,5610.0,1,42.91,>2yr,3,Lower bills,2,2,0,0,1205.0,5,StoreFinance,5,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,1,1,1
+Singapore,Metro,41,Female,Diploma,46580.0,4,244.95,>2yr,5,Environment,2,4,0,0,4427.0,4,BNPL,5,0,0,0,1,0,1,0,1,0,0,0,0,0,1,0,1,1,0,1
+Singapore,Metro,54,Female,Secondary,18390.0,3,112.9,>2yr,4,Govt rebate,2,3,1,2,2156.0,5,StoreFinance,4,0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0
+UAE,Metro,30,Female,Secondary,92316.0,6,502.89,1-2yr,1,Lower bills,4,2,0,0,7775.0,1,CreditEMI,5,1,0,0,0,0,0,0,0,1,1,1,0,0,1,0,1,0,0,0
+Singapore,Metro,25,Male,Secondary,60570.0,3,318.41,6-12mo,5,Lower bills,2,4,1,1,5304.0,5,CreditEMI,3,0,0,0,1,0,0,0,0,1,0,1,1,1,0,0,0,1,0,0
+UAE,Metro,20,Female,Diploma,105850.0,8,572.63,>2yr,2,Brand image,4,3,0,1,9073.0,1,BNPL,2,0,1,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,1,1
+India,Rural,46,Male,Bachelor,27803.0,3,149.19,1-2yr,4,Lower bills,2,2,1,2,2773.0,5,BNPL,2,0,0,0,1,0,0,1,1,0,1,1,0,0,1,0,1,0,0,0
+India,Tier2,43,Female,Diploma,9017.0,3,75.88,1-2yr,5,Lower bills,3,3,0,2,1360.0,5,StoreFinance,3,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0
+India,Metro,37,Female,Diploma,13280.0,5,103.16,1-2yr,1,Brand image,5,3,0,1,1474.0,1,Cash,3,0,0,0,1,1,0,0,0,0,0,0,1,0,1,1,1,0,1,0
+India,Tier2,26,Female,Secondary,9599.0,5,70.1,6-12mo,4,New tech,2,3,1,2,1364.0,5,StoreFinance,8,0,0,0,1,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0
+India,Tier2,32,Female,Bachelor,9931.0,6,54.93,>2yr,4,Lower bills,3,3,0,2,1447.0,4,StoreFinance,6,0,0,0,1,1,0,0,1,0,0,0,0,1,0,1,0,0,0,0
+India,Tier2,22,Male,Secondary,16260.0,4,99.74,6-12mo,3,Lower bills,3,5,1,1,1971.0,5,CreditEMI,6,0,0,0,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1
+UAE,Metro,27,Male,Postgrad,41369.0,2,195.65,<6mo,4,Environment,3,4,1,1,3989.0,4,Cash,7,0,0,0,1,1,0,1,1,0,0,0,0,0,1,0,1,1,1,0
+India,Metro,31,Female,Bachelor,6255.0,1,38.28,<6mo,3,Environment,2,5,0,0,905.0,2,Cash,3,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+India,Tier2,23,Female,Secondary,18249.0,4,109.17,6-12mo,2,Lower bills,3,2,0,0,1920.0,2,CreditEMI,3,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,0,1,0,1
+UAE,Metro,37,Female,Secondary,45248.0,4,256.63,6-12mo,4,Lower bills,4,5,1,2,4279.0,5,CreditEMI,4,0,0,0,1,0,0,0,0,1,0,0,0,1,1,1,0,1,0,1
+UAE,Metro,40,Female,Bachelor,33756.0,4,178.21,>2yr,2,Environment,3,2,1,1,3223.0,2,CreditEMI,5,0,0,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,1,1
+India,Rural,48,Female,Secondary,50056.0,1,251.15,1-2yr,4,New tech,3,3,1,2,4653.0,5,BNPL,4,0,1,0,0,0,0,0,0,1,0,0,1,1,1,0,0,1,0,1
+Singapore,Metro,38,Female,Postgrad,16192.0,3,99.43,1-2yr,3,Environment,4,5,1,0,1909.0,3,StoreFinance,2,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,1
+UAE,Metro,63,Female,Bachelor,26965.0,4,153.52,>2yr,4,New tech,3,3,1,0,2835.0,5,CreditEMI,8,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0,0,1
+India,Metro,23,Male,Secondary,7916.0,5,52.86,<6mo,2,Lower bills,2,5,0,0,1104.0,1,StoreFinance,5,0,0,0,1,1,0,0,0,0,0,0,1,1,1,1,0,1,0,0
+India,Rural,43,Male,Bachelor,29029.0,4,160.92,1-2yr,4,Govt rebate,3,3,1,1,2880.0,5,CreditEMI,6,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0
+India,Rural,33,Male,Secondary,53604.0,3,274.91,1-2yr,3,Govt rebate,2,3,1,0,4841.0,1,Cash,5,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1
+UAE,Metro,34,Female,Diploma,11753.0,3,77.7,1-2yr,4,Lower bills,2,1,0,0,1455.0,4,StoreFinance,3,0,0,0,1,0,0,0,0,1,0,0,0,1,0,1,0,0,1,1
+India,Tier2,27,Female,Bachelor,10254.0,5,60.63,<6mo,3,Environment,3,2,1,1,1397.0,4,CreditEMI,5,0,0,0,1,0,1,1,0,0,0,0,0,1,0,1,0,0,1,0
+India,Tier2,24,Female,Bachelor,56006.0,5,294.04,1-2yr,4,Brand image,4,3,1,2,5075.0,5,CreditEMI,5,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+India,Metro,30,Female,Diploma,16289.0,4,92.33,>2yr,4,Govt rebate,3,3,1,0,1847.0,1,StoreFinance,4,0,0,0,1,0,1,0,0,0,1,0,0,0,0,1,0,1,0,1
+India,Tier2,35,Male,Diploma,19993.0,2,109.46,>2yr,4,Environment,4,3,1,0,2018.0,4,BNPL,8,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,0,1,1,0
+India,Metro,22,Female,Bachelor,4021.0,4,50.09,>2yr,5,Brand image,4,2,0,2,855.0,5,Cash,1,1,1,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0
+India,Metro,34,Female,Bachelor,16546.0,2,98.42,6-12mo,2,Lower bills,3,3,1,1,1702.0,3,StoreFinance,2,1,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,1
+India,Tier2,48,Male,Diploma,10694.0,1,54.31,<6mo,2,Lower bills,4,3,0,0,3257.1340483776603,2,BNPL,9,0,0,0,1,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0
+India,Rural,26,Male,Secondary,12573.0,8,86.33,<6mo,4,Brand image,3,2,0,0,1518.0,3,Cash,1,0,0,0,1,1,0,0,1,0,0,1,0,0,1,0,0,1,1,0
+India,Tier2,40,Male,Postgrad,76906.16345994211,7,399.78,<6mo,4,Lower bills,3,4,1,2,6654.0,5,StoreFinance,3,0,0,0,1,1,0,0,0,0,1,1,0,1,0,0,1,0,0,1
+India,Metro,23,Female,Diploma,6850.0,4,47.34,6-12mo,3,Lower bills,5,3,1,0,1257.0,3,StoreFinance,5,1,0,0,0,1,0,0,0,0,1,0,1,0,0,0,1,0,1,0
+India,Metro,25,Female,Diploma,41305.0,2,203.67,6-12mo,2,Lower bills,2,3,0,0,3851.0,2,Cash,6,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0,0,0,1,1
+India,Tier2,26,Female,Secondary,19736.0,3,109.33,<6mo,4,Lower bills,2,4,0,0,2115.0,4,CreditEMI,2,0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0
+India,Tier2,46,Male,Postgrad,4815.0,2,15.43,>2yr,3,Lower bills,3,2,0,0,1030.0,3,Cash,3,0,0,0,1,0,0,0,0,1,0,1,1,1,0,1,0,0,0,0
+Singapore,Metro,33,Female,Bachelor,36671.0,3,203.89,6-12mo,4,Lower bills,2,5,1,1,3463.0,4,BNPL,2,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0
+India,Metro,30,Female,Diploma,17516.0,4,114.2,<6mo,5,Govt rebate,4,3,1,1,2122.0,5,CreditEMI,9,0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,1,1,0,1
+India,Metro,42,Male,Bachelor,27223.0,2,155.38,6-12mo,3,Environment,4,4,0,0,2718.0,3,StoreFinance,4,0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1,0,1,0
+Singapore,Metro,21,Male,Postgrad,39918.0,4,215.04,1-2yr,2,Govt rebate,2,3,1,1,3705.0,1,BNPL,1,0,0,0,1,0,0,1,1,0,1,1,0,0,0,0,0,0,0,1
+India,Metro,34,Female,Diploma,7047.0,4,65.74,6-12mo,3,New tech,3,2,1,2,1058.0,4,Cash,6,1,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+India,Tier2,29,Male,Postgrad,14736.0,1,88.13,6-12mo,3,Govt rebate,4,3,0,0,1757.0,4,CreditEMI,5,0,0,0,1,1,1,0,1,0,0,1,1,0,0,0,0,0,1,0
+India,Tier2,30,Male,Bachelor,15609.0,2,104.48,1-2yr,4,Environment,2,2,1,1,1914.0,3,Cash,5,0,0,0,1,0,0,1,0,0,0,1,0,1,0,1,0,0,1,1
+UAE,Metro,35,Male,Bachelor,21378.0,3,111.75,6-12mo,5,Lower bills,2,3,0,1,2271.0,5,CreditEMI,6,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0
+UAE,Metro,20,Female,Bachelor,29809.0,7,177.49,6-12mo,3,Lower bills,3,2,1,0,3078.0,3,BNPL,2,0,0,0,1,0,0,0,0,1,1,0,0,0,0,1,0,1,0,0
+India,Metro,42,Female,Diploma,44494.128650303166,5,234.09,1-2yr,4,Brand image,2,3,1,0,4055.0,3,Cash,6,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,1,1,0
+UAE,Metro,26,Male,Secondary,55984.0,3,298.15,1-2yr,3,Govt rebate,2,3,0,0,5154.0,4,StoreFinance,6,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,1,0,1,0
+India,Metro,44,Male,Bachelor,4775.0,4,38.94,6-12mo,4,Govt rebate,4,3,0,0,979.0,4,Cash,7,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0,1,1,0,0
+Singapore,Metro,27,Female,Postgrad,22954.0,5,141.48,<6mo,2,Govt rebate,3,3,1,0,2449.0,1,StoreFinance,5,0,0,0,1,0,0,0,0,1,1,0,0,1,1,0,1,0,1,1
+Singapore,Metro,36,Female,Postgrad,80037.0,4,431.82,<6mo,4,Environment,3,2,0,1,7046.0,4,CreditEMI,2,0,0,0,1,0,1,0,0,0,0,1,0,1,0,0,1,0,1,1
+India,Metro,44,Female,Bachelor,7370.0,6,67.36,1-2yr,4,Lower bills,2,3,1,0,1181.0,5,Cash,7,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,1,0
+India,Metro,35,Male,Diploma,40491.0,4,225.15,>2yr,4,Environment,4,3,1,1,3968.0,5,StoreFinance,5,0,1,1,0,1,0,0,0,0,1,0,0,0,0,1,0,1,1,0
+Singapore,Metro,23,Female,Bachelor,58319.0,5,321.41,6-12mo,2,Brand image,3,3,0,0,5089.0,2,CreditEMI,1,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,1
+UAE,Metro,37,Female,Bachelor,20807.0,3,113.32,>2yr,1,Govt rebate,3,5,0,0,2168.0,1,StoreFinance,6,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1
+Singapore,Tier2,27,Female,Postgrad,42050.0,5,247.75,6-12mo,2,Environment,3,4,1,0,4023.0,1,Cash,6,0,0,0,1,0,0,0,0,1,0,1,1,1,0,1,0,1,0,1
+India,Tier2,31,Male,Secondary,13106.0,3,70.42,1-2yr,3,Environment,5,2,1,0,1471.0,3,Cash,3,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,1,0,0
+UAE,Metro,40,Female,Secondary,142300.0,1,714.73,<6mo,3,Govt rebate,3,3,0,2,12031.0,2,BNPL,2,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0
+Singapore,Metro,23,Male,Diploma,40946.0,4,225.72,<6mo,2,Lower bills,2,3,0,0,3763.0,2,CreditEMI,3,0,0,0,1,1,1,1,0,0,0,0,0,0,1,1,0,0,0,0
+UAE,Metro,53,Other,Postgrad,33961.0,5,187.67,6-12mo,5,Lower bills,2,3,1,0,3443.0,5,CreditEMI,4,1,0,0,0,1,0,0,1,0,0,0,1,1,0,0,1,0,0,0
+India,Tier2,44,Female,Bachelor,33261.0,3,185.54,6-12mo,2,Govt rebate,2,4,1,1,3206.0,1,StoreFinance,4,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0
+Singapore,Metro,34,Male,Postgrad,31423.0,5,180.63,1-2yr,3,Brand image,2,2,0,0,2938.0,4,StoreFinance,3,0,1,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,1
+India,Tier2,65,Male,Secondary,13585.0,6,83.15,>2yr,3,Lower bills,2,3,1,1,1833.0,2,CreditEMI,5,0,0,0,1,1,0,1,1,0,1,0,0,0,0,0,0,1,1,0
+India,Tier2,35,Female,Secondary,15461.0,4,87.8,1-2yr,2,Govt rebate,2,4,1,0,1786.0,3,CreditEMI,4,0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0
+India,Metro,38,Male,Diploma,25271.0,3,139.47,6-12mo,3,Lower bills,4,3,1,1,2667.0,3,StoreFinance,5,0,0,0,1,0,1,0,0,0,1,0,1,0,0,1,1,0,0,0
+India,Metro,34,Female,Bachelor,13129.0,5,85.12,6-12mo,3,Govt rebate,2,4,0,0,1871.0,3,BNPL,5,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,1,0,1
+India,Rural,39,Female,Secondary,10179.0,3,66.16,1-2yr,4,Lower bills,4,3,0,1,1418.0,5,StoreFinance,4,1,1,0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,1
+India,Tier2,45,Female,Secondary,18305.0,4,101.51,1-2yr,2,Lower bills,3,2,1,1,1893.0,3,Cash,7,0,0,0,1,0,0,1,1,0,0,0,0,1,1,0,0,0,0,1
+Singapore,Metro,48,Male,Bachelor,52266.0,2,269.58,1-2yr,4,New tech,3,2,1,0,4823.0,2,CreditEMI,2,0,0,0,1,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0
+India,Tier2,48,Male,Diploma,6206.0,5,59.08,<6mo,3,Lower bills,3,4,0,1,1206.0,3,CreditEMI,6,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0
+UAE,Metro,39,Female,Bachelor,28795.0,3,151.32,>2yr,4,Lower bills,4,3,1,1,2693.0,3,CreditEMI,2,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0
+Singapore,Metro,42,Female,Diploma,63781.0,7,353.65,>2yr,5,Brand image,4,3,0,2,5779.0,5,Cash,2,0,0,0,1,0,1,1,0,0,1,0,1,0,1,0,0,1,0,0
+India,Rural,40,Female,Diploma,15398.0,5,99.62,>2yr,2,Environment,3,4,0,0,1699.0,1,Cash,6,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0
+UAE,Metro,29,Male,Diploma,64362.0,6,362.45,>2yr,4,Brand image,4,2,1,2,5780.0,4,CreditEMI,3,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0
+India,Metro,48,Female,Bachelor,39302.0,8,243.3,>2yr,3,Lower bills,4,1,1,1,3764.0,5,BNPL,4,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,1,1,1,0
+India,Metro,38,Female,Diploma,13855.0,2,87.35,1-2yr,4,Govt rebate,2,2,1,0,1672.0,5,CreditEMI,1,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,1,1,0
+India,Metro,28,Female,Bachelor,10909.0,4,86.24,<6mo,4,Environment,3,2,1,0,1513.0,5,Cash,2,0,0,0,1,1,0,0,0,0,0,1,0,1,1,0,0,1,1,1
+India,Tier2,32,Male,Diploma,5058.0,2,30.96,>2yr,2,Environment,4,1,0,0,906.0,1,CreditEMI,6,0,0,0,1,0,1,0,0,0,1,0,1,0,0,1,0,0,1,0
+India,Tier2,30,Female,Bachelor,25278.0,4,135.71,>2yr,4,Lower bills,3,4,0,2,2745.0,5,Cash,6,1,0,1,0,0,0,0,0,1,0,1,0,0,0,1,1,0,0,0
+India,Metro,27,Female,Diploma,6608.0,7,79.95,1-2yr,4,Lower bills,4,3,0,1,1024.0,4,Cash,7,0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0
+India,Metro,20,Female,Postgrad,10614.0,8,98.61,>2yr,1,Brand image,3,5,0,0,1301.0,1,BNPL,4,0,0,0,1,1,0,1,1,0,0,0,1,0,1,0,0,1,0,0
+UAE,Metro,18,Male,Bachelor,46075.0,5,262.98,1-2yr,2,Environment,1,3,1,0,4187.0,2,CreditEMI,8,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1
+UAE,Metro,37,Male,Secondary,25900.0,3,156.77,<6mo,4,Govt rebate,3,3,1,0,2642.0,3,BNPL,4,0,0,0,1,0,1,0,0,0,1,0,0,0,1,1,0,0,1,0
+India,Metro,35,Female,Bachelor,35002.0,4,193.7,6-12mo,5,Lower bills,4,3,1,1,3376.0,4,BNPL,5,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,1,1,0
+India,Metro,18,Female,Secondary,20496.0,1,113.21,1-2yr,3,Environment,3,3,0,1,2227.0,3,Cash,3,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,1,0,1,0
+UAE,Rural,30,Male,Bachelor,15198.0,4,107.53,>2yr,3,Govt rebate,3,2,1,0,1865.0,5,Cash,4,0,0,0,1,1,0,1,1,0,0,0,0,0,1,0,0,1,0,0
+India,Metro,26,Female,Bachelor,19489.0,3,108.01,1-2yr,4,New tech,4,2,0,0,2383.0,5,StoreFinance,3,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1
+India,Rural,27,Female,Bachelor,4886.0,1,29.49,<6mo,4,Environment,1,5,1,1,770.0,5,Cash,8,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,0,0,1,0
+UAE,Tier2,29,Female,Postgrad,11835.0,2,49.75,6-12mo,4,Environment,4,3,1,1,5647.562222760993,3,CreditEMI,8,0,0,0,1,1,1,0,0,0,0,1,1,0,0,0,1,1,0,1
+India,Metro,40,Male,Bachelor,5787.0,5,57.62,<6mo,3,Lower bills,4,3,0,1,863.0,2,Cash,6,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0
+India,Tier2,46,Female,Bachelor,17178.0,2,83.69,>2yr,2,Environment,1,3,0,0,1794.0,2,StoreFinance,6,1,0,0,0,0,0,1,1,0,0,1,1,1,0,0,0,1,0,0
+India,Metro,44,Female,Postgrad,17986.0,3,104.39,6-12mo,4,Govt rebate,5,4,1,1,2319.0,5,Cash,3,0,0,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0
+Singapore,Metro,19,Male,Diploma,158062.50998487134,4,804.94,>2yr,4,New tech,3,3,1,2,13105.0,5,CreditEMI,7,1,1,1,0,0,0,0,1,0,0,0,1,0,0,1,0,0,1,0
+India,Metro,37,Female,Secondary,6656.0,8,73.96,1-2yr,4,New tech,3,2,1,1,1039.0,5,CreditEMI,4,0,0,0,1,1,0,1,0,0,0,1,0,1,0,0,1,1,0,0
+India,Metro,25,Female,Diploma,18671.0,3,113.62,>2yr,4,Lower bills,2,3,0,1,2011.0,3,Cash,6,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,1
+India,Metro,24,Female,Diploma,8146.0,5,68.87,6-12mo,1,Lower bills,3,2,1,1,1240.0,1,Cash,5,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0
+India,Tier2,42,Female,Secondary,27135.0,3,155.57,>2yr,3,Lower bills,4,3,1,0,2738.0,3,CreditEMI,10,0,0,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0
+India,Metro,42,Female,Diploma,7621.0,3,78.08,>2yr,4,Environment,3,5,1,1,3430.906853445293,3,CreditEMI,2,0,0,0,1,0,0,0,0,1,0,1,1,0,0,1,1,0,0,0
+UAE,Metro,30,Male,Bachelor,46287.0,5,250.22,>2yr,5,Lower bills,5,2,0,2,4516.0,5,CreditEMI,3,0,0,0,1,0,0,1,0,0,0,0,1,0,0,1,0,0,1,1
+India,Metro,36,Female,Secondary,33215.0,3,190.51,1-2yr,4,Lower bills,4,4,1,1,3199.0,5,StoreFinance,5,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+UAE,Metro,57,Female,Postgrad,45891.0,3,241.84,6-12mo,3,Govt rebate,3,5,0,2,4275.0,2,Cash,8,0,0,0,1,0,0,0,0,1,1,1,0,1,0,0,0,0,0,1
+India,Metro,38,Male,Bachelor,3351.0,1,21.25,6-12mo,3,Environment,3,2,0,0,763.0,3,Cash,5,0,0,0,1,0,0,0,1,0,0,1,0,0,1,0,1,0,0,1
+India,Metro,26,Male,Bachelor,3546.0,8,65.63,1-2yr,3,Lower bills,2,3,1,0,869.0,3,CreditEMI,3,0,0,0,1,0,0,1,0,0,0,1,0,1,0,1,0,0,0,1
+India,Metro,23,Female,Secondary,12146.0,2,68.27,>2yr,2,Lower bills,5,4,1,1,1395.0,1,CreditEMI,3,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,1,0,0
+UAE,Metro,34,Female,Secondary,35383.0,6,210.79,1-2yr,3,Lower bills,4,3,1,0,3421.0,3,Cash,3,0,0,0,1,0,1,0,1,0,0,1,0,1,0,0,0,0,1,0
+UAE,Metro,36,Female,Diploma,24507.0,3,126.92,6-12mo,1,Environment,4,2,1,0,2296.0,2,CreditEMI,6,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+India,Rural,30,Female,Secondary,9866.0,4,78.64,>2yr,4,Environment,1,3,1,0,1399.0,4,CreditEMI,5,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,1,1,1
+India,Metro,43,Male,Bachelor,7148.0,5,48.76,6-12mo,5,Govt rebate,3,1,1,1,1314.0,5,CreditEMI,5,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0
+India,Tier2,41,Female,Diploma,70901.55828905356,4,373.38,1-2yr,4,Lower bills,3,2,1,0,6329.0,4,CreditEMI,5,0,0,0,1,0,0,0,1,0,0,1,0,0,1,1,0,1,1,0
+India,Metro,32,Male,Secondary,20161.0,4,119.7,>2yr,4,Lower bills,3,3,1,1,1978.0,5,Cash,4,0,0,0,1,0,0,1,0,0,1,0,0,1,0,1,0,0,0,0
+Singapore,Metro,41,Male,Diploma,48562.0,2,249.05,>2yr,3,Environment,2,3,1,1,4482.0,4,StoreFinance,4,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0
+India,Metro,31,Female,Bachelor,11106.0,7,111.72,<6mo,2,Brand image,5,4,1,0,1448.0,4,StoreFinance,7,0,0,0,1,0,0,0,0,1,1,0,0,1,1,1,0,0,0,0
+UAE,Rural,48,Female,Bachelor,56175.0,3,292.79,>2yr,3,Brand image,4,3,1,0,4953.0,2,Cash,5,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0
+Singapore,Metro,40,Male,Bachelor,55817.0,7,304.57,1-2yr,1,Brand image,3,4,0,0,4915.0,1,Cash,1,0,0,0,1,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0
+India,Tier2,36,Male,Postgrad,25885.0,5,156.97,<6mo,1,Environment,2,4,1,0,2532.0,1,CreditEMI,4,0,0,0,1,0,0,0,0,1,0,1,0,1,1,1,0,1,1,0
+India,Metro,18,Female,Bachelor,13457.0,6,102.34,1-2yr,4,Environment,4,3,1,1,1594.0,5,CreditEMI,9,0,0,0,1,0,0,0,0,1,0,1,0,1,0,1,0,0,1,0
+India,Tier2,44,Male,Bachelor,33840.0,2,174.96,1-2yr,2,New tech,4,4,1,0,3206.0,2,Cash,4,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1
+UAE,Rural,35,Male,Bachelor,17546.0,3,103.71,1-2yr,2,Environment,4,3,0,0,1701.0,2,CreditEMI,4,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,1,1,0,1
+India,Metro,45,Female,Secondary,21807.0,2,111.75,>2yr,2,Govt rebate,4,4,1,0,2312.0,2,Cash,4,0,0,0,1,1,1,0,0,0,0,0,1,0,1,1,0,0,0,0
+India,Tier2,36,Male,Bachelor,12680.0,2,99.55,6-12mo,5,Environment,2,4,0,1,1596.0,4,Cash,4,0,0,0,1,0,1,1,0,0,1,1,0,0,0,0,0,1,0,0
+India,Tier2,47,Male,Bachelor,45963.0,4,252.25,6-12mo,3,New tech,4,4,1,1,4387.0,2,BNPL,2,1,0,1,0,1,0,1,0,0,1,1,0,0,0,0,0,0,1,0
+India,Metro,37,Female,Secondary,9517.0,6,68.49,6-12mo,2,Brand image,3,2,1,0,1341.0,1,CreditEMI,7,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,1,0,1,1
+Singapore,Metro,37,Female,Bachelor,21644.0,2,114.33,6-12mo,4,Lower bills,3,2,0,1,2359.0,4,StoreFinance,3,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,1,0,1,1
+India,Tier2,18,Female,Bachelor,20782.0,3,119.61,6-12mo,3,Environment,3,3,1,0,2213.0,5,Cash,3,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1
+India,Metro,38,Female,Diploma,7059.0,4,58.73,1-2yr,3,Brand image,3,4,1,1,1186.0,1,CreditEMI,6,0,0,0,1,0,0,0,0,1,0,1,0,1,1,0,0,0,0,1
+Singapore,Metro,45,Male,Bachelor,39835.0,2,205.73,1-2yr,1,Environment,3,3,0,0,3734.0,1,Cash,4,1,1,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,1
+India,Metro,44,Female,Bachelor,23901.0,6,131.76,6-12mo,2,New tech,3,4,1,0,2490.0,2,CreditEMI,3,0,0,1,0,1,0,0,1,0,1,1,0,0,0,1,0,0,0,0
+Singapore,Metro,50,Male,Bachelor,19154.0,4,112.36,<6mo,3,Environment,1,2,1,1,2133.0,3,BNPL,3,0,0,0,1,0,0,0,0,1,1,1,0,0,1,0,0,0,1,1
+UAE,Metro,26,Male,Bachelor,16737.0,2,96.47,1-2yr,4,Lower bills,4,3,1,2,1879.0,4,CreditEMI,5,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0
+India,Tier2,31,Male,Bachelor,42662.0,3,243.49,6-12mo,4,Lower bills,4,3,1,1,4152.0,4,StoreFinance,8,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,1
+India,Rural,39,Female,Diploma,19664.0,5,119.36,6-12mo,3,Govt rebate,3,3,1,0,2331.0,3,CreditEMI,5,0,0,0,1,0,0,0,0,1,1,0,1,1,0,0,0,0,0,1
+India,Metro,33,Male,Diploma,29487.0,5,184.35,6-12mo,4,Lower bills,4,3,0,1,2914.0,5,StoreFinance,6,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,1
+UAE,Metro,27,Female,Bachelor,142057.0,5,724.14,6-12mo,4,Environment,2,3,1,2,12083.0,4,BNPL,5,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0
+Singapore,Metro,21,Male,Postgrad,69753.0,4,370.94,>2yr,4,New tech,4,3,0,2,6169.0,4,Cash,3,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0
+Singapore,Metro,26,Female,Bachelor,32323.0,4,189.61,6-12mo,4,Lower bills,4,3,0,0,3337.0,5,Cash,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,1,0,1,0,1
+India,Tier2,44,Male,Bachelor,13736.0,2,80.92,1-2yr,2,Lower bills,2,3,1,0,1601.0,1,CreditEMI,6,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1
+India,Rural,48,Female,Postgrad,5460.0,5,56.02,1-2yr,3,Environment,2,3,1,0,1095.0,4,CreditEMI,8,0,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,1
+UAE,Metro,32,Male,Postgrad,42789.0,3,231.53,6-12mo,3,New tech,4,4,0,0,3963.0,2,CreditEMI,7,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,1,0,1,1
+UAE,Metro,40,Male,Bachelor,43032.0,5,248.48,>2yr,4,Lower bills,2,5,1,1,4282.0,2,CreditEMI,4,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1
+UAE,Metro,18,Male,Bachelor,35495.0,5,201.75,1-2yr,2,Lower bills,3,2,1,1,3299.0,3,CreditEMI,2,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0
+UAE,Metro,40,Female,Bachelor,61053.0,5,337.92,<6mo,3,Environment,1,3,0,1,5537.0,3,Cash,4,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0
+India,Tier2,41,Female,Bachelor,10588.0,4,60.73,>2yr,4,Lower bills,3,3,0,0,1448.0,4,StoreFinance,6,0,0,0,1,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0
+India,Metro,28,Male,Bachelor,38376.0,5,223.8,1-2yr,2,Lower bills,3,4,1,0,3429.0,1,BNPL,8,0,0,0,1,0,1,0,0,0,0,1,1,0,0,0,0,0,1,1
+UAE,Metro,42,Female,Secondary,357634.1353073432,5,1789.06,6-12mo,4,Environment,2,4,0,2,29403.0,4,BNPL,6,1,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1
+India,Metro,45,Male,Bachelor,11490.0,5,70.18,<6mo,2,Lower bills,3,1,1,1,1286.0,1,StoreFinance,5,0,0,0,1,0,0,0,1,0,0,1,1,1,0,0,0,0,0,1
+UAE,Metro,52,Female,Diploma,18738.0,5,116.94,1-2yr,5,Lower bills,3,2,1,2,2147.0,5,CreditEMI,3,0,0,0,1,0,0,0,1,0,1,0,0,1,1,1,0,0,0,0
+UAE,Metro,40,Male,Diploma,41247.0,3,226.34,<6mo,2,Environment,2,4,1,0,3563.0,2,CreditEMI,6,0,0,0,1,0,0,1,0,0,1,1,1,0,0,0,1,0,1,0
+India,Metro,29,Female,Bachelor,10559.0,6,65.28,6-12mo,4,Govt rebate,3,1,0,0,1386.0,4,CreditEMI,4,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,1,0,0
+India,Metro,49,Male,Diploma,6882.0,6,85.41,>2yr,5,Lower bills,3,3,1,1,1009.0,5,CreditEMI,5,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,1,0,0,1
+India,Metro,55,Male,Bachelor,10193.0,5,72.12,1-2yr,3,Environment,3,3,0,1,1383.0,3,CreditEMI,8,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0,1,0,1
+India,Metro,18,Female,Bachelor,4305.0,6,53.6,6-12mo,4,New tech,3,4,1,0,947.0,4,Cash,6,0,0,0,1,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0
+India,Rural,46,Female,Diploma,9764.0,3,40.03,1-2yr,2,Lower bills,2,4,1,0,1141.0,2,BNPL,6,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0
+India,Tier2,29,Male,Bachelor,6176.0,2,44.63,>2yr,3,Lower bills,2,4,1,0,1118.0,3,Cash,5,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0
+India,Tier2,40,Male,Bachelor,12075.0,5,83.37,>2yr,3,Govt rebate,3,5,0,1,1551.0,4,Cash,3,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,1,1,0,1
+India,Tier2,49,Female,Bachelor,32060.0,6,188.28,6-12mo,4,Lower bills,1,2,0,0,3137.0,3,BNPL,6,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1,1,1,0
+Singapore,Metro,34,Male,Bachelor,32513.0,4,164.53,1-2yr,5,New tech,3,5,1,1,3274.0,5,Cash,5,0,1,1,0,1,0,1,1,0,0,0,0,1,0,1,1,0,0,0
+India,Metro,27,Male,Secondary,10803.0,3,57.31,>2yr,4,Lower bills,3,2,1,2,1399.0,5,CreditEMI,7,0,0,1,0,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1
+India,Tier2,31,Male,Secondary,13419.0,1,46.34,>2yr,5,Lower bills,3,5,1,1,1629.0,4,Cash,5,0,0,0,1,0,0,0,0,1,0,1,1,0,0,1,1,0,1,0
+India,Rural,37,Female,Bachelor,8612.0,2,50.39,1-2yr,4,Environment,1,3,1,1,1191.0,4,CreditEMI,5,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,1
+UAE,Metro,45,Female,Diploma,49816.0,4,259.47,1-2yr,2,Govt rebate,3,3,1,0,4488.0,2,StoreFinance,4,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,1,1
+UAE,Metro,44,Female,Diploma,41333.0,3,230.29,6-12mo,3,Brand image,3,4,0,1,3884.0,2,CreditEMI,5,0,0,0,1,0,1,0,0,0,0,0,1,1,1,0,0,1,0,0
+UAE,Metro,39,Female,Secondary,23235.0,2,116.54,>2yr,3,Lower bills,3,3,0,0,2426.0,4,StoreFinance,4,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0
+India,Metro,47,Male,Diploma,5745.0,4,61.11,>2yr,2,New tech,3,3,0,2,970.0,2,BNPL,5,0,0,0,1,0,0,0,0,1,1,1,0,0,0,1,0,1,0,1
+UAE,Metro,19,Female,Diploma,86610.0,1,427.44,<6mo,4,Lower bills,3,3,0,2,7603.0,3,CreditEMI,5,1,0,0,0,0,0,1,0,0,1,0,1,1,0,0,1,0,0,1
+India,Metro,24,Female,Diploma,15325.0,6,110.53,1-2yr,2,Lower bills,2,4,0,1,1742.0,1,Cash,3,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,1
+India,Metro,31,Male,Bachelor,23956.0,4,146.05,6-12mo,3,Environment,4,1,0,1,2478.0,1,StoreFinance,4,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0
+UAE,Metro,35,Male,Secondary,52090.0,1,259.37,>2yr,4,Environment,2,3,0,1,4856.0,4,StoreFinance,3,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0
+UAE,Metro,44,Male,Postgrad,24769.0,5,140.9,6-12mo,3,Lower bills,2,3,0,2,2385.0,2,CreditEMI,4,0,0,0,1,0,0,0,0,1,0,0,0,1,0,1,0,1,0,1
+India,Metro,29,Male,Diploma,15866.0,4,114.94,>2yr,3,New tech,3,5,1,1,1735.0,5,Cash,6,0,0,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,1
+India,Tier2,50,Male,Postgrad,23286.0,2,121.94,6-12mo,5,Lower bills,3,3,0,2,2630.0,5,Cash,5,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1
+India,Metro,40,Female,Diploma,9352.0,2,28.3,<6mo,3,Govt rebate,2,3,0,0,1159.0,1,StoreFinance,3,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0
+India,Metro,18,Male,Secondary,3735.0,6,30.63,>2yr,4,New tech,3,5,0,0,1059.0,3,CreditEMI,4,0,0,1,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0
+Singapore,Metro,36,Female,Postgrad,106721.0,5,559.41,>2yr,1,Brand image,2,2,0,0,9041.0,1,Cash,4,1,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0
+UAE,Metro,33,Female,Postgrad,17061.0,3,88.1,>2yr,3,New tech,3,5,0,0,1984.0,3,Cash,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1
+UAE,Rural,39,Male,Bachelor,24932.0,2,129.78,<6mo,2,Lower bills,3,2,1,0,2266.0,1,CreditEMI,6,0,1,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0
+India,Tier2,28,Male,Diploma,12118.0,6,96.98,>2yr,3,Lower bills,3,5,1,1,1413.0,4,BNPL,7,0,0,0,1,1,0,1,1,0,0,0,0,1,0,0,1,0,1,1
+UAE,Metro,50,Female,Secondary,67805.0,3,349.86,>2yr,2,New tech,3,2,1,1,5696.0,4,BNPL,2,0,1,1,0,1,1,0,0,0,0,1,0,0,0,1,1,0,0,0
+UAE,Metro,33,Female,Bachelor,34725.0,6,201.24,>2yr,4,Lower bills,3,3,1,1,3258.0,4,BNPL,10,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+UAE,Metro,29,Male,Postgrad,46274.0,4,245.47,>2yr,4,Lower bills,3,3,1,1,4157.0,4,Cash,5,0,0,0,1,0,0,0,0,1,0,1,0,0,0,1,1,1,0,0
+India,Metro,39,Male,Diploma,10512.0,3,67.66,>2yr,4,Lower bills,4,3,1,0,1082.0,5,StoreFinance,7,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,1,1,1,0
+Singapore,Metro,24,Male,Postgrad,47236.0,6,269.99,>2yr,4,Environment,4,5,0,0,4514.0,3,StoreFinance,1,1,1,0,0,0,0,0,0,1,0,0,1,1,1,1,1,0,1,0
+UAE,Metro,43,Female,Postgrad,31570.0,2,178.93,>2yr,2,Brand image,1,1,1,0,3211.0,2,BNPL,7,0,1,0,0,0,0,1,0,0,0,0,1,0,0,1,1,0,1,0
+India,Metro,39,Male,Bachelor,15825.0,6,117.13,6-12mo,3,Environment,4,4,1,1,1818.0,3,BNPL,5,0,0,0,1,0,0,1,0,0,0,1,1,0,0,0,1,1,0,0
+UAE,Metro,44,Male,Secondary,78035.0,3,400.44,<6mo,4,Govt rebate,3,4,0,2,6972.0,4,BNPL,4,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,0,0
+India,Metro,46,Other,Bachelor,12015.0,3,82.73,1-2yr,5,Govt rebate,3,3,1,2,1685.0,5,Cash,4,0,0,0,1,0,0,0,0,1,1,0,0,0,0,1,1,0,1,0
+UAE,Tier2,43,Female,Bachelor,8430.0,5,84.05,<6mo,1,Environment,2,3,1,1,1059.0,1,Cash,4,0,0,0,1,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0
+UAE,Metro,26,Female,Diploma,67758.0,4,376.87,1-2yr,3,Lower bills,2,2,1,1,6026.0,2,CreditEMI,3,1,1,1,0,1,1,0,1,0,1,0,0,0,0,0,0,0,1,0
+India,Rural,38,Male,Diploma,23011.0,4,135.08,6-12mo,3,Govt rebate,2,3,0,1,2504.0,3,Cash,8,0,0,0,1,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0
+India,Metro,51,Female,Bachelor,57061.0,1,310.42,<6mo,3,Govt rebate,3,4,1,0,5048.0,3,BNPL,5,0,0,0,1,1,0,1,1,0,0,0,1,1,0,0,0,0,0,1
+UAE,Metro,57,Male,Bachelor,25562.0,3,145.43,1-2yr,4,Brand image,4,3,0,2,2472.0,4,CreditEMI,6,0,0,0,1,1,1,1,0,0,1,0,1,0,0,0,0,0,1,0
+India,Metro,59,Male,Bachelor,12093.0,2,52.51,1-2yr,5,Govt rebate,3,5,1,2,1504.0,5,Cash,1,1,0,0,0,0,0,0,1,0,1,0,1,0,0,1,0,0,0,0
+India,Metro,31,Female,Bachelor,14000.0,5,98.87,>2yr,3,Govt rebate,3,2,1,0,1612.0,3,CreditEMI,4,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0
+Singapore,Metro,46,Female,Bachelor,38715.0,6,224.96,<6mo,2,Lower bills,2,4,1,1,3472.0,1,Cash,1,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+Singapore,Metro,41,Male,Bachelor,37567.0,3,204.96,1-2yr,3,Lower bills,2,3,1,1,3560.0,2,CreditEMI,5,1,1,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0
+India,Metro,57,Male,Secondary,7816.0,4,76.97,6-12mo,2,Govt rebate,3,3,1,0,1105.0,1,Cash,5,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,1
+Singapore,Metro,36,Male,Postgrad,41922.0,3,225.09,<6mo,2,New tech,3,3,0,0,3682.0,2,StoreFinance,5,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+UAE,Metro,18,Male,Diploma,38647.0,4,210.76,6-12mo,2,Lower bills,3,1,1,1,3741.0,4,StoreFinance,3,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+India,Rural,48,Male,Diploma,22248.0,3,107.17,<6mo,2,Lower bills,3,4,1,1,2452.0,3,StoreFinance,6,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,0,1,1,0
+India,Tier2,47,Male,Diploma,4215.0,2,45.01,1-2yr,5,Lower bills,3,5,1,1,794.0,4,CreditEMI,4,0,0,0,1,0,1,0,0,0,1,0,0,0,0,1,1,0,0,1
+India,Rural,18,Female,Secondary,6845.0,2,28.3,1-2yr,5,Environment,4,4,1,1,1161.0,5,Cash,6,1,1,1,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0
+UAE,Metro,31,Male,Bachelor,45525.0,2,236.12,>2yr,2,Lower bills,5,2,1,2,4143.0,2,Cash,2,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,1
+India,Metro,46,Male,Postgrad,13768.0,3,84.08,6-12mo,4,Lower bills,3,4,1,1,1723.0,5,Cash,3,0,0,0,1,1,0,0,1,0,1,0,0,0,0,1,0,0,0,1
+India,Metro,43,Female,Secondary,21978.0,4,109.14,>2yr,3,Lower bills,3,4,0,1,2235.0,4,CreditEMI,6,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0
+UAE,Metro,25,Male,Bachelor,49281.0,3,265.13,6-12mo,2,Environment,3,3,1,1,4517.0,2,CreditEMI,4,0,0,0,1,0,0,0,0,1,1,0,1,0,0,1,0,0,0,1
+Singapore,Metro,38,Male,Bachelor,21691.0,4,122.87,1-2yr,4,Brand image,2,2,1,0,2347.0,5,CreditEMI,5,0,0,0,1,1,1,0,1,0,1,0,0,0,0,1,0,0,1,0
+India,Tier2,34,Male,Secondary,27386.0,1,150.3,>2yr,5,New tech,3,4,1,1,2866.0,5,StoreFinance,6,0,0,0,1,1,1,0,0,0,0,1,0,0,1,1,1,1,0,0
+India,Metro,23,Male,Bachelor,13876.0,2,73.76,>2yr,2,New tech,4,3,1,1,1665.0,1,Cash,3,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0
+India,Metro,32,Male,Diploma,15276.0,2,84.74,>2yr,4,Lower bills,3,3,1,0,1833.0,4,CreditEMI,6,0,0,0,1,1,0,1,0,0,0,0,1,0,0,1,0,0,0,1
+India,Tier2,45,Male,Diploma,24032.0,4,156.39,6-12mo,1,Environment,3,2,1,1,2390.0,1,StoreFinance,3,0,1,0,0,0,0,0,1,0,1,1,0,0,1,1,0,0,0,0
+UAE,Metro,25,Male,Diploma,87589.59553707085,5,483.16,>2yr,3,Brand image,3,2,1,2,7563.0,4,Cash,5,0,0,0,1,1,0,0,0,0,0,1,1,0,1,1,1,0,1,0
+India,Rural,36,Male,Secondary,16532.0,2,102.1,1-2yr,2,Lower bills,4,2,1,1,1764.0,3,CreditEMI,2,0,0,0,1,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0
+India,Metro,19,Female,Diploma,36061.0,3,182.6,>2yr,5,Environment,3,3,0,2,3547.0,4,CreditEMI,4,0,0,0,1,1,0,0,1,0,1,1,0,0,0,0,0,0,0,1
+India,Metro,32,Other,Bachelor,23954.0,5,143.16,6-12mo,2,Lower bills,4,2,1,0,2268.0,3,CreditEMI,6,0,0,0,1,1,0,0,0,0,0,1,0,1,1,0,0,0,1,0
+Singapore,Metro,39,Male,Postgrad,33593.0,2,163.38,>2yr,4,Lower bills,5,2,1,0,3283.0,4,Cash,6,0,0,0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,1,0
+India,Tier2,37,Male,Bachelor,9766.0,2,69.22,<6mo,3,Environment,2,3,0,0,1495.0,4,StoreFinance,3,0,0,0,1,0,0,1,0,0,0,0,0,1,1,1,0,0,1,0
+India,Metro,28,Male,Bachelor,5542.0,5,52.13,1-2yr,4,Lower bills,3,4,1,1,957.0,5,CreditEMI,3,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,1
+India,Tier2,27,Male,Secondary,11499.0,5,91.37,>2yr,2,Environment,5,1,1,2,1412.0,2,StoreFinance,4,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0
+India,Metro,36,Female,Diploma,11951.0,3,75.24,<6mo,1,Lower bills,3,2,1,0,1402.0,1,Cash,6,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1
+India,Metro,27,Male,Bachelor,15432.0,5,105.92,>2yr,5,Environment,2,2,1,1,1957.0,4,CreditEMI,3,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,1
