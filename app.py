@@ -20,20 +20,23 @@ st.set_page_config(layout="wide", page_title="EcoWise Insight Studio")
 st.title("🌿 EcoWise Insight Studio 2025")
 st.caption("Sustainable‑appliance market intelligence dashboard")
 
-# ---------- DATA LOADING ----------
+# ───────────────────────────────────────────────────────────────
+# DATA LOADING  –  local-file first, URL fallback
+# ───────────────────────────────────────────────────────────────
 from pathlib import Path
 import pandas as pd
-import streamlit as st
+import streamlit as st                      #  ← already imported above; harmless if repeated
 
 @st.cache_data(show_spinner=True)
 def load_data(local_fname: str, url_fallback: str | None) -> pd.DataFrame:
     """
-    Try to read a CSV from the repo first; if absent, fall back to a remote URL.
-    Stops the app with a friendly error if neither source is available.
+    1. If <local_fname> exists in the repo, read that.
+    2. Else try <url_fallback>.
+    3. Else stop the app with a friendly message.
     """
     local_path = Path(__file__).parent / local_fname
     if local_path.exists():
-        st.caption(f"✅ Loaded data from local file: {local_path.relative_to(Path(__file__).parent)}")
+        st.caption(f"✅ Loaded data from local file: {local_path.name}")
         return pd.read_csv(local_path)
 
     if url_fallback:
@@ -41,20 +44,21 @@ def load_data(local_fname: str, url_fallback: str | None) -> pd.DataFrame:
             st.caption("🔄 Fetching data from remote URL…")
             return pd.read_csv(url_fallback)
         except Exception as e:
-            st.error(f"Could not fetch CSV from `{url_fallback}`\\n{e}")
+            st.error(f"Remote fetch failed – {e}")
             st.stop()
 
-    st.error("⚠️  No dataset found. Add the CSV to the repo **or** set a DATA_URL secret.")
+    st.error(
+        "⚠️  No dataset found.\n\n"
+        "• Add the CSV to the repo -or-\n"
+        "• Set a DATA_URL secret pointing to a raw CSV URL."
+    )
     st.stop()
 
-# ──> EDIT THIS PATH if you put the file elsewhere (e.g. just "ecowise_survey_arm_ready.csv")
+#  Adjust the path below if you’ve placed the file elsewhere
 LOCAL_CSV = "data/ecowise_survey_arm_ready.csv"
-
-# If you created a Streamlit secret, this pulls it; otherwise an empty string
-DATA_URL  = st.secrets.get("DATA_URL", "")
-
-# Call the helper; the returned DataFrame is what the rest of the app uses
-df = load_data(LOCAL_CSV, DATA_URL)
+DATA_URL  = st.secrets.get("DATA_URL", "")  # empty string if not set
+df = load_data(LOCAL_CSV, DATA_URL)         #  ←  this should now be syntax-error-free
+# ───────────────────────────────────────────────────────────────
 
 
 
