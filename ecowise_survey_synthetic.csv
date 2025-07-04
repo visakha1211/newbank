@@ -1,0 +1,1001 @@
+Country,City_Tier,Age,Gender,Education_Level,HH_Size,Annual_HH_Income_USD,Monthly_kWh,High_Energy_Appliances,EE_Appliance_Share,Env_Concern,EE_Knowledge,Govt_Incentive_Aware,Will_Adopt,Premium_WTP_pct,Budget_USD,Financing_Pref,Acceptable_Payback_yrs,Primary_Decision_Factor,Main_Barrier,Wanted_Features,Interested_Categories,Info_Sources
+India,Rural,41,Male,Secondary,2,36779.63,207.2,1,49,5,4,1,1,11.2,1467.78,0‑interest EMI,2,Govt incentive,High cost,Solar compatibility;Wi‑Fi control;Compact design,Dishwasher,Social media;Friends/Family
+UAE,Metro,40,Male,Secondary,1,63861.4,438.2,9,34,2,3,0,1,2.8,2627.79,Rental,3,Energy saving,High cost,Quiet motor;Solar compatibility;5‑Star rating,AC;Water‑heater;Dishwasher,Govt portals
+UAE,Tier‑2 city,33,Male,Secondary,4,111542.17,258.1,4,75,1,1,1,0,1.9,4829.58,Upfront,2,Govt incentive,Limited models,Compact design;Quiet motor,Refrigerator;Washer,Govt portals;Friends/Family;Online reviews
+Singapore,Metro,30,Female,Primary,2,60753.49,973.8,2,16,1,1,0,0,5.3,2501.41,Upfront,1,Energy saving,Limited models,5‑Star rating;Wi‑Fi control,Dishwasher,Online reviews;In‑store demos
+India,Tier‑2 city,49,Female,Graduate,2,11415.73,260.2,0,25,3,4,1,0,5.9,113.44,BNPL,2,Energy saving,Limited models,Wi‑Fi control;5‑Star rating;Compact design,Washer;AC,Social media
+UAE,Metro,26,Male,Graduate,4,787063.81,281.8,10,100,1,1,1,1,7.8,39786.81,Upfront,4,Govt incentive,Uncertain savings,Wi‑Fi control;Compact design;Solar compatibility,Air‑purifier;Water‑heater;Dishwasher,Social media;In‑store demos;Friends/Family
+India,Metro,24,Female,Post‑grad,2,24257.39,302.1,2,36,1,2,1,0,3.0,1405.53,Upfront,3,Up‑front price,Limited models,Compact design,Water‑heater;Refrigerator;Air‑purifier,Social media;In‑store demos
+UAE,Metro,23,Female,Graduate,5,57647.67,387.5,2,33,1,1,1,0,2.2,2686.68,0‑interest EMI,3,Brand,Low awareness,Wi‑Fi control,Dishwasher;Air‑purifier;AC,Social media;Friends/Family
+Singapore,Metro,22,Male,Secondary,6,81406.84,163.4,2,47,5,5,1,1,12.1,5006.34,Upfront,1,Peer reviews,Limited models,Wi‑Fi control;Quiet motor,Refrigerator;Water‑heater;Dishwasher,Friends/Family
+India,Metro,33,Female,Graduate,5,22379.13,194.9,1,27,4,4,0,0,7.9,1525.39,0‑interest EMI,3,Up‑front price,Other,Compact design,AC;Washer,Friends/Family
+Singapore,Metro,29,Female,Secondary,1,119647.82,269.2,10,56,2,2,1,1,11.7,5908.86,Upfront,3,Govt incentive,High cost,Quiet motor,Water‑heater;Air‑purifier,In‑store demos
+Singapore,Metro,29,Female,Graduate,3,66287.89,418.5,8,41,1,1,1,0,0.3,3349.22,BNPL,4,Peer reviews,Low awareness,5‑Star rating;Solar compatibility;Wi‑Fi control,Water‑heater;Dishwasher;Washer,Social media
+Singapore,Metro,33,Female,Secondary,2,120626.91,139.6,10,71,1,1,0,0,3.2,5482.67,BNPL,3,Up‑front price,High cost,Compact design;Solar compatibility;Quiet motor,Water‑heater,Social media;In‑store demos;Friends/Family
+Singapore,Metro,37,Male,Primary,5,99434.97,222.4,7,69,2,3,1,1,13.9,5500.96,Upfront,0,Brand,Uncertain savings,Quiet motor;5‑Star rating;Wi‑Fi control,Dishwasher,Social media
+UAE,Metro,36,Male,Secondary,3,57740.56,714.5,6,35,5,4,1,1,13.6,2642.71,0‑interest EMI,1,Up‑front price,High cost,5‑Star rating;Compact design;Quiet motor,Water‑heater;Air‑purifier,Friends/Family
+India,Metro,23,Female,Graduate,3,28114.72,168.4,1,61,1,2,1,1,0.7,1082.45,Upfront,1,Energy saving,Other,5‑Star rating,Refrigerator,Govt portals;In‑store demos;Social media
+India,Metro,44,Male,Post‑grad,2,42926.91,192.7,3,35,3,4,0,0,4.2,1692.56,BNPL,2,Brand,High cost,5‑Star rating;Wi‑Fi control,Refrigerator,Social media;In‑store demos;Govt portals
+India,Tier‑2 city,42,Male,Graduate,2,18846.21,212.4,3,52,3,4,0,1,13.1,1027.18,Upfront,3,Brand,High cost,Quiet motor;Solar compatibility,Washer;Air‑purifier;Water‑heater,In‑store demos
+UAE,Tier‑2 city,43,Female,Secondary,6,35360.11,278.1,3,41,2,3,0,0,4.7,2559.52,Rental,4,Energy saving,Low awareness,Compact design;Quiet motor,Air‑purifier;AC,In‑store demos
+UAE,Metro,42,Male,Graduate,1,119184.26,834.3,8,61,4,5,0,1,9.4,6067.64,Upfront,3,Govt incentive,Limited models,Compact design,Water‑heater,Online reviews
+India,Rural,35,Female,Secondary,1,30982.08,351.6,3,4,3,4,0,1,9.3,889.53,BNPL,4,Up‑front price,Low awareness,Solar compatibility;Compact design,Air‑purifier,In‑store demos;Social media;Online reviews
+UAE,Metro,18,Female,Secondary,2,69088.89,301.7,6,55,3,3,1,1,8.3,3922.28,Upfront,4,Brand,Uncertain savings,Quiet motor;Wi‑Fi control;Solar compatibility,Water‑heater;AC;Refrigerator,Online reviews;Friends/Family;Govt portals
+Singapore,Metro,51,Male,Secondary,1,66531.99,341.8,6,31,5,4,1,1,6.2,3054.14,Rental,4,Energy saving,Limited models,Quiet motor;Compact design;5‑Star rating,Water‑heater;AC,Online reviews;Govt portals
+Singapore,Metro,34,Female,Graduate,3,88156.66,107.0,4,54,2,1,0,0,10.1,3480.44,BNPL,1,Energy saving,Uncertain savings,5‑Star rating,AC,Govt portals;Online reviews;Friends/Family
+UAE,Tier‑2 city,26,Male,Secondary,1,92630.57,190.8,3,72,3,3,1,1,8.1,4302.08,BNPL,3,Energy saving,Low awareness,Solar compatibility;Wi‑Fi control,Washer,Friends/Family;Govt portals;Online reviews
+UAE,Metro,45,Female,Post‑grad,3,50440.25,479.7,3,77,3,2,1,1,10.9,2391.5,Upfront,3,Energy saving,Low awareness,Quiet motor,Washer,Social media;Online reviews;Friends/Family
+Singapore,Metro,29,Male,Graduate,6,137361.19,175.2,2,57,1,2,1,0,4.6,6761.07,Upfront,1,Govt incentive,Low awareness,5‑Star rating;Solar compatibility;Quiet motor,Air‑purifier,Friends/Family;Social media
+Singapore,Metro,38,Female,Graduate,3,92982.41,151.5,7,35,5,4,1,0,5.0,4902.49,0‑interest EMI,2,Up‑front price,Low awareness,Compact design;5‑Star rating;Solar compatibility,Washer;AC,Friends/Family
+Singapore,Metro,36,Female,Graduate,5,116588.28,188.0,7,53,3,2,0,1,11.3,6029.62,Upfront,4,Energy saving,High cost,5‑Star rating,Air‑purifier;Water‑heater,Friends/Family;Social media;In‑store demos
+India,Tier‑2 city,20,Female,Secondary,3,44875.55,186.0,2,34,2,2,1,0,5.3,1628.84,Rental,2,Peer reviews,Uncertain savings,5‑Star rating;Wi‑Fi control,AC;Washer;Air‑purifier,Friends/Family;Online reviews;In‑store demos
+India,Rural,43,Male,Secondary,1,18413.89,365.6,3,30,3,3,0,1,6.8,1389.31,BNPL,2,Energy saving,Low awareness,5‑Star rating,Refrigerator;Water‑heater,Social media
+UAE,Metro,21,Other,Graduate,6,747089.63,260.4,10,100,1,1,1,0,1.6,37670.54,0‑interest EMI,1,Up‑front price,Low awareness,Solar compatibility,Dishwasher;AC,Online reviews
+Singapore,Metro,36,Female,Secondary,3,119683.81,231.2,9,58,1,2,1,1,3.9,6089.99,Upfront,4,Up‑front price,Other,Wi‑Fi control,Dishwasher;AC,Social media;Online reviews
+Singapore,Metro,33,Male,Graduate,5,104377.98,333.0,8,43,3,2,0,1,10.8,5772.76,Upfront,1,Peer reviews,Uncertain savings,Wi‑Fi control;5‑Star rating,Washer;Refrigerator,Online reviews
+UAE,Metro,43,Male,Graduate,4,114147.97,382.3,4,53,1,2,1,1,8.9,5880.64,Upfront,6,Govt incentive,Other,Wi‑Fi control;5‑Star rating,Water‑heater;AC,Friends/Family;Online reviews
+UAE,Metro,33,Female,Graduate,4,75756.3,448.8,6,51,5,4,1,1,15.1,4399.41,BNPL,4,Brand,Limited models,Solar compatibility;Compact design,Dishwasher,In‑store demos;Friends/Family;Social media
+India,Metro,26,Male,Secondary,2,37216.68,386.6,4,64,2,1,1,1,12.0,3080.71,Rental,3,Brand,Uncertain savings,Solar compatibility,Air‑purifier;AC;Refrigerator,In‑store demos;Friends/Family;Online reviews
+India,Metro,43,Female,Secondary,3,28877.39,133.4,1,46,2,3,0,0,2.1,647.37,BNPL,3,Govt incentive,High cost,5‑Star rating,Washer;Water‑heater;Refrigerator,Social media
+Singapore,Tier‑2 city,22,Female,Secondary,3,73108.02,729.9,4,33,3,4,1,1,17.2,2812.75,BNPL,3,Brand,Limited models,Solar compatibility;Compact design,Refrigerator;Dishwasher;AC,Friends/Family;Social media
+UAE,Metro,27,Male,Secondary,4,40868.02,521.4,2,40,1,2,0,0,1.9,2322.56,Upfront,3,Energy saving,Limited models,Compact design;Solar compatibility,Refrigerator;AC;Water‑heater,In‑store demos;Social media
+UAE,Metro,43,Female,Graduate,2,53195.17,285.5,4,28,2,2,1,0,4.2,2658.98,Upfront,2,Up‑front price,Uncertain savings,5‑Star rating;Quiet motor;Wi‑Fi control,Water‑heater,Social media;Online reviews
+UAE,Metro,46,Male,Graduate,3,50839.81,431.6,1,39,4,3,0,0,6.4,2566.52,0‑interest EMI,2,Brand,Other,Quiet motor;Compact design;Wi‑Fi control,Water‑heater;Dishwasher,In‑store demos;Govt portals;Friends/Family
+India,Metro,28,Female,Primary,5,17720.89,164.7,1,32,3,3,0,0,3.5,50.0,0‑interest EMI,2,Peer reviews,High cost,Quiet motor,Washer,In‑store demos
+India,Metro,38,Male,Primary,6,22472.95,186.6,0,41,4,3,0,0,5.3,368.94,BNPL,2,Peer reviews,Uncertain savings,Solar compatibility,AC,Social media;In‑store demos;Friends/Family
+India,Metro,47,Female,Secondary,1,15378.56,182.9,0,47,4,3,1,0,2.9,1519.59,Upfront,4,Energy saving,High cost,Quiet motor;Compact design,Water‑heater;Air‑purifier;Washer,Friends/Family;Online reviews
+Singapore,Metro,40,Male,Secondary,4,95865.95,280.9,10,63,4,3,0,1,11.5,4195.25,Upfront,2,Brand,Other,Solar compatibility,Refrigerator;Water‑heater,In‑store demos;Social media;Govt portals
+India,Metro,40,Female,Secondary,3,27208.92,297.3,3,55,2,2,0,1,11.0,1759.35,Rental,2,Brand,Other,5‑Star rating;Solar compatibility,Dishwasher;Water‑heater,Online reviews
+India,Tier‑2 city,47,Male,Graduate,2,37061.41,557.7,5,38,2,2,1,0,2.9,1400.81,0‑interest EMI,2,Energy saving,Limited models,5‑Star rating;Solar compatibility;Quiet motor,Air‑purifier;Dishwasher;AC,Friends/Family
+UAE,Tier‑2 city,43,Female,Secondary,4,99363.18,445.2,4,62,4,3,1,0,8.1,5682.17,BNPL,3,Govt incentive,High cost,Solar compatibility;Quiet motor,Refrigerator,In‑store demos;Online reviews
+Singapore,Metro,36,Male,Graduate,2,76860.05,298.3,5,56,5,5,0,1,13.8,4047.18,Upfront,2,Up‑front price,Other,Solar compatibility,Washer,Friends/Family;Govt portals;Social media
+UAE,Metro,32,Female,Graduate,1,74397.43,446.5,4,65,4,5,1,1,8.6,4021.11,Upfront,4,Peer reviews,Low awareness,5‑Star rating;Solar compatibility,Air‑purifier;Dishwasher,Govt portals
+India,Metro,27,Female,Graduate,4,28887.93,191.4,4,53,3,2,0,1,12.5,1277.01,Upfront,2,Peer reviews,Low awareness,Wi‑Fi control;Quiet motor;Solar compatibility,Dishwasher;AC,In‑store demos;Friends/Family;Govt portals
+India,Tier‑2 city,38,Male,Primary,4,14684.38,279.3,3,45,5,5,1,1,11.4,273.01,Rental,4,Energy saving,Other,Compact design;Solar compatibility;Wi‑Fi control,Dishwasher,Social media;In‑store demos
+India,Metro,50,Male,Post‑grad,2,16354.03,445.4,2,39,3,4,0,1,12.9,1371.24,0‑interest EMI,2,Brand,Uncertain savings,Solar compatibility;5‑Star rating,Water‑heater;Dishwasher,Friends/Family;Govt portals;Online reviews
+India,Rural,25,Female,Secondary,3,30880.51,117.6,2,34,4,5,0,0,8.2,2399.33,Upfront,2,Energy saving,Low awareness,Wi‑Fi control;5‑Star rating;Solar compatibility,AC,In‑store demos
+India,Tier‑2 city,33,Male,Post‑grad,1,16257.71,275.3,0,20,5,5,0,0,5.5,407.14,Upfront,3,Govt incentive,Other,Quiet motor;Wi‑Fi control;5‑Star rating,Dishwasher;AC;Washer,Friends/Family;Social media
+India,Metro,30,Other,Secondary,3,15161.57,921.2,1,34,4,3,1,0,6.9,2123.51,BNPL,1,Energy saving,High cost,Solar compatibility,Water‑heater,Friends/Family
+Singapore,Metro,33,Male,Graduate,5,114780.4,371.6,8,81,2,3,1,1,4.6,5766.81,Upfront,6,Energy saving,High cost,5‑Star rating;Wi‑Fi control;Solar compatibility,Refrigerator,Social media;Govt portals
+UAE,Metro,33,Female,Graduate,3,51471.11,333.1,4,61,3,4,0,1,8.2,2536.1,0‑interest EMI,1,Govt incentive,Other,Solar compatibility,Dishwasher;Refrigerator,Friends/Family;Online reviews;Govt portals
+India,Tier‑2 city,35,Female,Graduate,2,12804.97,260.0,2,21,5,5,1,0,5.6,402.86,0‑interest EMI,0,Up‑front price,Low awareness,Solar compatibility,Washer;AC;Dishwasher,In‑store demos;Social media
+UAE,Metro,41,Male,Secondary,2,85527.08,169.9,7,66,1,1,1,0,2.8,4234.03,BNPL,3,Up‑front price,Uncertain savings,Compact design;Wi‑Fi control,Air‑purifier;AC,Social media
+Singapore,Metro,24,Male,Graduate,3,52213.85,650.9,6,44,1,1,1,0,5.6,2907.47,0‑interest EMI,0,Up‑front price,Other,Wi‑Fi control;Compact design,Washer;Refrigerator,Friends/Family;Govt portals;Social media
+Singapore,Metro,29,Male,Graduate,5,116372.33,345.3,4,80,3,4,1,1,6.6,5986.7,Upfront,1,Up‑front price,Other,5‑Star rating;Wi‑Fi control;Quiet motor,Water‑heater;Dishwasher;Refrigerator,Social media
+Singapore,Metro,34,Male,Graduate,3,154464.3,492.4,10,81,3,2,0,1,5.8,7410.12,Upfront,3,Energy saving,Limited models,Quiet motor,AC,Govt portals;Friends/Family;In‑store demos
+UAE,Tier‑2 city,33,Male,Post‑grad,2,90467.93,267.7,4,63,1,1,1,0,2.7,4038.39,Rental,1,Brand,Low awareness,Solar compatibility,Refrigerator;AC,Govt portals
+Singapore,Metro,34,Female,Graduate,1,131918.89,414.8,6,70,4,5,0,1,7.2,6481.64,Upfront,1,Energy saving,Low awareness,Solar compatibility;Quiet motor,Refrigerator,In‑store demos
+UAE,Tier‑2 city,41,Male,Secondary,1,88696.54,390.6,1,79,3,2,0,0,5.1,4556.8,Upfront,0,Brand,Other,Wi‑Fi control,Refrigerator,Social media
+Singapore,Metro,26,Male,Secondary,1,132198.27,375.0,10,57,1,1,1,0,7.7,6937.24,0‑interest EMI,3,Up‑front price,Other,5‑Star rating;Wi‑Fi control;Compact design,Air‑purifier,Friends/Family;Online reviews;Social media
+India,Rural,35,Male,Secondary,1,22839.0,296.4,1,37,4,5,1,1,14.2,1350.58,Rental,2,Govt incentive,Limited models,Compact design;5‑Star rating;Solar compatibility,AC;Water‑heater,Social media;In‑store demos;Govt portals
+Singapore,Metro,47,Other,Post‑grad,4,53968.5,253.3,7,53,5,5,0,1,17.0,2516.15,0‑interest EMI,0,Brand,Other,5‑Star rating;Wi‑Fi control;Quiet motor,Dishwasher,Online reviews;Govt portals
+India,Metro,22,Male,Post‑grad,1,23131.26,251.1,5,47,3,3,0,0,3.5,323.26,Upfront,4,Peer reviews,High cost,Compact design;Solar compatibility,Washer;Refrigerator;AC,In‑store demos;Govt portals;Online reviews
+UAE,Metro,18,Female,Graduate,2,40358.55,311.4,2,44,1,2,0,0,0.7,2090.22,Upfront,3,Peer reviews,High cost,Solar compatibility,Water‑heater;Dishwasher;Refrigerator,Friends/Family;Govt portals;Online reviews
+India,Metro,41,Male,Primary,4,12809.55,94.4,0,36,3,4,1,0,4.5,867.88,Rental,3,Energy saving,Uncertain savings,Compact design,AC;Refrigerator,Govt portals;In‑store demos
+UAE,Metro,48,Female,Graduate,1,70761.63,390.6,1,32,4,3,0,1,9.4,2822.32,Upfront,3,Up‑front price,High cost,Wi‑Fi control;Compact design;Solar compatibility,Washer;Air‑purifier;AC,Govt portals;Online reviews;In‑store demos
+India,Metro,29,Other,Primary,3,10261.01,356.9,1,48,3,4,1,1,5.9,50.0,BNPL,1,Peer reviews,Low awareness,5‑Star rating;Compact design;Quiet motor,Washer;Refrigerator;Water‑heater,Friends/Family;Govt portals
+UAE,Metro,36,Female,Secondary,1,165774.49,253.6,4,58,1,1,1,0,6.1,8096.03,0‑interest EMI,3,Energy saving,Limited models,5‑Star rating;Wi‑Fi control,AC;Air‑purifier;Washer,Friends/Family
+Singapore,Metro,54,Female,Secondary,2,105820.45,1164.8,5,58,2,2,0,0,4.7,5527.02,Upfront,3,Energy saving,Uncertain savings,5‑Star rating;Wi‑Fi control,AC,Friends/Family
+UAE,Metro,22,Female,Graduate,3,59735.17,655.6,4,62,2,1,1,1,4.1,3381.94,Rental,3,Govt incentive,Uncertain savings,Quiet motor;Solar compatibility;5‑Star rating,Air‑purifier;Washer;Water‑heater,In‑store demos;Social media
+India,Rural,33,Male,Graduate,3,22802.82,142.8,5,37,5,5,0,1,8.7,1512.05,Upfront,3,Energy saving,High cost,5‑Star rating;Wi‑Fi control,Refrigerator;Dishwasher,Govt portals;Friends/Family
+India,Metro,52,Male,Secondary,7,14773.1,324.0,1,36,5,4,1,1,15.0,502.23,BNPL,1,Up‑front price,High cost,Quiet motor;Solar compatibility;Compact design,AC,Friends/Family;In‑store demos;Social media
+UAE,Metro,44,Female,Secondary,2,107538.23,569.4,3,100,1,1,0,1,8.6,4253.47,Upfront,2,Up‑front price,Other,Solar compatibility,Refrigerator;AC,Online reviews;Friends/Family
+India,Tier‑2 city,37,Female,Graduate,1,25954.4,634.4,3,44,5,4,1,1,22.4,897.23,0‑interest EMI,5,Govt incentive,Other,Solar compatibility;5‑Star rating,Washer;Refrigerator;Air‑purifier,Social media
+UAE,Metro,28,Male,Secondary,3,46771.45,260.8,4,66,3,3,1,1,8.7,2983.76,0‑interest EMI,3,Govt incentive,Limited models,Quiet motor,AC,Online reviews
+UAE,Metro,40,Male,Graduate,3,94258.96,474.8,5,95,5,4,1,1,8.1,4879.88,Upfront,5,Peer reviews,Uncertain savings,5‑Star rating;Compact design,Air‑purifier;Water‑heater;Refrigerator,Friends/Family
+Singapore,Metro,52,Male,Secondary,5,77646.51,385.3,4,66,3,2,1,1,10.1,3909.36,Upfront,4,Energy saving,Low awareness,5‑Star rating;Compact design,Refrigerator;Washer,Online reviews
+India,Tier‑2 city,40,Female,Graduate,5,16911.71,276.2,0,37,4,5,0,0,5.4,1160.35,0‑interest EMI,1,Energy saving,Uncertain savings,Quiet motor;5‑Star rating;Solar compatibility,Air‑purifier;Washer;Water‑heater,In‑store demos;Friends/Family;Online reviews
+Singapore,Tier‑2 city,32,Male,Secondary,2,71940.27,270.8,6,47,4,4,1,1,9.3,3687.73,0‑interest EMI,2,Up‑front price,Uncertain savings,Wi‑Fi control;Quiet motor,Air‑purifier;Refrigerator,In‑store demos
+India,Tier‑2 city,25,Male,Secondary,2,21441.25,165.0,0,0,1,2,0,0,7.4,1174.7,Upfront,2,Govt incentive,Uncertain savings,Solar compatibility,Dishwasher,Online reviews;In‑store demos
+India,Tier‑2 city,37,Male,Secondary,1,12894.63,291.1,1,31,3,3,1,1,15.4,741.79,Upfront,1,Peer reviews,Limited models,Solar compatibility;Quiet motor;5‑Star rating,Air‑purifier;Washer,In‑store demos;Social media
+India,Metro,41,Male,Post‑grad,5,26912.57,372.8,4,68,5,5,0,1,11.9,2112.81,Upfront,2,Govt incentive,High cost,Quiet motor,Refrigerator,Social media
+Singapore,Metro,37,Female,Secondary,1,104110.1,335.4,7,39,3,4,1,1,15.6,6056.92,Upfront,4,Peer reviews,Uncertain savings,Compact design;5‑Star rating,Air‑purifier;Washer,Online reviews;Govt portals;Social media
+India,Metro,20,Male,Graduate,2,11477.36,229.2,1,23,2,3,1,0,1.0,986.24,0‑interest EMI,4,Brand,Other,5‑Star rating;Compact design;Wi‑Fi control,Washer;Air‑purifier;AC,Online reviews;Govt portals
+India,Tier‑2 city,26,Male,Secondary,2,15678.59,120.7,2,38,5,4,1,1,13.6,655.65,BNPL,5,Up‑front price,Limited models,Solar compatibility,Air‑purifier,Govt portals
+India,Tier‑2 city,37,Female,Graduate,6,16640.87,135.8,2,12,5,5,0,1,14.0,968.64,Upfront,3,Brand,Other,Compact design;Quiet motor,Washer,Govt portals;Online reviews
+India,Metro,42,Male,Secondary,1,26443.77,236.2,2,26,3,3,0,0,4.0,1407.42,Upfront,3,Govt incentive,Uncertain savings,Wi‑Fi control,AC;Washer,Friends/Family;Govt portals;Social media
+UAE,Metro,36,Female,Secondary,2,58744.15,302.4,3,61,4,5,1,1,9.1,2801.3,Upfront,2,Peer reviews,Other,Wi‑Fi control;5‑Star rating;Quiet motor,Water‑heater,Online reviews
+UAE,Metro,33,Female,Graduate,4,75920.91,417.9,6,57,1,1,1,0,3.5,3220.11,Upfront,0,Govt incentive,Limited models,5‑Star rating,Water‑heater,Govt portals
+India,Metro,47,Male,Graduate,3,18773.13,247.4,3,21,4,5,1,1,19.5,1720.79,Upfront,3,Govt incentive,Low awareness,Solar compatibility,Washer,Friends/Family;In‑store demos
+India,Metro,43,Female,Graduate,3,23186.74,308.7,2,33,2,1,0,0,6.1,869.89,BNPL,1,Govt incentive,High cost,Wi‑Fi control;Compact design;Solar compatibility,Dishwasher;Washer;AC,Govt portals
+India,Tier‑2 city,22,Male,Primary,6,16976.97,332.4,2,52,5,5,0,0,7.2,372.69,Rental,1,Up‑front price,Limited models,Compact design;Wi‑Fi control;5‑Star rating,Refrigerator;AC;Air‑purifier,Social media;Govt portals;Friends/Family
+UAE,Metro,18,Female,Secondary,4,56753.42,420.1,2,32,2,1,0,0,3.1,2826.38,Upfront,3,Energy saving,Uncertain savings,Compact design;Wi‑Fi control,Water‑heater;Air‑purifier,Online reviews
+Singapore,Metro,32,Female,Post‑grad,6,116968.84,245.9,5,56,4,3,1,1,11.0,5468.35,Upfront,3,Brand,Uncertain savings,Solar compatibility,AC;Refrigerator;Water‑heater,Friends/Family
+India,Tier‑2 city,30,Male,Primary,3,7633.79,241.1,1,46,2,1,0,0,2.1,1090.97,0‑interest EMI,3,Govt incentive,High cost,5‑Star rating;Wi‑Fi control;Solar compatibility,AC;Water‑heater,In‑store demos
+UAE,Metro,25,Male,Graduate,2,101196.17,277.4,3,66,2,3,1,1,6.7,4576.92,BNPL,3,Brand,Low awareness,Compact design;Solar compatibility,Refrigerator,Govt portals;In‑store demos;Friends/Family
+UAE,Tier‑2 city,41,Female,Secondary,4,75421.35,354.4,2,72,3,3,1,1,3.5,3093.34,Upfront,2,Energy saving,Limited models,Compact design;Quiet motor;5‑Star rating,Water‑heater;Air‑purifier,In‑store demos;Govt portals
+India,Tier‑2 city,36,Male,Graduate,2,14702.36,225.2,1,47,1,1,1,0,6.5,572.97,0‑interest EMI,4,Up‑front price,High cost,Wi‑Fi control;5‑Star rating,Air‑purifier;Refrigerator,Online reviews
+India,Tier‑2 city,33,Female,Graduate,5,16422.02,190.8,2,28,3,4,0,1,8.1,96.39,Rental,3,Energy saving,Limited models,Wi‑Fi control,AC;Water‑heater,In‑store demos;Online reviews;Social media
+India,Metro,47,Female,Graduate,4,23764.21,193.9,4,35,3,2,1,0,2.3,930.71,BNPL,2,Up‑front price,High cost,Quiet motor;Solar compatibility,Water‑heater;Washer;AC,Govt portals
+UAE,Metro,38,Male,Secondary,1,737664.15,594.9,10,100,4,3,1,0,7.0,36911.68,Upfront,1,Up‑front price,Other,5‑Star rating;Solar compatibility,AC;Air‑purifier;Water‑heater,Online reviews
+UAE,Metro,40,Female,Graduate,1,86549.97,304.4,3,47,5,5,1,0,13.6,3844.67,Upfront,5,Govt incentive,Other,Solar compatibility;Quiet motor,Refrigerator;AC,Friends/Family;Online reviews
+India,Tier‑2 city,28,Male,Primary,3,13386.78,401.5,1,21,5,4,0,1,9.1,953.22,0‑interest EMI,2,Peer reviews,Uncertain savings,5‑Star rating;Wi‑Fi control,Dishwasher,In‑store demos
+Singapore,Metro,38,Male,Post‑grad,7,75804.03,218.7,5,30,4,3,0,1,11.8,4324.39,BNPL,3,Brand,High cost,Wi‑Fi control,Washer;Water‑heater;Air‑purifier,Friends/Family;In‑store demos
+UAE,Metro,18,Female,Primary,5,45835.14,530.2,2,39,5,5,0,1,21.9,2697.3,Upfront,2,Peer reviews,Uncertain savings,Wi‑Fi control;Solar compatibility,AC;Dishwasher;Washer,Friends/Family;Online reviews;In‑store demos
+UAE,Metro,24,Male,Graduate,3,60624.54,1020.9,4,41,1,1,0,0,4.4,3526.16,BNPL,2,Brand,Limited models,Wi‑Fi control,AC;Air‑purifier,In‑store demos;Online reviews;Govt portals
+India,Metro,32,Female,Secondary,3,41195.9,675.6,4,46,5,4,1,0,5.3,2226.1,BNPL,4,Brand,Other,Quiet motor,Washer;AC,Govt portals;Social media
+UAE,Metro,49,Female,Graduate,3,76281.15,299.5,6,65,5,5,1,1,9.5,4210.65,Upfront,2,Energy saving,Other,Quiet motor,Refrigerator,Online reviews;Friends/Family
+Singapore,Metro,42,Male,Secondary,2,66800.15,336.0,4,52,5,4,1,1,20.1,3354.01,Upfront,2,Brand,Limited models,Quiet motor;Compact design,Water‑heater;Air‑purifier,Friends/Family
+India,Metro,50,Female,Primary,4,15252.23,239.1,4,27,2,3,0,0,5.8,270.71,0‑interest EMI,4,Up‑front price,Uncertain savings,Solar compatibility;Quiet motor,AC;Water‑heater,In‑store demos
+India,Metro,31,Female,Post‑grad,7,20013.88,412.9,2,32,2,2,0,1,5.0,588.56,Rental,4,Brand,High cost,Wi‑Fi control,Water‑heater,Friends/Family;Social media;Online reviews
+UAE,Metro,39,Female,Graduate,9,84155.93,364.2,8,16,1,2,1,1,7.2,4433.18,Upfront,4,Peer reviews,High cost,Solar compatibility,Washer;Dishwasher,Friends/Family
+UAE,Metro,31,Male,Primary,4,37598.4,1094.6,0,42,5,5,1,1,26.2,1815.55,0‑interest EMI,2,Energy saving,Limited models,Quiet motor;Solar compatibility;5‑Star rating,Water‑heater,Social media;In‑store demos;Online reviews
+UAE,Metro,39,Female,Graduate,1,136472.49,257.2,8,57,4,4,1,1,2.9,6305.67,Upfront,2,Govt incentive,Limited models,Solar compatibility;5‑Star rating,Air‑purifier;Dishwasher;Washer,Online reviews;Social media;In‑store demos
+Singapore,Metro,47,Male,Post‑grad,1,60338.87,155.3,4,70,3,2,1,1,11.7,2599.8,0‑interest EMI,2,Peer reviews,Other,Wi‑Fi control,Refrigerator,Friends/Family;Social media;Govt portals
+India,Tier‑2 city,28,Female,Secondary,1,30233.85,374.7,1,26,5,5,0,1,16.6,718.64,Upfront,2,Govt incentive,Limited models,Quiet motor,Washer,In‑store demos;Online reviews
+India,Tier‑2 city,36,Male,Post‑grad,1,21173.15,196.8,2,38,1,1,0,0,4.0,1455.46,Rental,2,Energy saving,Low awareness,Compact design;Quiet motor,Washer;Dishwasher;Air‑purifier,Friends/Family
+India,Metro,29,Female,Post‑grad,3,17822.53,294.9,3,53,2,1,1,1,7.6,416.06,Upfront,2,Peer reviews,Limited models,Solar compatibility;Compact design,Refrigerator;Water‑heater,Govt portals;Online reviews
+Singapore,Metro,30,Male,Graduate,3,119463.57,208.0,7,48,4,4,0,0,2.6,5810.32,0‑interest EMI,3,Up‑front price,High cost,Quiet motor;Solar compatibility,Refrigerator,Online reviews;Social media;Friends/Family
+UAE,Tier‑2 city,39,Female,Secondary,4,90762.04,518.7,10,74,4,3,0,1,8.0,4416.75,Upfront,0,Up‑front price,High cost,Wi‑Fi control;Solar compatibility;5‑Star rating,Water‑heater;Washer,In‑store demos;Govt portals;Social media
+UAE,Metro,35,Female,Secondary,4,124552.74,494.9,7,66,4,5,0,1,8.9,6693.31,Upfront,3,Peer reviews,Limited models,Solar compatibility;Wi‑Fi control,Dishwasher;AC;Washer,Online reviews;Friends/Family
+India,Metro,44,Female,Secondary,2,22355.49,203.9,0,35,5,5,0,1,8.4,1243.74,0‑interest EMI,1,Brand,High cost,Wi‑Fi control;5‑Star rating,Water‑heater,Online reviews;Social media;In‑store demos
+Singapore,Metro,18,Female,Graduate,5,81828.3,622.1,10,50,2,3,1,0,4.5,3927.91,Upfront,2,Peer reviews,Limited models,Compact design;5‑Star rating,AC;Water‑heater,Govt portals;In‑store demos;Social media
+India,Tier‑2 city,33,Female,Secondary,2,100634.24,253.3,10,58,1,2,0,1,2.9,5433.11,0‑interest EMI,7,Govt incentive,High cost,5‑Star rating;Wi‑Fi control,Refrigerator;Air‑purifier;Washer,In‑store demos;Friends/Family;Social media
+India,Rural,35,Female,Graduate,3,37853.13,968.8,3,5,2,1,0,0,6.5,1129.07,Upfront,1,Brand,Other,Solar compatibility;Compact design,AC,Social media;In‑store demos;Govt portals
+UAE,Metro,27,Male,Secondary,2,45200.16,457.7,3,41,3,4,0,0,7.4,2830.16,0‑interest EMI,6,Energy saving,Other,5‑Star rating;Solar compatibility;Wi‑Fi control,Refrigerator;Washer;AC,In‑store demos;Online reviews
+India,Metro,30,Male,Graduate,2,21265.03,137.5,2,50,5,4,0,1,10.8,1079.46,Upfront,0,Up‑front price,Limited models,5‑Star rating;Wi‑Fi control;Quiet motor,Refrigerator;Dishwasher,In‑store demos
+UAE,Metro,29,Female,Graduate,1,59501.31,293.0,5,26,4,4,1,1,18.2,3356.73,BNPL,3,Up‑front price,Uncertain savings,5‑Star rating;Compact design;Wi‑Fi control,AC;Dishwasher;Refrigerator,In‑store demos;Online reviews;Govt portals
+India,Metro,47,Female,Secondary,5,22943.3,314.5,1,47,5,5,0,1,13.3,1332.57,Rental,7,Energy saving,Uncertain savings,Compact design,Refrigerator;Washer;AC,Social media;Govt portals;Friends/Family
+UAE,Metro,35,Female,Graduate,4,72052.86,244.9,9,56,1,2,0,1,7.8,3256.29,Upfront,3,Energy saving,Other,Quiet motor;Wi‑Fi control;Compact design,Refrigerator;Water‑heater,Online reviews;In‑store demos
+India,Tier‑2 city,36,Male,Graduate,2,19362.79,353.2,1,35,4,5,0,1,13.7,526.66,Rental,2,Brand,Other,5‑Star rating;Wi‑Fi control,Dishwasher,In‑store demos;Online reviews;Govt portals
+Singapore,Metro,18,Female,Post‑grad,4,68131.07,236.9,2,44,3,2,1,1,10.9,4079.88,0‑interest EMI,1,Peer reviews,Low awareness,Quiet motor;Wi‑Fi control;Compact design,Air‑purifier,Online reviews
+Singapore,Tier‑2 city,24,Female,Primary,5,114216.98,347.9,7,73,5,5,1,1,18.0,5789.83,Upfront,5,Govt incentive,Other,Quiet motor;5‑Star rating,Washer;Water‑heater;Air‑purifier,Govt portals;Social media;Online reviews
+India,Metro,26,Male,Secondary,4,23510.95,173.6,1,26,2,3,1,0,3.6,1287.94,0‑interest EMI,1,Brand,Limited models,Wi‑Fi control,Washer;Dishwasher,Online reviews;Friends/Family
+India,Tier‑2 city,35,Male,Secondary,2,18219.31,364.1,0,54,3,4,0,0,7.2,50.0,Rental,2,Peer reviews,Uncertain savings,Quiet motor,Washer,In‑store demos;Social media;Online reviews
+India,Metro,39,Male,Graduate,4,40252.12,213.8,2,38,2,3,0,0,5.0,1427.66,BNPL,2,Peer reviews,High cost,Solar compatibility;Wi‑Fi control,Washer;Dishwasher;Air‑purifier,Online reviews;Friends/Family;Social media
+India,Metro,31,Female,Graduate,4,29400.31,176.1,0,35,3,3,0,0,3.4,1098.07,0‑interest EMI,1,Up‑front price,Uncertain savings,Wi‑Fi control;Compact design,Air‑purifier,Friends/Family;Govt portals
+Singapore,Metro,22,Female,Secondary,4,74986.23,380.2,3,88,5,5,0,1,20.4,3768.12,BNPL,2,Peer reviews,Other,Solar compatibility;Quiet motor,Washer,Govt portals;Social media
+India,Tier‑2 city,46,Male,Graduate,2,20940.25,280.7,3,22,4,4,1,1,11.9,1137.4,0‑interest EMI,3,Up‑front price,Low awareness,Quiet motor,Water‑heater;Air‑purifier,Online reviews;Govt portals;In‑store demos
+India,Tier‑2 city,36,Female,Primary,2,23966.61,104.4,2,38,1,1,0,0,1.7,1300.84,0‑interest EMI,4,Energy saving,Low awareness,5‑Star rating;Quiet motor,Washer;Water‑heater;Air‑purifier,Online reviews
+India,Tier‑2 city,22,Male,Secondary,2,13789.1,243.5,4,10,1,1,0,0,2.2,1321.76,0‑interest EMI,3,Govt incentive,Limited models,Compact design,Washer;Water‑heater,Online reviews;Social media;Govt portals
+India,Metro,18,Male,Post‑grad,4,14322.68,140.0,0,44,3,3,0,0,4.4,445.29,Rental,3,Up‑front price,Limited models,Solar compatibility;5‑Star rating;Compact design,AC;Refrigerator;Air‑purifier,Govt portals
+UAE,Metro,40,Male,Secondary,3,79708.06,268.8,3,32,2,2,0,0,2.1,3984.26,Upfront,2,Peer reviews,Limited models,Wi‑Fi control;5‑Star rating;Compact design,Air‑purifier,Online reviews;Friends/Family;Social media
+India,Tier‑2 city,31,Female,Secondary,5,21249.84,498.4,2,29,5,5,0,1,20.5,50.0,Upfront,5,Govt incentive,Limited models,Wi‑Fi control;Solar compatibility,Refrigerator;Water‑heater;Washer,Govt portals
+India,Metro,36,Female,Secondary,1,14128.8,242.9,1,49,2,2,0,0,6.5,1328.8,Rental,5,Govt incentive,Other,Compact design;Solar compatibility;5‑Star rating,Water‑heater,Social media
+UAE,Tier‑2 city,50,Female,Post‑grad,4,71346.17,349.8,1,69,1,1,1,0,0.8,3710.7,0‑interest EMI,2,Peer reviews,Limited models,Wi‑Fi control,AC;Washer;Water‑heater,Govt portals;Social media
+India,Metro,38,Female,Secondary,2,40801.3,168.9,3,29,5,5,0,1,11.9,2785.53,BNPL,2,Govt incentive,High cost,5‑Star rating,AC;Refrigerator,Govt portals;Social media;In‑store demos
+UAE,Metro,40,Female,Graduate,4,106242.03,646.7,9,79,4,4,1,1,12.3,5566.6,0‑interest EMI,3,Peer reviews,Other,Wi‑Fi control,Dishwasher;Water‑heater;AC,Online reviews
+Singapore,Metro,44,Male,Graduate,3,53065.59,292.6,7,20,4,5,1,1,5.0,2374.78,Upfront,6,Energy saving,Other,5‑Star rating;Wi‑Fi control;Compact design,Air‑purifier;Water‑heater,In‑store demos;Online reviews
+India,Rural,34,Female,Secondary,6,28030.07,362.0,2,37,3,4,1,1,3.6,900.67,0‑interest EMI,4,Peer reviews,Other,5‑Star rating;Solar compatibility;Compact design,Air‑purifier,In‑store demos;Govt portals;Social media
+India,Metro,26,Female,Secondary,1,11865.67,289.4,1,48,2,3,0,0,3.8,709.05,Rental,2,Peer reviews,Other,5‑Star rating;Compact design,Air‑purifier;Water‑heater,In‑store demos;Friends/Family;Govt portals
+UAE,Metro,36,Other,Graduate,5,98680.69,523.8,2,66,5,4,0,1,6.2,5770.88,Upfront,1,Govt incentive,Other,Compact design,Air‑purifier;Washer;Dishwasher,In‑store demos;Govt portals
+UAE,Tier‑2 city,35,Male,Secondary,3,107766.14,539.5,7,85,3,2,1,1,9.8,4849.05,Upfront,3,Peer reviews,Other,5‑Star rating;Quiet motor,Air‑purifier,Social media;Online reviews;Friends/Family
+UAE,Metro,40,Male,Graduate,4,79172.43,857.7,6,49,5,5,1,0,8.1,3818.82,Upfront,0,Up‑front price,Low awareness,Wi‑Fi control;Compact design,Water‑heater;Air‑purifier,Govt portals
+UAE,Metro,47,Male,Graduate,1,58074.02,814.7,2,66,1,1,0,1,21.0,3720.55,Upfront,1,Up‑front price,Uncertain savings,Wi‑Fi control;5‑Star rating,Dishwasher;Air‑purifier,Friends/Family;Social media
+UAE,Metro,41,Male,Secondary,5,95038.92,253.3,4,54,1,1,0,1,10.5,4710.34,Upfront,4,Brand,High cost,Solar compatibility;Quiet motor,Refrigerator,Friends/Family
+UAE,Metro,40,Male,Graduate,3,80287.49,316.9,4,47,2,1,1,0,10.5,4232.64,Upfront,5,Govt incentive,Uncertain savings,5‑Star rating;Quiet motor,Water‑heater;Refrigerator,Friends/Family;In‑store demos;Social media
+India,Metro,35,Female,Post‑grad,4,22722.38,191.5,2,39,4,4,1,1,7.6,1262.2,Upfront,4,Energy saving,Uncertain savings,Quiet motor,Water‑heater;Air‑purifier,Social media;Online reviews;Govt portals
+UAE,Metro,24,Other,Secondary,4,71413.69,424.6,7,40,5,4,1,0,2.8,2979.77,0‑interest EMI,3,Energy saving,Uncertain savings,Quiet motor;Wi‑Fi control;5‑Star rating,Dishwasher;Water‑heater;Washer,Govt portals
+India,Metro,25,Male,Graduate,2,11736.62,241.1,0,50,3,3,1,1,9.8,50.0,BNPL,4,Up‑front price,Low awareness,Quiet motor;Compact design;5‑Star rating,Refrigerator;Washer,In‑store demos
+India,Metro,41,Female,Secondary,3,15651.06,211.7,3,17,5,5,1,1,21.5,1286.34,0‑interest EMI,2,Brand,Uncertain savings,Compact design,Washer,Social media;Friends/Family
+India,Metro,26,Male,Post‑grad,4,29830.02,241.9,2,65,1,1,0,0,1.7,1178.39,0‑interest EMI,3,Govt incentive,Uncertain savings,5‑Star rating,Air‑purifier,Friends/Family
+Singapore,Metro,29,Female,Graduate,2,128100.97,197.0,9,34,4,3,1,0,3.9,6099.23,Rental,2,Brand,Low awareness,Quiet motor,AC;Air‑purifier;Washer,Online reviews;Govt portals;In‑store demos
+India,Metro,33,Female,Secondary,4,39450.57,99.1,2,39,4,3,0,1,14.7,1708.53,0‑interest EMI,4,Energy saving,Limited models,Quiet motor,Dishwasher;Air‑purifier,Social media;Online reviews;In‑store demos
+India,Tier‑2 city,34,Male,Secondary,3,16159.31,281.5,2,15,4,5,0,1,11.7,588.66,0‑interest EMI,5,Energy saving,High cost,5‑Star rating;Wi‑Fi control;Quiet motor,Water‑heater;Refrigerator,Govt portals
+Singapore,Metro,33,Male,Secondary,5,69270.53,363.7,1,40,5,4,1,1,15.2,3517.84,Upfront,2,Energy saving,Limited models,Wi‑Fi control;Compact design;5‑Star rating,Dishwasher;Water‑heater,Social media
+UAE,Metro,29,Female,Graduate,2,72594.79,230.9,7,62,2,1,0,0,1.3,3481.99,Upfront,2,Brand,Limited models,Compact design;Quiet motor;5‑Star rating,Dishwasher;Washer,Friends/Family
+India,Rural,43,Female,Secondary,4,23954.77,207.4,4,22,1,2,1,1,5.5,1825.31,0‑interest EMI,2,Energy saving,Other,Solar compatibility;5‑Star rating,AC,Friends/Family;Govt portals;In‑store demos
+India,Metro,33,Male,Secondary,1,25555.4,217.9,5,6,2,3,0,1,23.8,500.96,0‑interest EMI,4,Brand,Limited models,5‑Star rating;Solar compatibility;Quiet motor,Air‑purifier,Online reviews
+India,Metro,32,Male,Secondary,2,21747.37,199.8,2,56,1,1,0,0,2.9,1231.85,0‑interest EMI,2,Energy saving,High cost,Compact design,Air‑purifier;Dishwasher;AC,Govt portals
+India,Tier‑2 city,33,Female,Secondary,2,18344.93,171.9,2,39,4,3,1,0,7.8,1528.42,Upfront,5,Brand,Other,Quiet motor;Compact design;Solar compatibility,AC;Refrigerator,Online reviews;Govt portals;In‑store demos
+India,Metro,56,Male,Primary,5,21874.03,202.2,2,19,2,1,0,1,15.4,607.41,0‑interest EMI,3,Up‑front price,Low awareness,5‑Star rating;Quiet motor;Compact design,AC;Dishwasher;Air‑purifier,Friends/Family
+UAE,Metro,53,Male,Post‑grad,1,115209.83,319.4,5,67,3,2,1,1,8.9,5167.56,Upfront,1,Energy saving,High cost,5‑Star rating;Wi‑Fi control;Quiet motor,Air‑purifier,Friends/Family;Social media;In‑store demos
+India,Tier‑2 city,70,Male,Secondary,2,30835.72,151.1,2,29,1,1,0,0,1.7,1828.3,Rental,3,Govt incentive,Other,Compact design,Water‑heater,Govt portals
+India,Metro,18,Female,Secondary,4,17381.75,253.8,2,51,5,5,1,1,11.4,974.73,Upfront,3,Brand,Other,Compact design;Solar compatibility;Quiet motor,Washer;AC,Social media
+India,Metro,37,Female,Post‑grad,6,22136.22,174.6,2,38,3,3,1,0,1.2,2150.81,0‑interest EMI,4,Peer reviews,Uncertain savings,Solar compatibility,AC;Washer,Govt portals;Online reviews
+India,Metro,27,Female,Graduate,5,27648.46,913.7,2,51,1,2,0,0,4.0,305.56,Rental,5,Brand,Low awareness,5‑Star rating,AC,In‑store demos;Friends/Family
+India,Rural,41,Male,Post‑grad,5,13929.72,201.0,7,25,5,4,0,0,6.6,380.92,Rental,3,Energy saving,High cost,5‑Star rating;Quiet motor,Refrigerator;Air‑purifier,Govt portals
+Singapore,Metro,33,Female,Primary,1,82464.08,226.5,4,26,2,2,1,1,9.8,4487.38,0‑interest EMI,2,Brand,Other,Quiet motor,Refrigerator,In‑store demos
+Singapore,Metro,55,Female,Graduate,3,91341.76,400.5,6,52,4,5,0,1,14.1,4031.06,Upfront,4,Energy saving,Other,Wi‑Fi control,Refrigerator;Air‑purifier;AC,In‑store demos;Online reviews
+India,Metro,31,Male,Post‑grad,4,10768.35,234.2,2,20,1,1,1,0,4.0,1916.74,0‑interest EMI,3,Up‑front price,Uncertain savings,Quiet motor;Compact design,Washer,Govt portals
+UAE,Metro,25,Female,Post‑grad,2,74176.0,273.8,9,63,5,5,0,1,9.6,3002.49,0‑interest EMI,4,Brand,Other,Solar compatibility,Washer,Govt portals;In‑store demos;Social media
+Singapore,Metro,27,Male,Primary,2,69310.15,400.9,1,57,1,2,1,1,5.6,2683.2,BNPL,3,Up‑front price,High cost,Compact design;Quiet motor,Air‑purifier;AC,Social media
+India,Tier‑2 city,43,Male,Secondary,5,19517.14,185.3,2,50,3,4,1,1,12.5,1374.41,0‑interest EMI,3,Up‑front price,Other,Wi‑Fi control,Dishwasher;Air‑purifier,In‑store demos;Govt portals;Social media
+UAE,Metro,23,Female,Primary,1,131807.42,306.6,9,77,5,5,1,1,18.1,6274.55,BNPL,3,Govt incentive,Uncertain savings,Solar compatibility;Wi‑Fi control,AC;Washer;Dishwasher,Friends/Family;In‑store demos
+India,Metro,31,Other,Primary,3,14703.01,275.6,2,19,5,4,0,0,6.3,1714.4,Upfront,4,Energy saving,High cost,Quiet motor,Air‑purifier;Refrigerator;Washer,Online reviews;Friends/Family
+UAE,Metro,31,Male,Secondary,1,94181.54,363.5,9,51,5,4,0,1,12.4,3732.19,0‑interest EMI,4,Energy saving,Other,Quiet motor;Compact design;Wi‑Fi control,AC;Refrigerator,Govt portals;Social media
+UAE,Metro,22,Female,Graduate,3,160453.91,273.8,10,70,2,3,1,1,12.5,7882.73,Rental,2,Up‑front price,Uncertain savings,Compact design;Quiet motor;Solar compatibility,Air‑purifier;Dishwasher,Friends/Family;In‑store demos;Govt portals
+India,Metro,35,Female,Secondary,2,20614.64,145.5,2,47,3,4,1,1,3.7,1981.29,Rental,4,Up‑front price,Limited models,Compact design;Wi‑Fi control;5‑Star rating,Air‑purifier,In‑store demos
+India,Tier‑2 city,40,Male,Secondary,2,17045.07,180.6,1,46,4,4,1,0,4.3,812.56,Upfront,3,Up‑front price,Other,Quiet motor;Wi‑Fi control,Dishwasher;Air‑purifier,Govt portals
+UAE,Tier‑2 city,34,Male,Secondary,1,66882.65,757.9,5,79,2,1,0,0,4.7,3275.15,Upfront,2,Energy saving,Uncertain savings,Compact design;5‑Star rating;Quiet motor,Refrigerator;Dishwasher;Air‑purifier,Friends/Family;Online reviews
+India,Metro,40,Female,Post‑grad,1,19041.45,259.8,1,46,1,1,0,0,1.1,616.67,BNPL,1,Energy saving,Other,Quiet motor,Water‑heater;Washer,Friends/Family;Social media
+UAE,Metro,49,Male,Post‑grad,8,57600.08,307.2,5,37,5,5,0,1,13.9,2426.68,Rental,1,Energy saving,Limited models,Compact design;Quiet motor,AC;Air‑purifier;Water‑heater,Online reviews;In‑store demos;Govt portals
+Singapore,Metro,38,Male,Secondary,2,80291.43,216.4,3,78,5,4,1,1,22.8,4087.29,Upfront,1,Up‑front price,Uncertain savings,Solar compatibility;Quiet motor;Compact design,AC;Air‑purifier,Govt portals;Online reviews
+India,Metro,35,Other,Graduate,1,14508.87,290.1,0,50,1,1,0,0,1.4,1073.41,Upfront,2,Brand,Uncertain savings,Wi‑Fi control;Compact design;5‑Star rating,Refrigerator,In‑store demos;Friends/Family;Online reviews
+India,Metro,24,Male,Secondary,3,32436.47,376.1,1,24,2,2,1,1,6.6,2151.13,0‑interest EMI,0,Govt incentive,Other,5‑Star rating;Quiet motor;Compact design,Refrigerator;AC;Washer,Govt portals
+UAE,Metro,23,Female,Primary,2,47592.16,570.2,3,1,1,1,1,0,3.6,3154.92,Upfront,3,Brand,Limited models,Solar compatibility,Dishwasher,Friends/Family;Online reviews;Social media
+UAE,Metro,20,Female,Graduate,7,71729.83,196.0,4,57,1,2,1,1,11.6,3502.94,0‑interest EMI,4,Brand,Uncertain savings,Solar compatibility,Dishwasher;AC;Water‑heater,In‑store demos;Online reviews
+UAE,Metro,18,Female,Secondary,3,78879.12,646.2,8,65,3,2,1,1,3.4,4036.16,Upfront,2,Peer reviews,Uncertain savings,Quiet motor,Washer,Govt portals;In‑store demos;Social media
+India,Tier‑2 city,18,Male,Post‑grad,5,14470.45,119.8,5,29,4,4,0,0,6.3,1290.65,Upfront,2,Govt incentive,Other,Wi‑Fi control,Water‑heater;Refrigerator;AC,Online reviews
+India,Tier‑2 city,18,Female,Post‑grad,1,25939.4,158.6,5,41,3,4,1,0,5.7,1488.6,BNPL,2,Energy saving,Other,Wi‑Fi control;5‑Star rating;Quiet motor,AC;Air‑purifier;Refrigerator,In‑store demos
+UAE,Metro,38,Male,Primary,2,67945.82,477.0,5,42,3,2,1,1,7.6,3582.83,Rental,2,Brand,Uncertain savings,Solar compatibility;Wi‑Fi control;Quiet motor,AC;Water‑heater;Refrigerator,Friends/Family
+India,Metro,42,Female,Secondary,2,24897.23,139.4,5,20,5,4,0,1,20.6,1249.26,0‑interest EMI,4,Brand,Limited models,Compact design;Quiet motor,AC,In‑store demos;Online reviews
+India,Metro,30,Male,Graduate,4,40101.58,163.5,2,56,2,2,0,0,3.6,2003.89,0‑interest EMI,2,Up‑front price,Uncertain savings,Solar compatibility;Wi‑Fi control,Refrigerator;Dishwasher,Govt portals;Online reviews;In‑store demos
+India,Metro,39,Female,Primary,1,14812.04,291.7,2,16,5,5,1,1,7.9,1158.86,0‑interest EMI,3,Govt incentive,Low awareness,Quiet motor;Solar compatibility;5‑Star rating,Water‑heater;Washer,Online reviews
+India,Tier‑2 city,36,Female,Secondary,7,30989.6,181.1,3,19,5,5,0,1,9.2,1642.98,0‑interest EMI,2,Energy saving,Uncertain savings,Solar compatibility,Water‑heater;Dishwasher,In‑store demos
+India,Metro,22,Male,Secondary,4,23942.69,365.1,2,38,1,1,0,0,1.9,1191.42,Rental,1,Govt incentive,Limited models,Quiet motor;Wi‑Fi control,AC,In‑store demos;Friends/Family
+UAE,Metro,31,Male,Primary,3,45446.3,377.9,5,39,3,3,1,0,4.0,1375.22,0‑interest EMI,4,Brand,Other,Wi‑Fi control;5‑Star rating,Water‑heater,Govt portals;Friends/Family;Online reviews
+India,Metro,41,Male,Secondary,1,25839.32,231.2,2,34,1,1,0,0,2.5,1692.81,0‑interest EMI,1,Brand,Limited models,Wi‑Fi control;5‑Star rating,AC,Friends/Family;In‑store demos
+UAE,Metro,37,Female,Primary,1,42386.54,300.3,0,57,2,2,1,1,5.3,1918.09,Upfront,1,Govt incentive,Low awareness,Quiet motor,Washer;Air‑purifier;AC,Govt portals;Online reviews
+UAE,Metro,28,Male,Secondary,1,80012.23,681.3,5,63,1,2,1,1,12.5,3719.14,Upfront,3,Peer reviews,High cost,Solar compatibility;5‑Star rating,Refrigerator;AC,Online reviews
+India,Metro,30,Male,Graduate,2,11280.42,283.1,0,54,5,4,0,0,10.4,410.61,0‑interest EMI,1,Govt incentive,Other,Quiet motor;5‑Star rating;Compact design,Washer,In‑store demos;Govt portals;Social media
+UAE,Metro,32,Female,Secondary,4,70800.53,177.2,5,48,5,4,1,1,7.8,3026.52,Upfront,0,Energy saving,High cost,Quiet motor;Solar compatibility;Compact design,Dishwasher;Water‑heater;Refrigerator,Friends/Family;Online reviews
+UAE,Metro,41,Female,Primary,4,81113.5,200.8,6,27,1,2,1,0,0.8,3716.82,0‑interest EMI,2,Energy saving,Other,Solar compatibility;Wi‑Fi control,Washer;Air‑purifier;Refrigerator,Friends/Family;In‑store demos;Govt portals
+India,Metro,38,Female,Graduate,1,14819.01,376.5,3,47,5,5,0,1,13.2,350.2,0‑interest EMI,2,Brand,Low awareness,Solar compatibility;Wi‑Fi control,Dishwasher;Washer,Social media
+Singapore,Metro,41,Female,Secondary,7,112622.69,338.0,10,60,2,2,1,0,1.0,5335.44,Upfront,5,Energy saving,Other,Compact design,Washer;Air‑purifier,Govt portals
+India,Metro,38,Male,Post‑grad,2,10751.8,107.6,1,40,4,4,1,1,8.6,190.2,0‑interest EMI,2,Energy saving,Limited models,Compact design,AC;Washer;Water‑heater,Online reviews
+Singapore,Metro,34,Male,Graduate,2,121047.46,273.9,9,85,3,4,1,1,18.8,4883.41,Upfront,4,Govt incentive,Uncertain savings,Wi‑Fi control;Solar compatibility;5‑Star rating,Water‑heater;Dishwasher;Washer,Online reviews;Friends/Family;Govt portals
+India,Metro,54,Male,Graduate,5,19689.29,234.9,1,34,3,3,1,1,7.5,1153.96,0‑interest EMI,4,Energy saving,Uncertain savings,Compact design;Quiet motor;Solar compatibility,Refrigerator;Air‑purifier,Social media;In‑store demos;Online reviews
+India,Metro,49,Male,Primary,3,24181.45,331.8,1,81,2,1,0,0,5.2,1329.97,BNPL,3,Govt incentive,High cost,Wi‑Fi control,Washer,Govt portals;In‑store demos;Online reviews
+UAE,Metro,37,Female,Graduate,4,97431.95,273.4,7,58,5,4,0,1,23.9,5256.83,0‑interest EMI,2,Brand,Limited models,Solar compatibility;5‑Star rating;Wi‑Fi control,Refrigerator,Social media;Friends/Family;Govt portals
+UAE,Metro,45,Male,Graduate,1,143584.34,440.2,10,65,3,2,1,1,9.9,6793.82,Upfront,5,Brand,High cost,Compact design;Wi‑Fi control;5‑Star rating,Air‑purifier;Dishwasher;AC,In‑store demos;Social media
+UAE,Metro,46,Male,Secondary,1,95721.64,759.7,10,100,1,1,1,1,9.5,4313.22,Upfront,1,Up‑front price,Low awareness,5‑Star rating,Dishwasher,Social media;Govt portals;In‑store demos
+Singapore,Metro,40,Other,Primary,4,121270.43,441.7,6,55,2,1,1,0,3.3,7198.77,Upfront,3,Peer reviews,Other,5‑Star rating;Wi‑Fi control,Refrigerator,Online reviews
+UAE,Tier‑2 city,28,Male,Graduate,1,28552.05,272.1,2,39,2,1,1,1,9.6,1422.29,0‑interest EMI,2,Govt incentive,Low awareness,Quiet motor;Solar compatibility,Air‑purifier;Washer;Dishwasher,In‑store demos;Govt portals;Friends/Family
+UAE,Metro,18,Male,Primary,2,39711.9,182.8,2,48,5,4,0,1,12.4,2158.6,Rental,3,Energy saving,Low awareness,5‑Star rating,Air‑purifier;Washer,Govt portals;Friends/Family;Social media
+India,Metro,19,Female,Graduate,1,12734.26,158.3,2,36,4,4,0,0,2.8,490.3,Rental,5,Up‑front price,Other,Wi‑Fi control,Refrigerator;Air‑purifier;Dishwasher,Social media
+India,Rural,36,Female,Graduate,1,18901.81,340.7,4,18,5,5,1,1,19.4,1577.42,Rental,3,Energy saving,Limited models,Wi‑Fi control;5‑Star rating,AC,Friends/Family
+Singapore,Metro,39,Male,Post‑grad,5,96287.72,569.7,7,32,3,4,1,1,7.9,4908.64,Upfront,2,Brand,High cost,Compact design;5‑Star rating,Water‑heater,In‑store demos;Friends/Family;Govt portals
+India,Metro,40,Female,Post‑grad,5,25660.97,155.3,1,33,1,2,0,1,5.9,922.06,Upfront,4,Govt incentive,High cost,Solar compatibility;Wi‑Fi control,Refrigerator;Air‑purifier;Washer,In‑store demos;Govt portals;Friends/Family
+India,Tier‑2 city,21,Female,Graduate,7,7950.57,278.0,0,33,1,1,0,0,3.7,50.0,BNPL,3,Brand,Limited models,Solar compatibility,Dishwasher;Air‑purifier;Washer,Social media
+India,Metro,28,Male,Graduate,1,24152.14,449.5,4,48,4,4,0,0,4.1,1572.52,BNPL,5,Brand,High cost,Wi‑Fi control;5‑Star rating,Air‑purifier;AC,Govt portals;In‑store demos
+Singapore,Metro,36,Male,Secondary,1,120803.63,401.6,4,89,3,4,0,1,6.8,6214.23,0‑interest EMI,4,Up‑front price,Low awareness,Quiet motor;5‑Star rating;Compact design,Refrigerator;Washer;Water‑heater,Friends/Family;Online reviews;In‑store demos
+Singapore,Metro,18,Female,Graduate,1,60199.44,264.0,3,36,1,1,0,0,3.0,3133.77,BNPL,4,Brand,Other,Wi‑Fi control;Solar compatibility,Washer;Refrigerator;Air‑purifier,Social media;In‑store demos
+UAE,Metro,39,Male,Secondary,6,89514.8,348.7,6,81,1,1,0,1,13.9,4970.72,0‑interest EMI,3,Up‑front price,Low awareness,Compact design;Quiet motor;Wi‑Fi control,Washer;AC;Air‑purifier,Govt portals
+India,Metro,18,Male,Graduate,3,33288.04,182.1,3,32,4,3,0,1,32.3,1619.95,Upfront,1,Brand,Limited models,Wi‑Fi control,Air‑purifier;Water‑heater,Friends/Family;Govt portals;In‑store demos
+India,Tier‑2 city,21,Male,Secondary,3,16468.69,413.0,4,45,3,3,0,0,4.9,1032.65,BNPL,2,Brand,High cost,Wi‑Fi control,Water‑heater,Govt portals
+India,Tier‑2 city,35,Female,Graduate,1,28773.73,138.3,1,50,5,5,0,1,14.9,89.03,Rental,1,Up‑front price,Uncertain savings,Compact design,Air‑purifier;Refrigerator;Washer,Online reviews
+UAE,Metro,40,Male,Post‑grad,2,111058.03,384.1,7,68,4,3,0,0,2.7,5272.11,Upfront,6,Peer reviews,High cost,Wi‑Fi control;5‑Star rating,Water‑heater;Air‑purifier;AC,Friends/Family;In‑store demos
+UAE,Metro,42,Male,Secondary,2,84113.52,333.3,9,68,2,1,1,0,8.7,4844.6,0‑interest EMI,3,Brand,High cost,5‑Star rating,Dishwasher;Washer,In‑store demos;Social media;Friends/Family
+UAE,Metro,18,Female,Primary,3,55834.49,381.3,1,29,2,3,1,0,5.7,3371.93,0‑interest EMI,5,Govt incentive,Uncertain savings,Solar compatibility;Wi‑Fi control;Quiet motor,Washer,In‑store demos;Social media
+UAE,Tier‑2 city,21,Female,Secondary,4,118945.41,524.6,10,58,1,2,0,0,8.3,6616.56,0‑interest EMI,0,Brand,Low awareness,5‑Star rating,Water‑heater,Online reviews;In‑store demos;Govt portals
+UAE,Metro,30,Female,Post‑grad,5,77434.69,302.7,7,44,4,4,0,1,15.1,4332.53,Upfront,2,Peer reviews,High cost,Wi‑Fi control;Quiet motor,Dishwasher;Washer;Air‑purifier,Social media
+India,Tier‑2 city,36,Male,Graduate,1,31558.17,155.9,2,36,2,2,0,1,8.0,735.87,BNPL,1,Energy saving,Other,5‑Star rating;Quiet motor;Wi‑Fi control,Water‑heater,Online reviews
+India,Metro,45,Female,Graduate,2,19799.5,204.3,1,13,1,1,0,0,12.1,584.88,0‑interest EMI,2,Energy saving,Uncertain savings,Wi‑Fi control,Refrigerator;AC;Water‑heater,Govt portals
+Singapore,Metro,50,Female,Graduate,5,91467.06,176.5,6,88,4,4,0,1,14.4,2655.03,Upfront,4,Govt incentive,High cost,5‑Star rating;Compact design;Solar compatibility,Refrigerator;Dishwasher;Washer,Govt portals;In‑store demos;Friends/Family
+Singapore,Metro,25,Female,Secondary,3,74868.17,218.7,10,62,3,4,1,1,4.2,4337.84,Upfront,3,Energy saving,High cost,5‑Star rating;Wi‑Fi control,Air‑purifier,Social media;Friends/Family
+India,Metro,20,Female,Graduate,4,31939.28,200.9,3,13,4,5,0,1,8.9,2114.83,Upfront,4,Energy saving,Uncertain savings,Quiet motor;Wi‑Fi control,Water‑heater;Dishwasher,Friends/Family
+UAE,Metro,58,Female,Secondary,1,49676.04,511.0,2,59,1,1,1,0,1.7,3039.6,0‑interest EMI,2,Govt incentive,Uncertain savings,5‑Star rating;Solar compatibility,Refrigerator;Water‑heater,Social media;Friends/Family;Online reviews
+UAE,Metro,39,Female,Primary,3,48785.52,1103.5,7,14,3,4,0,0,2.4,2224.84,BNPL,4,Govt incentive,Uncertain savings,Wi‑Fi control;Compact design;5‑Star rating,AC,Online reviews;Social media;In‑store demos
+India,Metro,21,Male,Secondary,4,18622.78,225.5,1,65,4,5,0,1,9.6,929.38,Upfront,2,Peer reviews,Limited models,Compact design;Quiet motor,Water‑heater;Air‑purifier,In‑store demos;Online reviews
+India,Metro,36,Male,Graduate,3,11587.7,172.5,4,73,5,4,0,0,10.2,661.3,Rental,3,Brand,High cost,Quiet motor;Solar compatibility,Washer;Air‑purifier,Friends/Family;Govt portals;Social media
+India,Metro,41,Female,Graduate,2,17645.73,308.3,3,47,2,2,0,1,7.1,928.75,Upfront,3,Energy saving,High cost,Compact design;Wi‑Fi control;Solar compatibility,Water‑heater,Online reviews;Social media
+Singapore,Metro,44,Female,Graduate,4,62251.14,275.9,4,22,2,2,0,1,9.2,3164.08,0‑interest EMI,3,Up‑front price,Limited models,Compact design,Refrigerator;Air‑purifier;Washer,In‑store demos
+India,Tier‑2 city,38,Female,Secondary,3,16902.61,1095.6,1,25,5,4,1,1,20.3,381.33,Rental,2,Peer reviews,Other,Compact design,Washer;AC;Water‑heater,Friends/Family;Govt portals
+UAE,Metro,34,Male,Secondary,1,106460.8,268.2,7,48,1,1,1,0,5.4,5617.9,Upfront,1,Govt incentive,Other,Compact design,Refrigerator;Dishwasher;Water‑heater,Friends/Family;Govt portals
+UAE,Metro,40,Female,Post‑grad,3,98016.72,384.2,6,88,1,2,1,1,10.8,4688.44,Upfront,4,Up‑front price,Other,Compact design,Water‑heater,Online reviews;Govt portals;In‑store demos
+India,Metro,46,Female,Secondary,2,29675.92,295.2,6,65,4,5,0,1,4.2,1265.66,0‑interest EMI,4,Energy saving,High cost,Quiet motor,AC;Air‑purifier;Dishwasher,Online reviews;Social media
+India,Metro,46,Male,Primary,4,17835.29,669.7,2,33,4,3,0,1,8.1,473.57,0‑interest EMI,0,Peer reviews,Limited models,Wi‑Fi control,Water‑heater,Friends/Family;Govt portals;Online reviews
+UAE,Metro,52,Female,Secondary,3,62508.64,571.4,6,52,4,4,1,1,6.8,2952.21,0‑interest EMI,4,Govt incentive,High cost,5‑Star rating,Air‑purifier;Dishwasher;Refrigerator,Online reviews
+Singapore,Metro,31,Female,Graduate,3,117970.79,263.1,10,63,4,3,1,1,6.7,6006.71,0‑interest EMI,4,Govt incentive,Low awareness,Compact design;Wi‑Fi control;5‑Star rating,Air‑purifier,Friends/Family;Social media
+UAE,Metro,41,Male,Graduate,2,50105.38,336.3,2,29,1,1,0,0,1.6,2651.68,0‑interest EMI,0,Energy saving,Other,Solar compatibility;5‑Star rating;Wi‑Fi control,Air‑purifier;Water‑heater,Online reviews
+UAE,Metro,43,Male,Secondary,3,100436.46,355.5,3,53,2,1,1,1,3.6,4878.51,Upfront,5,Brand,Other,Compact design;Quiet motor;Wi‑Fi control,Dishwasher;Washer,Online reviews;Govt portals;Friends/Family
+UAE,Metro,22,Male,Post‑grad,6,60508.22,843.0,2,30,5,5,0,1,6.0,3093.26,BNPL,1,Brand,Limited models,Compact design;Solar compatibility,Air‑purifier;Dishwasher;Washer,Friends/Family;Social media
+India,Metro,29,Male,Graduate,3,13565.63,275.1,2,42,1,1,0,0,1.7,1175.68,0‑interest EMI,3,Up‑front price,Other,Solar compatibility;5‑Star rating;Wi‑Fi control,Refrigerator;Washer;AC,In‑store demos;Online reviews;Social media
+India,Metro,41,Female,Secondary,1,35237.02,202.5,4,47,5,5,0,1,21.0,2882.3,0‑interest EMI,0,Brand,Other,Wi‑Fi control,Water‑heater;Refrigerator;Washer,Online reviews
+UAE,Tier‑2 city,35,Male,Post‑grad,4,78485.34,167.9,7,62,3,2,1,1,13.2,3541.22,Upfront,3,Peer reviews,Limited models,Quiet motor;Wi‑Fi control,Water‑heater;Air‑purifier,Friends/Family
+India,Metro,38,Male,Graduate,2,13383.16,263.0,1,28,5,5,1,0,7.1,247.94,0‑interest EMI,3,Up‑front price,High cost,Solar compatibility;Quiet motor,Dishwasher,Govt portals;Social media;Friends/Family
+Singapore,Metro,40,Male,Graduate,2,96226.58,619.8,6,60,4,5,1,1,12.0,4926.11,0‑interest EMI,5,Brand,Uncertain savings,Compact design;Quiet motor;5‑Star rating,Refrigerator,Social media;Friends/Family
+UAE,Metro,30,Male,Secondary,4,54918.1,371.3,1,53,5,5,0,1,8.7,2188.52,0‑interest EMI,4,Energy saving,Limited models,Solar compatibility,Water‑heater;AC,Online reviews;Social media
+Singapore,Metro,37,Female,Graduate,3,75463.59,245.5,6,56,1,1,1,0,0.7,3369.79,Upfront,2,Brand,High cost,Solar compatibility;Compact design,Water‑heater;Washer;Air‑purifier,Friends/Family;Social media;In‑store demos
+India,Metro,28,Male,Graduate,2,10904.76,186.0,1,28,4,5,1,0,8.7,312.28,BNPL,0,Govt incentive,Other,Wi‑Fi control,Refrigerator,Social media;Friends/Family;Online reviews
+India,Rural,28,Female,Graduate,1,10278.44,330.4,1,27,2,2,0,0,10.4,541.25,BNPL,1,Govt incentive,Uncertain savings,Solar compatibility;5‑Star rating;Quiet motor,Dishwasher,Social media;Friends/Family;Online reviews
+UAE,Metro,18,Female,Graduate,4,107057.09,329.5,8,63,1,2,1,0,3.9,5832.05,Upfront,5,Up‑front price,Other,Solar compatibility;Quiet motor;Compact design,Dishwasher,In‑store demos;Govt portals;Social media
+Singapore,Metro,52,Male,Primary,4,94506.81,251.9,8,58,1,1,0,0,1.2,4747.63,0‑interest EMI,4,Brand,Uncertain savings,Solar compatibility;Compact design,Water‑heater,Social media;Online reviews
+UAE,Metro,31,Male,Post‑grad,3,84104.02,633.8,5,61,5,4,0,1,9.7,4290.48,0‑interest EMI,2,Brand,Limited models,Quiet motor;5‑Star rating;Wi‑Fi control,Dishwasher;Water‑heater,Social media
+India,Metro,48,Male,Graduate,3,18552.37,274.8,0,37,5,4,0,0,3.6,50.0,Upfront,0,Peer reviews,Limited models,Compact design;5‑Star rating,Water‑heater,Govt portals
+UAE,Metro,45,Male,Post‑grad,1,38026.34,1007.7,3,39,2,3,1,0,3.3,1683.75,Upfront,1,Up‑front price,Other,Wi‑Fi control,Refrigerator,In‑store demos;Friends/Family
+Singapore,Metro,28,Female,Secondary,7,80095.6,153.5,1,66,2,3,1,1,12.6,4058.03,Upfront,3,Up‑front price,Limited models,5‑Star rating,AC;Refrigerator;Water‑heater,Friends/Family;Govt portals;Social media
+Singapore,Metro,18,Female,Post‑grad,1,83077.07,341.4,6,68,4,3,0,1,16.1,4091.12,Rental,0,Brand,Limited models,5‑Star rating;Quiet motor,Washer;Refrigerator,Friends/Family
+India,Metro,30,Male,Graduate,3,17001.27,182.7,2,64,2,2,0,0,3.8,1263.92,0‑interest EMI,2,Energy saving,Limited models,5‑Star rating,Dishwasher;Refrigerator;Air‑purifier,Online reviews;Friends/Family;Social media
+India,Metro,36,Male,Graduate,2,17076.68,282.9,3,51,1,2,0,0,0.9,1341.43,0‑interest EMI,3,Govt incentive,Low awareness,5‑Star rating,Washer,Friends/Family;Govt portals
+India,Metro,18,Male,Primary,3,19918.25,181.8,3,62,4,3,0,1,13.0,1174.88,Upfront,2,Up‑front price,Uncertain savings,Solar compatibility,Refrigerator;Air‑purifier,Online reviews
+India,Metro,30,Male,Graduate,2,14291.02,213.1,0,27,2,1,0,0,5.7,482.32,Upfront,4,Peer reviews,Low awareness,Solar compatibility;Quiet motor;Wi‑Fi control,Washer;Dishwasher,In‑store demos;Govt portals;Social media
+India,Metro,40,Male,Primary,5,305826.76,305.9,9,100,4,5,0,1,19.8,15355.95,BNPL,2,Energy saving,High cost,Solar compatibility;5‑Star rating;Quiet motor,Refrigerator,Govt portals;Online reviews;Social media
+Singapore,Metro,41,Male,Graduate,3,128887.25,222.1,10,71,1,1,1,1,5.2,7065.78,0‑interest EMI,4,Brand,Low awareness,Wi‑Fi control,Water‑heater;Refrigerator,Friends/Family
+UAE,Metro,55,Other,Primary,2,100289.11,538.0,5,78,3,2,1,1,4.0,4822.39,0‑interest EMI,1,Brand,Limited models,Solar compatibility,Air‑purifier;Dishwasher,Social media
+India,Metro,46,Female,Secondary,8,32762.96,184.9,3,43,4,4,0,0,2.0,1906.44,Upfront,4,Up‑front price,High cost,Wi‑Fi control;Compact design;Solar compatibility,Water‑heater;Air‑purifier,Online reviews
+India,Metro,33,Male,Primary,3,20509.04,525.2,0,47,2,2,1,1,10.8,2094.26,0‑interest EMI,4,Peer reviews,Low awareness,Wi‑Fi control,Water‑heater;Dishwasher;Washer,Govt portals;Online reviews;Friends/Family
+Singapore,Metro,38,Female,Graduate,6,114680.68,295.4,10,35,1,1,1,0,3.7,4685.63,Upfront,2,Energy saving,High cost,Solar compatibility;Quiet motor,Air‑purifier;Washer;Refrigerator,Online reviews;Social media;In‑store demos
+Singapore,Metro,33,Other,Graduate,5,84250.43,505.6,5,57,2,3,1,1,8.1,4406.73,Upfront,3,Brand,Uncertain savings,Wi‑Fi control;5‑Star rating,Refrigerator;Washer;AC,Friends/Family
+India,Rural,49,Male,Secondary,3,25049.86,235.6,3,49,2,3,1,1,14.6,1055.42,Upfront,0,Peer reviews,Limited models,Wi‑Fi control,Refrigerator;AC;Dishwasher,In‑store demos;Friends/Family
+Singapore,Metro,33,Male,Secondary,3,100034.52,498.5,4,41,3,2,1,1,9.3,5308.67,Upfront,2,Up‑front price,Uncertain savings,Solar compatibility,Air‑purifier;Washer;Water‑heater,In‑store demos;Govt portals;Friends/Family
+Singapore,Metro,49,Male,Post‑grad,4,80699.57,327.7,2,59,1,1,0,1,8.2,3883.93,Upfront,1,Energy saving,Other,5‑Star rating;Quiet motor;Wi‑Fi control,Air‑purifier;Dishwasher;Water‑heater,Online reviews;In‑store demos;Govt portals
+India,Rural,32,Other,Primary,1,23066.56,197.4,1,55,5,5,0,1,18.4,2548.23,0‑interest EMI,2,Govt incentive,Low awareness,Wi‑Fi control;Quiet motor,Water‑heater;AC;Air‑purifier,Govt portals
+India,Tier‑2 city,34,Female,Primary,2,18639.42,135.3,1,20,1,2,1,0,1.5,620.17,BNPL,2,Energy saving,Uncertain savings,Solar compatibility;Quiet motor,Refrigerator;Water‑heater;Dishwasher,Online reviews;In‑store demos
+UAE,Metro,37,Male,Graduate,2,111449.69,541.9,9,41,3,3,1,0,4.8,4958.57,Upfront,3,Govt incentive,High cost,Compact design;Wi‑Fi control,Air‑purifier;AC;Refrigerator,Friends/Family;Online reviews;In‑store demos
+India,Rural,34,Male,Graduate,2,32080.25,262.9,4,30,5,5,0,1,19.0,2089.26,0‑interest EMI,1,Up‑front price,Uncertain savings,Solar compatibility,Water‑heater;Air‑purifier,Govt portals
+UAE,Metro,40,Male,Graduate,3,62291.76,274.2,1,44,1,2,0,0,1.7,2691.57,Rental,3,Brand,Limited models,Wi‑Fi control;Compact design;Solar compatibility,Dishwasher;Water‑heater,Govt portals;In‑store demos;Social media
+UAE,Metro,36,Male,Secondary,4,99918.51,565.7,9,97,5,5,1,1,10.8,4746.18,Upfront,2,Up‑front price,High cost,Quiet motor,Washer;Air‑purifier,Friends/Family
+India,Metro,37,Male,Primary,2,30970.41,251.0,4,51,4,4,0,0,4.2,1395.77,Upfront,2,Up‑front price,Low awareness,Compact design;Quiet motor;Solar compatibility,Water‑heater,Online reviews;Friends/Family
+India,Tier‑2 city,36,Male,Post‑grad,2,15747.12,211.9,1,43,3,3,0,1,6.9,50.0,0‑interest EMI,1,Peer reviews,Limited models,Solar compatibility;5‑Star rating,Dishwasher,In‑store demos
+UAE,Metro,32,Male,Secondary,8,597255.25,384.3,10,100,4,3,1,1,13.6,30109.86,0‑interest EMI,4,Peer reviews,Limited models,Solar compatibility,Refrigerator,Friends/Family
+UAE,Metro,47,Male,Secondary,2,71362.37,386.9,5,50,4,4,1,1,13.0,3516.85,BNPL,3,Energy saving,Other,Wi‑Fi control;Solar compatibility;Compact design,Washer,Govt portals;In‑store demos
+India,Metro,41,Male,Secondary,4,35248.17,511.2,4,20,4,4,0,1,6.7,2709.3,Upfront,3,Peer reviews,Low awareness,5‑Star rating;Compact design,AC,Online reviews
+UAE,Metro,35,Male,Post‑grad,2,85585.32,609.0,7,82,3,2,1,1,13.8,5580.05,BNPL,4,Energy saving,Limited models,Wi‑Fi control;Quiet motor,Washer,Friends/Family;Govt portals;Social media
+Singapore,Metro,37,Male,Post‑grad,1,169838.94,536.8,10,100,5,5,1,1,12.7,8479.95,Upfront,4,Govt incentive,Limited models,5‑Star rating;Wi‑Fi control;Quiet motor,Washer;Dishwasher,Social media
+India,Metro,36,Female,Graduate,3,17340.71,187.2,0,42,1,2,1,1,12.8,656.52,Rental,0,Peer reviews,High cost,Quiet motor,Washer,Govt portals;Friends/Family;Social media
+India,Metro,46,Male,Secondary,2,18569.34,412.9,2,38,2,1,0,0,6.7,1183.59,Upfront,3,Brand,Uncertain savings,5‑Star rating,Air‑purifier,Social media
+Singapore,Metro,31,Male,Graduate,5,105011.37,263.2,6,56,4,5,1,0,10.9,5439.55,Upfront,2,Peer reviews,Limited models,Wi‑Fi control,Refrigerator;AC,In‑store demos;Govt portals;Online reviews
+India,Metro,39,Other,Secondary,2,14554.55,273.2,1,8,5,5,0,1,8.5,1149.31,Upfront,4,Brand,Limited models,Quiet motor,Dishwasher;AC;Washer,Social media;Friends/Family;In‑store demos
+India,Rural,29,Male,Secondary,5,18987.58,214.8,2,55,2,3,1,1,12.4,1828.41,Upfront,3,Up‑front price,Limited models,Compact design;Solar compatibility,AC;Refrigerator,Social media;Friends/Family;In‑store demos
+Singapore,Metro,43,Male,Secondary,5,225461.72,734.3,10,64,3,3,1,0,6.9,11313.42,Upfront,5,Peer reviews,Uncertain savings,Quiet motor,AC;Refrigerator,Online reviews
+India,Metro,42,Male,Graduate,7,39428.47,554.2,2,41,1,2,0,0,2.4,1866.27,BNPL,3,Up‑front price,Uncertain savings,Compact design,Air‑purifier;Dishwasher,Friends/Family;Govt portals
+India,Rural,37,Male,Secondary,2,21488.07,241.4,0,27,2,2,0,0,6.1,1546.42,0‑interest EMI,3,Brand,Low awareness,Wi‑Fi control;Compact design;Solar compatibility,Refrigerator;Dishwasher,Social media;Govt portals;In‑store demos
+India,Metro,22,Male,Secondary,4,22257.25,258.2,3,17,4,3,0,0,2.8,1138.43,Rental,2,Up‑front price,Limited models,Wi‑Fi control;Solar compatibility;5‑Star rating,Air‑purifier;Washer,Social media;Friends/Family;Govt portals
+UAE,Metro,31,Male,Graduate,2,83431.89,591.3,3,67,1,1,0,0,4.5,3574.49,Upfront,4,Brand,High cost,Wi‑Fi control;Quiet motor;5‑Star rating,Air‑purifier;Refrigerator;AC,Social media
+Singapore,Metro,18,Male,Secondary,1,125092.71,187.7,8,51,5,4,1,1,9.3,5708.5,0‑interest EMI,3,Peer reviews,Other,5‑Star rating;Wi‑Fi control,Dishwasher;Water‑heater,Friends/Family;Social media;Online reviews
+UAE,Metro,39,Male,Secondary,2,52346.27,237.8,1,34,2,1,1,1,3.6,3331.43,Upfront,4,Govt incentive,Uncertain savings,5‑Star rating,Washer,In‑store demos;Friends/Family
+UAE,Metro,21,Male,Secondary,4,60811.49,316.3,4,45,1,1,1,0,1.6,3409.39,0‑interest EMI,4,Peer reviews,Low awareness,Solar compatibility;Wi‑Fi control;Quiet motor,Dishwasher,Govt portals;Friends/Family;In‑store demos
+UAE,Metro,37,Male,Secondary,1,77569.89,176.1,5,61,3,3,0,1,7.0,3527.74,Upfront,1,Brand,High cost,Compact design;Wi‑Fi control;Quiet motor,Washer,Govt portals;Social media
+UAE,Metro,25,Male,Primary,5,84225.94,527.3,6,68,2,1,1,0,2.7,4613.72,Upfront,2,Govt incentive,Limited models,Quiet motor,Washer;Water‑heater;Refrigerator,Govt portals;Friends/Family
+India,Tier‑2 city,42,Female,Graduate,2,34397.95,267.2,2,40,4,3,1,1,7.6,1004.3,Upfront,0,Govt incentive,Uncertain savings,Solar compatibility;Wi‑Fi control,Refrigerator;AC;Dishwasher,Online reviews;Social media;Govt portals
+UAE,Metro,49,Other,Secondary,3,59529.79,425.2,2,37,1,1,0,1,7.2,3139.46,Upfront,4,Peer reviews,Uncertain savings,Quiet motor;5‑Star rating;Compact design,Washer,Govt portals
+UAE,Metro,31,Female,Graduate,1,63989.11,563.3,6,38,3,3,1,1,10.7,4224.94,BNPL,2,Peer reviews,Limited models,Quiet motor,Air‑purifier,Friends/Family;In‑store demos;Online reviews
+UAE,Metro,45,Male,Secondary,3,67773.35,165.1,7,64,5,5,1,1,9.7,3138.96,Rental,0,Peer reviews,Other,5‑Star rating;Solar compatibility;Wi‑Fi control,Refrigerator,Govt portals;Online reviews;Friends/Family
+Singapore,Metro,31,Male,Secondary,4,109734.5,267.4,7,78,3,2,0,1,7.8,5383.14,0‑interest EMI,2,Govt incentive,Low awareness,Wi‑Fi control,Water‑heater;Dishwasher,Online reviews;Friends/Family
+India,Metro,28,Female,Graduate,3,26541.34,210.7,4,25,5,4,1,1,9.3,896.72,Rental,1,Energy saving,High cost,Solar compatibility;Compact design;Quiet motor,Dishwasher,Social media
+Singapore,Metro,35,Female,Graduate,1,103732.0,530.9,5,59,3,3,0,1,8.6,5260.66,BNPL,2,Govt incentive,Other,Wi‑Fi control,Dishwasher;Refrigerator;AC,Social media
+India,Tier‑2 city,45,Other,Graduate,2,9723.03,260.1,0,26,3,2,0,0,9.9,1348.33,Upfront,0,Govt incentive,High cost,Compact design;Wi‑Fi control;Quiet motor,Refrigerator;Washer;AC,Social media;In‑store demos;Friends/Family
+India,Tier‑2 city,49,Male,Graduate,2,18390.41,422.2,3,17,5,5,0,1,19.8,1297.54,0‑interest EMI,3,Energy saving,Uncertain savings,Wi‑Fi control;5‑Star rating;Solar compatibility,Dishwasher;AC,Friends/Family
+UAE,Metro,42,Female,Primary,3,71758.37,253.0,3,70,5,5,1,0,4.8,3600.45,Upfront,2,Up‑front price,High cost,Wi‑Fi control;5‑Star rating;Compact design,Air‑purifier,Friends/Family
+India,Metro,46,Female,Post‑grad,5,7426.54,146.7,2,51,4,3,1,1,17.6,940.08,BNPL,4,Up‑front price,High cost,Quiet motor;Wi‑Fi control;Compact design,Water‑heater,Govt portals;In‑store demos
+Singapore,Metro,26,Female,Graduate,3,82497.45,281.7,5,35,1,1,1,0,3.4,4184.53,0‑interest EMI,3,Energy saving,Limited models,Compact design;5‑Star rating;Solar compatibility,Washer;Refrigerator;Water‑heater,Online reviews
+UAE,Metro,47,Female,Secondary,4,61415.72,288.5,2,51,5,5,0,1,16.5,2089.93,Upfront,0,Energy saving,High cost,Compact design;Quiet motor,Water‑heater;Refrigerator;Air‑purifier,Social media;Friends/Family;Govt portals
+Singapore,Metro,59,Male,Graduate,2,68488.43,680.3,5,53,4,4,0,1,19.0,3753.08,0‑interest EMI,3,Up‑front price,Low awareness,5‑Star rating;Wi‑Fi control,Water‑heater,Online reviews;In‑store demos
+India,Metro,33,Male,Secondary,1,20731.94,160.3,1,36,5,4,1,1,6.9,60.71,Rental,1,Govt incentive,Uncertain savings,Wi‑Fi control;Quiet motor,Dishwasher,Friends/Family;In‑store demos;Govt portals
+India,Rural,23,Male,Secondary,2,22649.11,284.0,4,43,1,1,1,1,4.8,899.14,0‑interest EMI,2,Peer reviews,High cost,Wi‑Fi control;Solar compatibility;Quiet motor,Water‑heater;Air‑purifier,Social media;In‑store demos;Govt portals
+India,Metro,48,Male,Primary,3,19631.47,279.2,5,41,2,3,1,0,3.8,1465.79,0‑interest EMI,4,Energy saving,Other,5‑Star rating;Solar compatibility;Compact design,Air‑purifier;Water‑heater;AC,Govt portals
+India,Tier‑2 city,38,Male,Post‑grad,5,21351.27,263.2,1,55,3,4,0,1,9.0,1686.25,0‑interest EMI,2,Govt incentive,High cost,Solar compatibility;Wi‑Fi control;Compact design,Air‑purifier,In‑store demos;Friends/Family
+India,Metro,34,Female,Graduate,6,11574.47,187.6,0,45,2,1,0,0,8.6,584.41,0‑interest EMI,6,Brand,Limited models,Solar compatibility;Compact design;5‑Star rating,Refrigerator,Govt portals;Social media
+Singapore,Tier‑2 city,31,Male,Graduate,3,120583.51,762.9,8,81,2,2,1,1,12.9,5966.27,Upfront,1,Brand,Uncertain savings,Compact design,Dishwasher,Govt portals;Social media;In‑store demos
+India,Metro,42,Male,Post‑grad,1,26749.86,202.7,3,53,3,4,0,1,14.5,489.09,BNPL,4,Brand,Low awareness,Solar compatibility;5‑Star rating;Wi‑Fi control,Refrigerator;AC;Washer,Social media
+India,Tier‑2 city,25,Female,Primary,1,32668.01,299.5,3,60,2,1,0,1,10.7,2630.25,Upfront,3,Peer reviews,Other,5‑Star rating,Refrigerator;AC,Govt portals;Friends/Family
+India,Metro,47,Female,Secondary,6,16738.89,618.4,3,35,4,4,1,0,4.4,750.34,BNPL,3,Peer reviews,Other,5‑Star rating;Solar compatibility;Compact design,Refrigerator;Dishwasher,Friends/Family
+India,Metro,38,Male,Graduate,1,14952.12,235.4,2,40,2,3,0,0,4.9,822.57,Rental,3,Up‑front price,Other,Solar compatibility;5‑Star rating;Compact design,AC,Friends/Family
+India,Metro,31,Male,Post‑grad,1,24295.71,169.5,3,15,3,4,0,0,5.5,737.15,0‑interest EMI,0,Peer reviews,High cost,Compact design,Dishwasher;Refrigerator,Online reviews;Friends/Family
+Singapore,Tier‑2 city,39,Female,Post‑grad,3,67302.81,120.1,4,42,1,1,0,0,0.8,2963.52,Upfront,0,Energy saving,Other,Quiet motor;Compact design;Wi‑Fi control,Water‑heater;Refrigerator,Govt portals;In‑store demos
+India,Tier‑2 city,41,Female,Graduate,2,21225.88,1364.0,1,29,2,2,0,0,2.6,465.82,BNPL,4,Peer reviews,Other,Quiet motor;Compact design;Wi‑Fi control,AC;Water‑heater,Online reviews
+UAE,Metro,18,Male,Secondary,6,54159.26,584.8,4,42,5,5,0,1,25.8,2387.63,0‑interest EMI,4,Up‑front price,Limited models,Quiet motor;5‑Star rating;Solar compatibility,Water‑heater;Washer;Refrigerator,Social media;Friends/Family;Online reviews
+UAE,Metro,32,Male,Graduate,3,48009.59,576.2,4,54,5,5,1,0,7.4,1783.01,0‑interest EMI,5,Energy saving,Low awareness,Wi‑Fi control,Water‑heater;AC,Social media
+Singapore,Metro,23,Male,Secondary,2,98650.74,278.8,8,54,1,1,1,0,4.4,4849.29,Upfront,1,Brand,Uncertain savings,Solar compatibility,Washer;Refrigerator,In‑store demos
+India,Metro,37,Female,Graduate,3,19499.71,494.8,7,23,3,3,0,0,3.0,1014.86,0‑interest EMI,5,Brand,Low awareness,Compact design,Washer;Water‑heater;Air‑purifier,Online reviews
+UAE,Metro,20,Female,Graduate,4,41199.76,870.4,0,11,4,3,1,1,12.7,3035.95,0‑interest EMI,3,Peer reviews,High cost,Compact design,Refrigerator;Washer;AC,Online reviews;Govt portals;Friends/Family
+India,Metro,22,Female,Graduate,6,15403.14,235.9,4,13,5,4,0,0,6.9,636.13,Upfront,1,Peer reviews,Limited models,Solar compatibility,Refrigerator;AC;Washer,Social media;In‑store demos
+India,Metro,31,Male,Post‑grad,1,17044.37,326.4,1,49,4,4,1,1,11.1,516.08,0‑interest EMI,2,Energy saving,Uncertain savings,Quiet motor;Compact design;Wi‑Fi control,Refrigerator;Washer,Friends/Family;Govt portals
+UAE,Metro,22,Female,Graduate,2,111893.2,329.8,10,64,4,5,1,0,13.2,5698.3,Upfront,2,Peer reviews,Other,Wi‑Fi control;Solar compatibility,Dishwasher;Refrigerator,Social media
+Singapore,Metro,29,Female,Secondary,7,79299.12,210.0,6,43,4,5,1,1,8.8,4006.19,Upfront,5,Brand,Uncertain savings,Solar compatibility;Quiet motor;Compact design,Refrigerator,Social media;In‑store demos;Online reviews
+UAE,Metro,31,Male,Graduate,2,62234.75,406.3,5,51,3,3,1,1,12.9,3602.35,Upfront,0,Energy saving,Limited models,Compact design,Air‑purifier,In‑store demos;Govt portals
+Singapore,Metro,28,Female,Secondary,1,102065.37,277.5,3,56,1,2,0,1,4.3,5143.45,Upfront,2,Energy saving,Other,5‑Star rating,Washer;Refrigerator,Govt portals;Online reviews
+India,Tier‑2 city,31,Female,Primary,6,23436.43,210.7,1,9,2,1,0,1,17.9,1426.65,BNPL,4,Peer reviews,High cost,Compact design;Quiet motor,Refrigerator;Washer;Air‑purifier,Govt portals;Social media;In‑store demos
+India,Tier‑2 city,22,Other,Post‑grad,1,14245.16,171.4,4,20,1,1,1,1,3.4,610.56,0‑interest EMI,5,Energy saving,High cost,Solar compatibility,Washer;Refrigerator,In‑store demos;Friends/Family
+India,Tier‑2 city,27,Male,Secondary,5,28668.45,183.8,1,11,1,1,1,1,5.9,1574.8,0‑interest EMI,0,Peer reviews,High cost,5‑Star rating,Dishwasher;Refrigerator;Washer,In‑store demos;Friends/Family;Online reviews
+UAE,Metro,35,Female,Primary,3,99903.09,565.5,3,56,5,5,1,1,19.4,4896.89,0‑interest EMI,4,Energy saving,Other,5‑Star rating,Air‑purifier;Dishwasher;Refrigerator,Social media
+Singapore,Metro,39,Female,Graduate,4,76784.75,174.8,0,61,3,3,1,1,8.2,2671.2,0‑interest EMI,3,Up‑front price,Limited models,Solar compatibility;Wi‑Fi control;Compact design,Water‑heater,In‑store demos;Social media
+Singapore,Metro,33,Female,Secondary,4,89669.14,336.1,5,62,3,2,1,0,4.0,4835.85,Upfront,4,Brand,Limited models,5‑Star rating,Dishwasher,Govt portals
+Singapore,Metro,32,Male,Graduate,2,53561.9,259.9,2,63,5,5,0,1,16.2,3386.88,0‑interest EMI,4,Govt incentive,High cost,5‑Star rating;Solar compatibility;Quiet motor,Water‑heater,Govt portals
+Singapore,Metro,31,Male,Secondary,6,138973.53,172.1,7,71,2,3,0,1,4.0,6459.98,Upfront,1,Energy saving,Limited models,Solar compatibility,Air‑purifier;Washer,Social media;Govt portals;Friends/Family
+India,Tier‑2 city,41,Male,Primary,3,22157.48,315.5,4,37,1,1,0,0,0.6,672.08,Upfront,3,Up‑front price,High cost,Quiet motor,Air‑purifier;AC;Dishwasher,Social media;Govt portals
+Singapore,Metro,38,Female,Graduate,1,95589.37,260.2,8,78,1,1,1,0,1.3,5389.83,Upfront,2,Peer reviews,Other,Compact design,Air‑purifier;Dishwasher;Water‑heater,Govt portals;In‑store demos
+UAE,Metro,32,Female,Primary,4,51160.94,472.8,4,58,4,4,0,0,5.2,3283.07,Upfront,3,Up‑front price,Other,Solar compatibility;Wi‑Fi control,Water‑heater,Online reviews;Social media;Govt portals
+India,Tier‑2 city,23,Female,Secondary,5,19588.11,115.0,1,49,5,5,1,1,18.6,2007.7,Rental,2,Brand,Limited models,Compact design;Quiet motor,Air‑purifier;Water‑heater,Social media
+India,Tier‑2 city,50,Female,Primary,1,27665.19,183.1,4,47,2,3,0,0,5.5,2324.89,BNPL,0,Up‑front price,Limited models,5‑Star rating;Quiet motor;Compact design,AC;Air‑purifier;Water‑heater,Online reviews;Friends/Family
+India,Tier‑2 city,53,Male,Secondary,2,13065.6,296.3,0,17,5,4,0,0,8.4,461.57,Upfront,2,Peer reviews,High cost,5‑Star rating;Wi‑Fi control;Compact design,AC,Friends/Family;In‑store demos
+India,Metro,44,Female,Primary,1,25093.77,167.5,5,46,3,4,1,0,6.5,1589.63,Upfront,3,Energy saving,High cost,Wi‑Fi control;Quiet motor;5‑Star rating,Water‑heater;Refrigerator;Dishwasher,Online reviews
+India,Rural,33,Male,Post‑grad,2,26614.87,243.8,3,22,2,2,0,0,4.7,1381.75,BNPL,4,Govt incentive,High cost,Wi‑Fi control;Quiet motor;5‑Star rating,Air‑purifier;Water‑heater,Online reviews
+India,Metro,39,Female,Secondary,2,21929.69,245.0,1,28,1,2,0,0,4.6,1038.38,0‑interest EMI,3,Govt incentive,Uncertain savings,Quiet motor;Compact design,Water‑heater;Air‑purifier,Govt portals;Friends/Family;In‑store demos
+UAE,Metro,42,Other,Primary,3,37218.06,319.3,4,34,3,3,0,1,7.3,964.33,0‑interest EMI,2,Brand,Limited models,Wi‑Fi control;Solar compatibility;Quiet motor,Dishwasher,In‑store demos
+UAE,Metro,38,Female,Primary,2,81768.97,400.4,8,49,5,4,1,1,13.9,3817.1,0‑interest EMI,2,Energy saving,Limited models,5‑Star rating;Solar compatibility,Air‑purifier;Dishwasher,Govt portals
+India,Rural,23,Female,Secondary,1,17357.85,349.6,3,35,4,3,1,0,4.5,332.3,0‑interest EMI,4,Peer reviews,Other,5‑Star rating;Wi‑Fi control;Compact design,Water‑heater,In‑store demos;Social media;Online reviews
+India,Metro,26,Male,Primary,2,14968.07,228.1,1,37,5,4,0,1,10.1,50.0,0‑interest EMI,2,Govt incentive,Limited models,Solar compatibility;5‑Star rating,Air‑purifier,Online reviews;In‑store demos
+India,Metro,34,Male,Secondary,1,16851.43,188.5,0,26,2,2,1,0,7.9,397.46,0‑interest EMI,1,Up‑front price,Low awareness,Wi‑Fi control;Solar compatibility,Refrigerator,Friends/Family;Social media
+India,Rural,39,Male,Secondary,3,37731.32,278.9,6,29,5,5,0,1,4.5,2101.09,Upfront,3,Peer reviews,High cost,Compact design,Washer;Refrigerator;Dishwasher,Social media;Online reviews;Friends/Family
+UAE,Metro,20,Female,Secondary,4,113011.62,312.4,4,73,3,4,1,1,10.3,6796.13,0‑interest EMI,3,Energy saving,High cost,Solar compatibility;Quiet motor;Compact design,Washer;Air‑purifier,Online reviews
+India,Tier‑2 city,40,Other,Post‑grad,2,10452.11,132.6,5,38,4,4,0,0,2.1,761.14,0‑interest EMI,1,Brand,Low awareness,Solar compatibility,Refrigerator;Dishwasher;Water‑heater,Govt portals;Online reviews;Social media
+India,Rural,30,Female,Post‑grad,3,24532.6,364.0,3,35,2,3,0,0,5.6,1169.84,0‑interest EMI,0,Up‑front price,High cost,5‑Star rating;Compact design,Refrigerator,Friends/Family;In‑store demos
+Singapore,Metro,27,Male,Primary,4,103600.4,181.0,10,70,4,4,1,1,12.8,5295.74,Upfront,2,Energy saving,Limited models,Quiet motor;Compact design;Solar compatibility,Dishwasher;Air‑purifier;Washer,In‑store demos
+India,Metro,25,Female,Secondary,2,11146.93,328.4,2,34,4,4,0,0,4.6,50.0,0‑interest EMI,1,Peer reviews,High cost,Wi‑Fi control;Compact design,Washer;Refrigerator;Dishwasher,Social media
+India,Tier‑2 city,43,Other,Post‑grad,1,22718.49,246.8,3,38,5,5,0,1,8.1,559.85,0‑interest EMI,5,Energy saving,Limited models,Compact design;5‑Star rating,Refrigerator,Friends/Family
+UAE,Metro,45,Female,Post‑grad,7,52301.96,442.7,3,57,1,1,1,0,1.1,2475.63,Upfront,3,Up‑front price,Other,Quiet motor,Washer,Friends/Family;Govt portals;Social media
+Singapore,Metro,28,Other,Secondary,4,68981.96,408.1,5,52,3,2,1,1,18.4,3337.98,Upfront,5,Peer reviews,Uncertain savings,Wi‑Fi control,Refrigerator;Air‑purifier,Govt portals;Social media;In‑store demos
+India,Tier‑2 city,26,Female,Secondary,3,12944.94,136.1,1,37,2,1,0,1,7.9,682.53,Rental,1,Govt incentive,Low awareness,5‑Star rating;Solar compatibility;Wi‑Fi control,Water‑heater;Refrigerator;Dishwasher,Social media;In‑store demos
+India,Metro,36,Female,Secondary,4,25225.61,222.1,5,47,1,2,0,0,4.2,774.2,0‑interest EMI,3,Brand,High cost,Compact design,AC,Online reviews;Friends/Family
+UAE,Metro,19,Male,Secondary,2,109354.56,333.4,7,57,4,4,0,0,6.5,6139.84,0‑interest EMI,3,Up‑front price,Limited models,Solar compatibility;Wi‑Fi control;5‑Star rating,Refrigerator;Water‑heater,Govt portals;Online reviews
+India,Metro,49,Male,Graduate,1,15018.39,239.3,3,38,2,3,1,0,3.3,1451.8,BNPL,4,Energy saving,Low awareness,5‑Star rating;Quiet motor,Water‑heater;Air‑purifier,Online reviews
+UAE,Metro,35,Male,Graduate,3,48909.02,308.8,4,68,4,4,1,1,10.0,1440.47,0‑interest EMI,3,Energy saving,Uncertain savings,5‑Star rating,Dishwasher;Air‑purifier;Refrigerator,Social media;Online reviews
+Singapore,Metro,39,Female,Primary,4,73107.56,248.1,4,39,5,5,1,1,4.2,3005.64,0‑interest EMI,3,Govt incentive,Other,5‑Star rating;Solar compatibility;Quiet motor,AC;Air‑purifier;Water‑heater,In‑store demos;Govt portals
+India,Metro,36,Male,Secondary,2,29783.75,242.7,2,44,2,3,0,0,1.6,1925.23,0‑interest EMI,2,Energy saving,High cost,Wi‑Fi control,Dishwasher,Friends/Family;Online reviews;In‑store demos
+India,Tier‑2 city,39,Female,Secondary,4,26655.67,301.8,4,33,1,2,1,1,3.6,1548.15,0‑interest EMI,2,Brand,Limited models,Wi‑Fi control;5‑Star rating,Water‑heater;Washer;Air‑purifier,Online reviews;Social media;Friends/Family
+India,Rural,30,Female,Primary,3,33848.96,620.5,2,49,1,1,0,0,5.0,1631.79,0‑interest EMI,0,Energy saving,Uncertain savings,Wi‑Fi control,Refrigerator;Air‑purifier,Govt portals;Online reviews
+Singapore,Metro,27,Male,Secondary,5,66516.7,320.7,2,71,1,1,1,0,3.7,3025.75,BNPL,2,Brand,Uncertain savings,5‑Star rating;Wi‑Fi control;Compact design,Air‑purifier;Refrigerator;Washer,Govt portals;Friends/Family;In‑store demos
+UAE,Metro,42,Male,Graduate,4,91124.42,259.1,5,78,2,3,1,1,4.3,4644.73,Rental,1,Govt incentive,Low awareness,Quiet motor,Washer;Dishwasher;Refrigerator,In‑store demos;Friends/Family
+UAE,Metro,47,Male,Secondary,7,74019.85,790.9,5,53,4,4,1,1,9.5,3739.68,0‑interest EMI,2,Govt incentive,Other,Quiet motor;5‑Star rating;Solar compatibility,Washer;AC,Online reviews;Social media;In‑store demos
+Singapore,Metro,38,Female,Secondary,5,67542.81,507.7,6,39,4,5,0,1,11.8,3171.66,0‑interest EMI,3,Energy saving,Low awareness,Solar compatibility;5‑Star rating;Wi‑Fi control,Air‑purifier,Online reviews;Friends/Family
+India,Tier‑2 city,38,Male,Graduate,4,30126.0,130.6,3,48,5,5,1,1,14.8,1712.53,0‑interest EMI,3,Up‑front price,High cost,Wi‑Fi control;5‑Star rating,Refrigerator;AC;Air‑purifier,Govt portals;In‑store demos
+UAE,Metro,36,Male,Secondary,3,68542.48,446.9,10,49,3,2,0,0,7.7,3929.79,0‑interest EMI,3,Govt incentive,Low awareness,Solar compatibility;Compact design;Wi‑Fi control,Air‑purifier;Refrigerator,Online reviews
+UAE,Metro,24,Female,Post‑grad,1,47341.79,341.7,3,32,3,3,1,1,10.7,3408.23,Upfront,2,Energy saving,High cost,Wi‑Fi control;5‑Star rating;Solar compatibility,Refrigerator;AC;Washer,Friends/Family;Social media;In‑store demos
+India,Tier‑2 city,47,Male,Post‑grad,4,29062.74,210.3,1,39,2,1,0,0,4.4,1524.93,0‑interest EMI,1,Energy saving,Low awareness,5‑Star rating;Quiet motor,Air‑purifier,Govt portals
+India,Metro,31,Female,Primary,3,195818.79,291.2,9,94,3,2,0,1,6.4,9930.48,Upfront,3,Energy saving,Low awareness,Solar compatibility,Air‑purifier;Dishwasher;AC,Govt portals
+India,Metro,41,Female,Graduate,2,27870.03,362.2,6,34,3,4,1,1,7.4,1356.46,0‑interest EMI,5,Govt incentive,Uncertain savings,Wi‑Fi control;Solar compatibility;Quiet motor,AC;Air‑purifier;Washer,Social media
+India,Metro,33,Female,Primary,2,13548.62,259.3,2,42,5,5,1,1,10.8,635.97,0‑interest EMI,2,Brand,Uncertain savings,Compact design,Washer;AC;Refrigerator,Friends/Family;In‑store demos;Govt portals
+India,Metro,31,Male,Graduate,1,18578.62,294.8,2,34,5,5,1,1,12.2,818.05,Upfront,3,Peer reviews,Low awareness,Compact design;Quiet motor;5‑Star rating,Washer,In‑store demos;Govt portals;Social media
+UAE,Metro,19,Male,Secondary,2,61264.65,522.6,4,51,5,5,1,1,20.5,4374.99,Upfront,2,Brand,Limited models,Compact design;Solar compatibility,Air‑purifier;Dishwasher;Water‑heater,Govt portals;Online reviews
+India,Rural,21,Female,Graduate,5,23870.73,122.2,3,29,3,4,0,0,2.1,715.1,0‑interest EMI,2,Govt incentive,Low awareness,Solar compatibility;Wi‑Fi control,Refrigerator;Washer,Govt portals
+India,Tier‑2 city,31,Male,Secondary,3,13855.23,344.1,3,29,1,1,0,0,3.5,292.94,Upfront,1,Up‑front price,High cost,Wi‑Fi control,Refrigerator;Air‑purifier;AC,Friends/Family;In‑store demos;Social media
+India,Tier‑2 city,37,Female,Graduate,3,43090.35,123.8,3,58,5,5,0,1,12.9,1566.17,Upfront,3,Energy saving,Uncertain savings,Wi‑Fi control;5‑Star rating,Water‑heater;Washer,Online reviews
+India,Metro,39,Male,Graduate,2,15794.93,249.4,1,26,1,2,1,1,6.5,822.65,0‑interest EMI,2,Energy saving,Other,Compact design;5‑Star rating,Dishwasher,Online reviews
+India,Rural,66,Male,Graduate,1,23339.46,320.6,1,10,2,2,0,0,4.4,1583.89,BNPL,4,Energy saving,Limited models,Wi‑Fi control,Water‑heater;AC;Air‑purifier,Friends/Family
+Singapore,Metro,33,Male,Secondary,1,74416.16,704.4,6,80,4,5,1,1,18.0,3317.63,Rental,0,Energy saving,Uncertain savings,Quiet motor;Wi‑Fi control,Air‑purifier,Online reviews;In‑store demos
+Singapore,Metro,35,Female,Graduate,6,51555.07,885.1,4,25,3,2,1,1,2.9,2510.65,0‑interest EMI,2,Govt incentive,Limited models,Compact design;5‑Star rating;Solar compatibility,Air‑purifier,Friends/Family
+India,Metro,37,Male,Secondary,2,20818.8,646.8,1,33,5,5,0,1,9.2,50.0,Rental,5,Energy saving,Limited models,Wi‑Fi control,Dishwasher,In‑store demos
+India,Metro,60,Male,Graduate,6,19444.41,257.8,3,52,4,4,1,0,6.5,835.4,Rental,3,Peer reviews,Limited models,5‑Star rating;Quiet motor,AC,In‑store demos
+India,Tier‑2 city,29,Male,Graduate,4,25857.62,270.4,1,39,5,5,0,1,8.4,1308.1,Upfront,3,Peer reviews,Other,5‑Star rating;Quiet motor,Water‑heater;AC;Dishwasher,Social media
+UAE,Metro,21,Female,Primary,6,260547.38,495.2,10,100,3,4,1,1,19.7,12196.12,Upfront,2,Up‑front price,Low awareness,Quiet motor;Solar compatibility;Compact design,Refrigerator,Online reviews;Govt portals
+UAE,Metro,37,Male,Secondary,4,81860.97,483.3,4,60,2,2,0,1,9.0,3900.27,BNPL,2,Peer reviews,Uncertain savings,Solar compatibility,Water‑heater,Online reviews
+Singapore,Metro,32,Female,Graduate,1,119402.2,439.3,8,77,3,3,1,0,6.8,5870.36,Upfront,3,Peer reviews,Uncertain savings,Solar compatibility;Quiet motor,Water‑heater;Dishwasher;AC,In‑store demos
+India,Rural,47,Female,Post‑grad,1,22086.08,216.9,1,42,3,2,0,0,2.2,1002.18,0‑interest EMI,3,Energy saving,Other,Solar compatibility;Compact design;Wi‑Fi control,Washer,Govt portals
+India,Tier‑2 city,31,Male,Secondary,3,19874.89,224.3,0,57,5,5,1,1,11.6,1059.96,0‑interest EMI,2,Energy saving,High cost,Quiet motor;Wi‑Fi control;5‑Star rating,Refrigerator;Washer,Govt portals;Social media
+Singapore,Metro,40,Female,Graduate,4,68135.75,277.7,5,29,2,2,0,0,2.6,3277.18,Upfront,4,Up‑front price,Other,Wi‑Fi control;5‑Star rating,Washer;AC;Refrigerator,Govt portals;Friends/Family;Social media
+India,Metro,35,Female,Secondary,1,26704.79,269.6,2,39,1,2,1,0,3.9,1272.7,BNPL,2,Up‑front price,Limited models,Wi‑Fi control,Dishwasher;AC;Washer,In‑store demos;Friends/Family
+India,Metro,39,Female,Graduate,5,22455.76,165.3,0,54,3,4,1,1,1.2,703.18,0‑interest EMI,3,Brand,Other,Solar compatibility;Compact design;Quiet motor,Air‑purifier;Water‑heater,Friends/Family;Govt portals;Online reviews
+India,Metro,26,Male,Secondary,6,23757.95,153.6,0,48,1,1,1,0,2.8,1447.85,BNPL,1,Brand,Other,5‑Star rating,Air‑purifier;Dishwasher,Govt portals
+UAE,Tier‑2 city,41,Male,Graduate,5,80190.77,367.7,5,63,2,3,0,1,8.7,3819.58,0‑interest EMI,3,Brand,Other,Compact design,Refrigerator,In‑store demos
+UAE,Tier‑2 city,26,Female,Secondary,3,27602.21,333.4,2,34,3,2,1,0,6.3,1918.55,BNPL,2,Energy saving,High cost,Solar compatibility,Refrigerator,Govt portals;In‑store demos;Online reviews
+Singapore,Metro,51,Male,Primary,4,91045.71,440.9,3,51,4,3,1,1,13.1,5191.04,0‑interest EMI,2,Energy saving,Limited models,Wi‑Fi control;5‑Star rating,AC;Washer,Friends/Family
+UAE,Metro,19,Female,Secondary,2,106837.89,283.9,10,58,3,3,0,0,5.6,5401.48,Upfront,2,Peer reviews,High cost,Solar compatibility,Washer;Dishwasher;Air‑purifier,Friends/Family;Govt portals;Online reviews
+India,Metro,33,Female,Secondary,3,13466.45,260.4,1,11,3,2,1,1,10.4,121.8,Upfront,1,Peer reviews,Limited models,Solar compatibility,Dishwasher;AC,Social media;In‑store demos;Online reviews
+India,Metro,30,Female,Secondary,1,17840.82,200.7,1,27,4,5,0,1,9.2,1415.37,0‑interest EMI,1,Peer reviews,High cost,Quiet motor,Refrigerator;Air‑purifier;Dishwasher,Friends/Family;In‑store demos
+UAE,Metro,46,Male,Secondary,1,113714.26,367.3,6,51,5,5,1,1,21.5,5796.11,Upfront,2,Up‑front price,Limited models,Compact design;Quiet motor,Dishwasher;Water‑heater;Washer,Social media;In‑store demos
+UAE,Metro,33,Male,Graduate,2,90489.59,271.0,4,48,1,2,1,0,6.0,4674.9,0‑interest EMI,2,Energy saving,Uncertain savings,Solar compatibility,Water‑heater;Air‑purifier,Govt portals
+UAE,Tier‑2 city,36,Male,Graduate,1,553208.91,211.0,10,100,3,2,0,1,9.8,27334.42,Upfront,0,Govt incentive,Limited models,5‑Star rating;Compact design;Quiet motor,Dishwasher,Social media;Friends/Family;Online reviews
+UAE,Metro,32,Male,Graduate,3,46859.68,358.9,2,48,1,2,1,1,11.1,2121.6,0‑interest EMI,4,Govt incentive,Limited models,Solar compatibility;Quiet motor;5‑Star rating,Refrigerator,Friends/Family;Social media
+UAE,Metro,38,Female,Secondary,2,63837.94,397.5,2,30,1,1,0,0,4.2,2712.85,Upfront,0,Peer reviews,Limited models,Solar compatibility;Quiet motor,AC;Refrigerator,Online reviews;Friends/Family;In‑store demos
+UAE,Metro,32,Male,Post‑grad,4,81836.59,301.2,7,71,2,1,1,1,9.9,4599.22,Upfront,2,Peer reviews,Low awareness,Compact design;5‑Star rating;Wi‑Fi control,Dishwasher;Refrigerator,In‑store demos;Social media;Online reviews
+Singapore,Metro,37,Male,Graduate,3,88589.78,189.8,9,53,1,1,1,1,10.4,3943.41,Upfront,2,Up‑front price,High cost,5‑Star rating;Quiet motor,Water‑heater,Govt portals;Friends/Family;Social media
+India,Metro,41,Other,Primary,5,13531.97,218.1,3,21,5,5,1,1,11.4,124.01,0‑interest EMI,2,Peer reviews,Uncertain savings,Compact design;Solar compatibility,Refrigerator;Dishwasher,Online reviews;In‑store demos;Social media
+India,Tier‑2 city,18,Male,Secondary,2,24737.31,488.4,2,47,1,2,0,0,0.9,2062.82,0‑interest EMI,4,Up‑front price,Limited models,Quiet motor;5‑Star rating;Solar compatibility,AC;Dishwasher;Washer,Govt portals
+India,Metro,34,Male,Secondary,5,18690.99,194.2,0,16,1,2,1,1,3.6,1276.76,0‑interest EMI,3,Govt incentive,Low awareness,Wi‑Fi control,Refrigerator;Air‑purifier;Dishwasher,Govt portals
+UAE,Metro,39,Female,Secondary,3,81334.13,588.6,6,51,1,2,1,0,4.7,4639.37,Upfront,4,Govt incentive,Uncertain savings,Compact design;Quiet motor,Washer;AC,In‑store demos;Friends/Family;Online reviews
+Singapore,Metro,32,Female,Graduate,3,81036.53,303.1,4,52,1,2,0,0,2.4,3600.37,BNPL,4,Peer reviews,High cost,Wi‑Fi control;5‑Star rating,AC,Govt portals;Friends/Family;Online reviews
+India,Tier‑2 city,35,Male,Primary,2,15563.33,2028.4,1,49,3,2,0,1,7.0,235.99,Rental,4,Govt incentive,Limited models,Solar compatibility;Compact design;Wi‑Fi control,Refrigerator;Water‑heater;Air‑purifier,Online reviews
+India,Tier‑2 city,33,Male,Graduate,1,15701.28,184.2,0,39,3,3,1,0,7.0,778.17,Upfront,1,Brand,Other,Quiet motor,Dishwasher,Social media
+Singapore,Metro,35,Male,Post‑grad,2,120926.22,320.6,9,81,3,3,1,0,3.3,5148.21,Upfront,1,Govt incentive,Uncertain savings,5‑Star rating,AC;Dishwasher,Online reviews
+UAE,Metro,40,Female,Post‑grad,3,58951.83,337.3,3,69,2,3,0,0,1.9,3703.06,0‑interest EMI,2,Energy saving,High cost,Solar compatibility;Compact design,Refrigerator;Water‑heater;Air‑purifier,Govt portals;Friends/Family
+UAE,Metro,25,Male,Primary,5,74507.4,298.5,1,58,5,5,1,1,16.1,3862.92,Upfront,2,Energy saving,Low awareness,Solar compatibility;Wi‑Fi control,Dishwasher;Refrigerator;Air‑purifier,Friends/Family;Online reviews
+UAE,Metro,37,Female,Primary,1,61260.59,518.8,4,45,1,2,0,1,8.1,2606.8,Upfront,1,Brand,Low awareness,Wi‑Fi control;5‑Star rating,Air‑purifier;Dishwasher;Water‑heater,Govt portals
+India,Metro,46,Male,Secondary,3,20747.7,219.1,1,59,3,2,1,0,2.3,1479.26,Upfront,2,Up‑front price,Uncertain savings,5‑Star rating,AC;Dishwasher,Social media
+UAE,Tier‑2 city,59,Male,Secondary,4,46996.69,611.4,2,19,5,5,1,1,6.5,2388.32,0‑interest EMI,2,Brand,Limited models,5‑Star rating;Wi‑Fi control;Solar compatibility,Washer;Refrigerator;AC,Online reviews
+India,Metro,18,Male,Secondary,3,15303.4,471.5,3,35,2,2,0,0,3.0,524.99,0‑interest EMI,4,Govt incentive,Low awareness,Quiet motor;Solar compatibility,Washer;Refrigerator;Dishwasher,In‑store demos;Online reviews
+India,Metro,51,Male,Secondary,2,32201.47,270.5,5,49,5,5,0,1,7.7,1910.69,Upfront,5,Energy saving,Low awareness,Solar compatibility;Wi‑Fi control,Dishwasher;Refrigerator,Online reviews;Friends/Family;Govt portals
+UAE,Metro,38,Male,Graduate,2,53196.98,453.3,3,62,5,5,1,1,13.8,2575.75,Rental,3,Up‑front price,Low awareness,Compact design,AC,Govt portals;Online reviews;Friends/Family
+India,Tier‑2 city,32,Other,Secondary,2,36554.9,212.3,2,52,2,3,0,1,13.5,1772.21,0‑interest EMI,4,Energy saving,Limited models,Quiet motor,Water‑heater,Friends/Family;Social media;Govt portals
+India,Metro,33,Female,Primary,3,40608.97,411.5,2,49,1,1,1,1,4.5,1540.94,Upfront,4,Brand,Uncertain savings,5‑Star rating,AC,Govt portals;Online reviews
+UAE,Metro,47,Female,Graduate,7,206199.02,363.7,10,97,4,4,0,1,21.3,11144.33,BNPL,2,Up‑front price,Uncertain savings,Quiet motor,Water‑heater;Refrigerator,Govt portals
+India,Metro,32,Male,Post‑grad,7,17018.4,395.2,1,43,2,3,0,0,3.3,488.11,Rental,3,Peer reviews,Limited models,Compact design;Quiet motor;Solar compatibility,Dishwasher;AC,Online reviews
+India,Metro,37,Male,Graduate,3,22397.09,1734.4,1,38,4,4,1,0,6.2,1152.07,Rental,3,Energy saving,Low awareness,5‑Star rating;Solar compatibility,Washer;Refrigerator;Water‑heater,In‑store demos
+India,Metro,35,Male,Graduate,1,9466.01,94.5,1,49,1,1,1,1,7.2,674.4,Rental,2,Brand,High cost,Solar compatibility,Dishwasher;Air‑purifier;Refrigerator,Friends/Family
+India,Rural,18,Female,Graduate,2,21103.64,260.5,2,56,1,1,1,1,2.5,1631.65,Rental,1,Govt incentive,Limited models,Solar compatibility,Air‑purifier;Washer;Water‑heater,Online reviews
+India,Metro,31,Male,Graduate,4,28258.04,177.0,4,13,3,3,1,0,4.5,1953.86,Rental,1,Energy saving,Low awareness,Compact design;5‑Star rating,AC;Air‑purifier,Friends/Family
+India,Tier‑2 city,31,Male,Primary,5,34235.31,358.9,2,70,3,4,1,1,3.6,1528.57,0‑interest EMI,2,Brand,Limited models,Quiet motor;Solar compatibility;Wi‑Fi control,Refrigerator;Air‑purifier,Online reviews;In‑store demos;Govt portals
+India,Metro,31,Male,Post‑grad,2,17359.71,295.8,2,34,2,2,1,1,6.7,731.86,0‑interest EMI,3,Peer reviews,Low awareness,5‑Star rating;Compact design,AC;Air‑purifier;Washer,Online reviews;Friends/Family
+India,Tier‑2 city,26,Female,Graduate,4,24354.17,129.9,3,28,1,1,1,0,2.0,780.68,0‑interest EMI,2,Peer reviews,Low awareness,Solar compatibility;5‑Star rating;Compact design,AC;Air‑purifier;Washer,Social media;Online reviews;Friends/Family
+Singapore,Metro,28,Female,Secondary,6,81996.66,174.7,8,43,1,1,1,0,3.4,4510.12,Upfront,2,Up‑front price,Low awareness,Solar compatibility,Air‑purifier;Washer;Water‑heater,Online reviews;In‑store demos;Friends/Family
+India,Metro,21,Male,Secondary,4,38454.66,356.8,4,43,4,5,1,1,8.0,1705.5,0‑interest EMI,5,Up‑front price,Other,Quiet motor;5‑Star rating,Air‑purifier;Refrigerator,In‑store demos;Online reviews;Govt portals
+India,Metro,18,Female,Graduate,4,12394.86,369.6,5,31,5,4,0,1,28.0,776.8,Rental,1,Up‑front price,Other,Compact design;Wi‑Fi control,Water‑heater,Friends/Family;Online reviews;In‑store demos
+India,Tier‑2 city,22,Male,Primary,3,22055.71,353.1,1,55,3,2,1,0,5.7,2366.29,Upfront,2,Govt incentive,Limited models,Solar compatibility,Water‑heater,Online reviews;Friends/Family;In‑store demos
+India,Tier‑2 city,18,Female,Graduate,3,19693.16,366.1,3,43,3,4,1,1,17.2,1167.35,Rental,1,Peer reviews,Uncertain savings,Compact design;Wi‑Fi control;Solar compatibility,Refrigerator,Online reviews;Govt portals
+India,Rural,19,Female,Graduate,2,18085.58,400.0,1,33,5,5,0,1,25.4,1307.77,Upfront,3,Energy saving,Limited models,Compact design;Wi‑Fi control;5‑Star rating,Air‑purifier;Refrigerator;AC,In‑store demos;Social media
+India,Tier‑2 city,32,Male,Primary,1,24980.0,120.2,3,27,3,2,1,1,7.5,1725.49,BNPL,2,Energy saving,High cost,Compact design;Wi‑Fi control,AC,In‑store demos;Friends/Family
+Singapore,Metro,42,Male,Graduate,3,54491.39,374.9,1,68,4,5,0,1,7.4,2352.22,0‑interest EMI,3,Brand,High cost,Quiet motor,Washer;Refrigerator;Water‑heater,Social media;Govt portals;In‑store demos
+UAE,Metro,20,Female,Graduate,4,46895.07,393.1,6,26,1,1,0,1,9.0,2336.17,Upfront,2,Govt incentive,Limited models,Wi‑Fi control,Water‑heater,Social media
+India,Metro,18,Male,Graduate,2,21893.9,259.3,0,29,2,1,1,0,3.7,1386.48,Upfront,0,Energy saving,Limited models,Wi‑Fi control;5‑Star rating,Air‑purifier;Washer,Friends/Family;Govt portals
+India,Metro,43,Male,Graduate,4,20279.87,276.9,4,45,5,4,0,1,8.3,883.1,0‑interest EMI,2,Govt incentive,Other,Compact design,Refrigerator,Social media;Friends/Family;Online reviews
+India,Metro,49,Female,Post‑grad,2,20993.16,215.2,1,45,4,4,0,0,9.1,1257.7,Rental,5,Brand,Uncertain savings,Wi‑Fi control,Refrigerator,Social media
+UAE,Metro,30,Male,Graduate,1,75829.55,319.0,5,50,2,3,0,0,6.0,3783.08,Upfront,3,Peer reviews,Low awareness,5‑Star rating;Wi‑Fi control;Solar compatibility,Refrigerator;Washer;Dishwasher,In‑store demos;Friends/Family;Govt portals
+India,Metro,22,Male,Graduate,3,13580.97,221.4,1,37,4,3,0,1,13.9,1042.81,Upfront,1,Energy saving,Low awareness,Solar compatibility;Wi‑Fi control;Quiet motor,Water‑heater;Washer,Online reviews;In‑store demos;Friends/Family
+Singapore,Metro,51,Male,Post‑grad,2,96756.61,142.7,4,35,5,5,1,1,9.1,5767.23,Upfront,3,Peer reviews,High cost,Compact design;Wi‑Fi control;5‑Star rating,Refrigerator;Dishwasher,Govt portals
+UAE,Tier‑2 city,35,Female,Graduate,2,58533.38,610.6,4,49,2,2,1,0,5.0,3039.15,Upfront,4,Brand,Limited models,Solar compatibility,Dishwasher;Refrigerator,In‑store demos;Friends/Family;Govt portals
+India,Metro,47,Female,Graduate,2,17055.71,304.1,1,48,1,1,0,0,1.3,390.51,0‑interest EMI,3,Up‑front price,Low awareness,5‑Star rating;Quiet motor;Solar compatibility,AC,In‑store demos;Govt portals
+India,Tier‑2 city,43,Male,Graduate,3,11624.92,172.2,3,27,1,1,1,0,5.2,806.27,Upfront,1,Up‑front price,High cost,Quiet motor;5‑Star rating;Compact design,Washer;Dishwasher;Refrigerator,Online reviews
+Singapore,Metro,19,Male,Secondary,5,145887.5,260.5,4,61,4,4,1,1,4.8,7586.62,Upfront,1,Govt incentive,Uncertain savings,Compact design,Refrigerator;Washer;AC,Online reviews;In‑store demos
+India,Tier‑2 city,41,Female,Graduate,3,13518.7,265.2,2,21,3,4,1,1,16.5,50.0,0‑interest EMI,0,Up‑front price,Other,Wi‑Fi control;Solar compatibility,Air‑purifier;Washer;Water‑heater,In‑store demos;Social media;Friends/Family
+India,Tier‑2 city,50,Male,Graduate,1,36883.02,173.1,2,26,4,5,0,1,12.8,1759.48,Rental,0,Up‑front price,High cost,5‑Star rating;Quiet motor,Dishwasher,Social media;In‑store demos
+India,Metro,30,Male,Secondary,4,19583.96,396.5,3,38,3,2,0,0,3.3,196.77,0‑interest EMI,4,Govt incentive,High cost,Compact design;5‑Star rating,Washer;Water‑heater;Refrigerator,Social media
+India,Tier‑2 city,41,Male,Graduate,5,23674.29,322.2,1,40,3,2,1,0,3.1,63.02,Rental,2,Brand,High cost,Compact design,Dishwasher;Water‑heater;Air‑purifier,Govt portals;Social media
+India,Tier‑2 city,41,Male,Post‑grad,2,10413.82,335.0,1,35,1,1,1,0,1.3,1180.04,0‑interest EMI,3,Energy saving,Low awareness,Compact design,Refrigerator;AC;Dishwasher,In‑store demos
+UAE,Metro,34,Female,Primary,2,110505.42,385.4,3,62,5,4,1,0,8.4,4668.48,Upfront,4,Govt incentive,Uncertain savings,5‑Star rating;Quiet motor,AC,In‑store demos;Govt portals;Social media
+India,Metro,39,Female,Graduate,2,30267.96,265.8,2,36,3,3,0,0,4.9,1850.63,Rental,1,Peer reviews,Limited models,Solar compatibility,Air‑purifier,In‑store demos;Online reviews
+India,Tier‑2 city,28,Male,Graduate,2,18458.68,226.3,1,20,4,4,0,0,8.8,1056.29,Upfront,4,Govt incentive,Low awareness,5‑Star rating;Quiet motor;Solar compatibility,AC,Friends/Family;Govt portals;In‑store demos
+Singapore,Metro,26,Other,Graduate,4,110967.21,99.7,7,51,3,3,1,0,6.5,4264.57,Upfront,0,Govt incentive,High cost,Wi‑Fi control,AC,Friends/Family
+India,Tier‑2 city,43,Male,Secondary,2,20765.8,334.9,2,30,5,5,0,1,14.6,619.98,Rental,5,Energy saving,Low awareness,Compact design;Quiet motor,Air‑purifier,Friends/Family;Online reviews;Govt portals
+India,Tier‑2 city,31,Female,Secondary,6,22662.83,122.7,3,22,5,5,1,1,11.6,973.66,Rental,2,Up‑front price,Low awareness,5‑Star rating;Quiet motor,Dishwasher,Govt portals;Friends/Family;In‑store demos
+UAE,Metro,23,Female,Graduate,6,43512.54,258.7,4,69,4,4,1,1,12.0,2395.31,Upfront,4,Brand,High cost,Compact design;Solar compatibility;5‑Star rating,Washer;Refrigerator,Friends/Family;Social media;Online reviews
+Singapore,Metro,34,Male,Graduate,3,83742.53,435.4,5,55,5,4,1,1,6.9,4323.16,Upfront,4,Govt incentive,Uncertain savings,Solar compatibility;Compact design;Wi‑Fi control,Air‑purifier,Online reviews
+India,Rural,24,Male,Post‑grad,2,27278.29,351.2,2,16,3,2,1,0,4.8,1634.08,Rental,0,Up‑front price,Limited models,Compact design;Quiet motor,Washer,Social media;Online reviews;Govt portals
+India,Metro,38,Male,Secondary,2,19245.23,354.7,0,19,3,2,1,1,8.3,777.29,Rental,3,Peer reviews,Low awareness,Quiet motor;5‑Star rating,Dishwasher;Washer,Friends/Family
+India,Metro,31,Female,Graduate,2,29849.95,207.1,4,24,4,4,0,1,10.0,1094.49,Upfront,4,Govt incentive,Other,Solar compatibility;5‑Star rating;Wi‑Fi control,Water‑heater;Air‑purifier,Friends/Family;Govt portals;Social media
+Singapore,Metro,23,Male,Primary,2,98322.88,207.7,5,65,1,2,1,1,5.1,5290.14,Upfront,1,Energy saving,Uncertain savings,Wi‑Fi control;Solar compatibility,Dishwasher,In‑store demos
+India,Metro,37,Female,Graduate,3,17108.0,598.4,2,24,2,3,0,0,2.7,433.34,Upfront,1,Brand,Low awareness,Compact design;5‑Star rating,AC;Refrigerator;Dishwasher,In‑store demos;Friends/Family;Govt portals
+India,Metro,46,Female,Secondary,3,20307.08,143.6,0,4,5,5,1,1,13.2,748.59,0‑interest EMI,2,Govt incentive,Other,Solar compatibility;Compact design;5‑Star rating,Washer;Dishwasher,Social media;Govt portals
+UAE,Metro,27,Male,Secondary,2,135730.12,1518.0,10,52,2,1,1,0,1.6,6989.09,0‑interest EMI,1,Up‑front price,Other,Quiet motor;Wi‑Fi control;Compact design,Refrigerator,Govt portals;Social media
+UAE,Metro,40,Male,Secondary,3,83251.89,423.1,6,38,1,1,0,0,1.7,4363.43,Upfront,6,Energy saving,Uncertain savings,Quiet motor,Air‑purifier;Refrigerator,In‑store demos;Govt portals
+India,Tier‑2 city,25,Female,Graduate,1,21744.53,246.8,0,26,3,4,0,1,12.4,1428.44,0‑interest EMI,1,Peer reviews,Uncertain savings,5‑Star rating,AC;Dishwasher,Online reviews
+Singapore,Metro,22,Male,Graduate,1,123121.0,318.0,6,51,5,4,1,0,3.7,6612.59,Upfront,3,Govt incentive,Low awareness,Quiet motor;Compact design,Water‑heater,Govt portals;Friends/Family;In‑store demos
+India,Metro,37,Male,Primary,3,25666.22,417.1,1,67,2,3,1,0,1.0,1384.11,0‑interest EMI,2,Energy saving,Uncertain savings,5‑Star rating;Compact design,Refrigerator,Govt portals;Online reviews;Social media
+UAE,Metro,19,Female,Primary,1,47945.77,350.0,1,23,4,5,1,1,16.8,1476.27,BNPL,3,Brand,Limited models,Compact design;Quiet motor;Wi‑Fi control,Washer;Dishwasher;Water‑heater,In‑store demos;Social media
+Singapore,Metro,49,Male,Secondary,3,95928.79,130.4,7,79,4,4,1,1,12.2,5744.23,Upfront,2,Peer reviews,Limited models,Compact design;5‑Star rating;Wi‑Fi control,AC,Friends/Family
+India,Tier‑2 city,44,Female,Post‑grad,1,17026.64,304.1,4,36,4,3,1,1,8.9,581.47,Rental,3,Govt incentive,Limited models,Wi‑Fi control;Compact design,AC;Air‑purifier,Govt portals;Social media
+India,Metro,39,Male,Secondary,3,28163.04,197.3,2,23,3,4,1,0,4.3,1333.84,Upfront,4,Brand,High cost,Quiet motor;Compact design;5‑Star rating,Washer;AC;Air‑purifier,In‑store demos
+UAE,Metro,38,Female,Graduate,6,108275.06,316.6,6,47,1,2,1,0,3.6,5185.1,BNPL,3,Peer reviews,Low awareness,Solar compatibility;Quiet motor;Wi‑Fi control,Air‑purifier;Water‑heater,Govt portals;Social media;Online reviews
+UAE,Metro,29,Female,Graduate,9,73998.21,369.3,4,70,1,1,0,0,2.0,3632.59,Upfront,3,Peer reviews,High cost,Solar compatibility;Quiet motor,Refrigerator,Social media;Friends/Family;Online reviews
+UAE,Metro,46,Other,Secondary,2,89242.99,414.0,5,91,1,1,0,0,2.0,4989.49,Upfront,2,Brand,Limited models,5‑Star rating,Dishwasher;Washer,Friends/Family
+UAE,Metro,42,Male,Secondary,1,62073.43,1846.8,2,64,4,3,0,1,11.9,3211.16,0‑interest EMI,4,Energy saving,Other,Wi‑Fi control;5‑Star rating,Washer;Air‑purifier;Refrigerator,Social media
+Singapore,Metro,35,Male,Graduate,1,73956.42,385.9,4,44,5,4,1,0,11.0,3689.89,BNPL,3,Brand,Low awareness,Wi‑Fi control;Compact design;Solar compatibility,Washer,Social media;In‑store demos;Govt portals
+UAE,Metro,32,Other,Graduate,2,33187.18,366.7,3,41,4,4,0,0,5.3,376.3,BNPL,2,Peer reviews,Other,Quiet motor,Water‑heater,Friends/Family;In‑store demos
+UAE,Metro,52,Female,Graduate,2,93830.11,305.7,5,73,1,2,0,0,2.5,4431.52,0‑interest EMI,4,Brand,Limited models,Wi‑Fi control,Washer;Refrigerator,Social media;Online reviews
+India,Metro,55,Female,Secondary,2,22573.52,181.3,3,61,5,5,0,0,12.5,702.29,0‑interest EMI,0,Energy saving,Low awareness,Wi‑Fi control;5‑Star rating;Solar compatibility,Refrigerator,Online reviews
+Singapore,Metro,43,Male,Secondary,3,88077.75,207.4,7,85,3,4,0,1,6.3,4605.54,0‑interest EMI,4,Up‑front price,Low awareness,Solar compatibility;Wi‑Fi control,Dishwasher,Online reviews;Friends/Family;Govt portals
+India,Metro,38,Female,Graduate,2,10671.08,162.5,4,33,1,1,1,1,5.2,997.27,Rental,4,Peer reviews,High cost,5‑Star rating,Water‑heater,Social media;In‑store demos
+India,Metro,42,Female,Secondary,1,29200.08,494.7,2,68,4,5,0,0,7.2,1602.5,0‑interest EMI,4,Up‑front price,High cost,Compact design,Refrigerator;Washer;Water‑heater,In‑store demos;Friends/Family
+India,Tier‑2 city,34,Female,Secondary,4,27461.69,278.8,2,44,2,1,0,0,7.2,1316.5,0‑interest EMI,4,Govt incentive,Other,Solar compatibility;Wi‑Fi control;5‑Star rating,AC;Refrigerator;Washer,Social media
+Singapore,Metro,37,Female,Secondary,3,200175.41,635.0,10,100,2,1,1,0,1.2,9663.6,Upfront,3,Brand,Limited models,Compact design,Refrigerator;Air‑purifier,Social media
+India,Tier‑2 city,18,Male,Secondary,3,15897.16,228.4,2,41,3,2,0,0,6.5,640.29,0‑interest EMI,1,Brand,High cost,Solar compatibility;Compact design;Quiet motor,Washer;Air‑purifier,Govt portals
+UAE,Metro,27,Female,Secondary,3,97522.61,316.1,9,64,1,1,0,0,5.3,3615.91,0‑interest EMI,3,Energy saving,Uncertain savings,Wi‑Fi control;Compact design,Refrigerator;Water‑heater,Govt portals;In‑store demos;Online reviews
+India,Tier‑2 city,34,Male,Graduate,5,21581.93,457.1,3,25,4,3,0,1,6.8,931.32,0‑interest EMI,0,Energy saving,Other,Wi‑Fi control;Quiet motor;5‑Star rating,Washer,Friends/Family;In‑store demos;Social media
+Singapore,Metro,34,Male,Secondary,3,71647.05,212.1,3,43,3,4,0,1,10.2,4086.18,Upfront,1,Govt incentive,High cost,Compact design,Washer;Air‑purifier;Water‑heater,Friends/Family
+India,Tier‑2 city,20,Female,Graduate,1,16617.91,193.4,2,42,5,5,0,0,2.8,1151.12,Rental,6,Peer reviews,High cost,Solar compatibility;Quiet motor;Compact design,Water‑heater,Friends/Family;In‑store demos
+UAE,Tier‑2 city,32,Other,Primary,5,87447.74,342.5,8,68,5,5,0,1,11.2,4226.46,Upfront,4,Brand,High cost,Compact design,Washer;Water‑heater;Air‑purifier,Online reviews;Friends/Family
+India,Metro,35,Male,Graduate,3,21150.48,541.7,2,23,2,1,1,1,14.0,706.98,Upfront,1,Up‑front price,High cost,Compact design,Washer;Water‑heater,In‑store demos;Govt portals
+India,Metro,18,Male,Secondary,5,18845.25,171.3,3,47,3,4,0,1,15.2,449.38,Upfront,1,Govt incentive,Uncertain savings,5‑Star rating,AC,Friends/Family;Govt portals;In‑store demos
+India,Tier‑2 city,29,Female,Secondary,3,23355.71,247.4,3,36,5,5,0,1,13.5,1998.14,0‑interest EMI,5,Brand,High cost,5‑Star rating;Solar compatibility;Wi‑Fi control,Air‑purifier;Dishwasher;Refrigerator,Social media
+Singapore,Tier‑2 city,28,Female,Secondary,2,128753.09,195.0,9,49,3,3,1,1,11.8,6670.82,Upfront,5,Energy saving,Low awareness,5‑Star rating,Refrigerator;AC,In‑store demos;Friends/Family
+UAE,Tier‑2 city,34,Female,Graduate,1,112958.96,439.8,10,53,1,1,1,1,3.5,5899.03,0‑interest EMI,1,Energy saving,High cost,Quiet motor;5‑Star rating;Solar compatibility,Water‑heater;Washer,Online reviews;Govt portals;In‑store demos
+UAE,Metro,43,Female,Secondary,1,126101.9,297.7,10,62,1,2,0,0,3.4,7302.46,Upfront,1,Brand,Limited models,5‑Star rating,Water‑heater;Washer;Air‑purifier,Online reviews;Social media
+Singapore,Metro,50,Male,Primary,1,99329.21,303.5,7,64,4,3,1,1,22.1,4586.1,Upfront,4,Up‑front price,Other,Compact design;Solar compatibility;Wi‑Fi control,Washer;Water‑heater;Refrigerator,In‑store demos;Social media
+UAE,Tier‑2 city,41,Female,Post‑grad,3,36996.46,379.6,4,74,5,4,1,1,13.7,1840.48,Rental,6,Brand,Limited models,Solar compatibility;Wi‑Fi control,AC;Air‑purifier,In‑store demos;Social media;Friends/Family
+UAE,Metro,27,Male,Secondary,3,149476.15,282.0,10,69,3,4,1,1,14.9,7817.86,Upfront,2,Energy saving,Limited models,Quiet motor;Wi‑Fi control;Compact design,Air‑purifier;Water‑heater,Friends/Family;Govt portals
+UAE,Metro,42,Male,Secondary,2,107372.1,179.0,7,51,5,5,0,1,13.4,5767.34,Upfront,0,Brand,Uncertain savings,Quiet motor;Solar compatibility;5‑Star rating,Water‑heater;Refrigerator,Social media
+UAE,Metro,44,Male,Secondary,9,64673.53,429.4,3,52,2,3,1,1,10.6,3143.22,BNPL,2,Govt incentive,Limited models,5‑Star rating;Solar compatibility;Compact design,Refrigerator;Dishwasher,Social media;In‑store demos
+UAE,Metro,44,Male,Secondary,3,535416.05,540.1,10,100,5,5,1,1,18.2,25538.86,0‑interest EMI,0,Peer reviews,Other,Solar compatibility;Compact design,Washer;Dishwasher,In‑store demos;Social media;Friends/Family
+Singapore,Metro,48,Male,Graduate,1,191492.23,172.0,7,85,1,1,1,0,1.1,9644.71,Upfront,0,Govt incentive,Limited models,5‑Star rating;Quiet motor,Air‑purifier;Washer;Water‑heater,Online reviews;Friends/Family;In‑store demos
+India,Metro,44,Male,Graduate,6,12129.5,318.1,0,31,1,1,0,0,0.6,248.38,Rental,3,Peer reviews,Limited models,5‑Star rating,Refrigerator;AC,Friends/Family;Social media;Online reviews
+Singapore,Metro,31,Female,Graduate,4,80979.02,383.1,3,58,2,1,0,1,4.0,3463.3,Upfront,6,Up‑front price,Limited models,Solar compatibility;Compact design,Refrigerator;AC,Online reviews;Social media;In‑store demos
+Singapore,Metro,34,Female,Secondary,2,65225.23,180.4,4,43,3,4,0,0,6.0,3639.52,Upfront,2,Peer reviews,Low awareness,Quiet motor,AC;Washer;Refrigerator,Online reviews
+Singapore,Metro,31,Female,Primary,2,67217.59,389.5,4,57,2,2,1,1,5.8,3488.73,BNPL,4,Peer reviews,High cost,Solar compatibility;Compact design,Air‑purifier;Refrigerator;Water‑heater,In‑store demos;Govt portals;Social media
+India,Metro,33,Female,Secondary,2,26419.27,511.0,1,21,4,3,1,0,3.1,870.2,Upfront,3,Peer reviews,Other,Wi‑Fi control,Refrigerator,Friends/Family;Online reviews
+Singapore,Metro,22,Male,Post‑grad,1,109121.65,265.0,6,75,5,4,0,0,10.2,4513.92,Upfront,4,Up‑front price,High cost,5‑Star rating,AC;Refrigerator,Friends/Family;Govt portals
+India,Tier‑2 city,31,Female,Graduate,1,19842.73,220.5,0,51,5,4,0,1,21.8,666.9,Upfront,4,Energy saving,Limited models,Solar compatibility;Wi‑Fi control;5‑Star rating,Air‑purifier;AC;Refrigerator,Online reviews
+UAE,Metro,31,Female,Secondary,5,109204.47,385.6,8,67,5,5,0,1,18.0,5586.69,0‑interest EMI,1,Brand,Other,Solar compatibility,Water‑heater;Dishwasher;Refrigerator,In‑store demos;Social media
+India,Rural,43,Female,Graduate,4,21662.01,262.8,1,24,3,3,1,1,8.0,1210.27,Rental,1,Brand,Limited models,5‑Star rating;Solar compatibility;Wi‑Fi control,Water‑heater;Washer,Friends/Family
+India,Metro,28,Female,Secondary,3,20727.01,291.3,3,33,2,1,0,1,11.1,875.61,Upfront,3,Peer reviews,Limited models,Compact design;Solar compatibility,Refrigerator,Online reviews
+India,Tier‑2 city,21,Male,Graduate,6,22218.31,252.3,2,27,3,3,0,0,3.6,656.71,Rental,3,Peer reviews,Uncertain savings,Solar compatibility;Wi‑Fi control,Refrigerator;Washer,Govt portals;Online reviews;Social media
+UAE,Metro,38,Male,Secondary,4,96979.69,371.1,6,74,1,1,0,1,4.6,5550.64,Upfront,3,Peer reviews,Uncertain savings,Solar compatibility;Quiet motor;Wi‑Fi control,AC;Washer;Air‑purifier,Social media;Online reviews
+India,Metro,18,Male,Secondary,2,23567.4,172.4,2,23,3,4,0,1,5.8,1155.37,0‑interest EMI,1,Up‑front price,High cost,5‑Star rating,AC;Refrigerator,Social media;Online reviews
+India,Metro,34,Male,Graduate,4,22671.24,224.9,3,0,2,3,0,0,3.5,1538.18,BNPL,2,Up‑front price,Uncertain savings,Solar compatibility;Wi‑Fi control;5‑Star rating,Dishwasher,Govt portals;In‑store demos;Social media
+UAE,Metro,35,Female,Primary,2,69788.51,546.9,4,53,2,1,0,0,3.8,3801.73,0‑interest EMI,6,Peer reviews,Limited models,Wi‑Fi control,Air‑purifier;Water‑heater,Online reviews;Social media
+UAE,Tier‑2 city,35,Female,Primary,2,45119.5,352.7,5,49,3,2,1,1,3.1,1840.31,0‑interest EMI,4,Energy saving,Uncertain savings,5‑Star rating;Solar compatibility,Air‑purifier,Online reviews;Social media;In‑store demos
+UAE,Metro,40,Male,Graduate,1,88828.25,338.7,9,62,2,3,1,0,4.1,5016.72,Upfront,0,Energy saving,Limited models,Solar compatibility;5‑Star rating,Refrigerator,Govt portals;Friends/Family;Social media
+India,Metro,30,Female,Graduate,2,16232.09,219.1,3,50,3,4,1,1,10.9,838.32,BNPL,2,Energy saving,High cost,Quiet motor,Washer,In‑store demos;Friends/Family
+India,Metro,38,Female,Secondary,1,19636.85,243.7,1,45,3,2,1,1,9.3,966.12,0‑interest EMI,2,Peer reviews,High cost,Wi‑Fi control;Solar compatibility;Compact design,Water‑heater,In‑store demos;Govt portals
+UAE,Metro,23,Male,Graduate,3,142572.73,432.0,10,78,3,4,1,1,7.6,7795.5,Upfront,2,Energy saving,High cost,Solar compatibility;Wi‑Fi control,Dishwasher;Refrigerator,Friends/Family;Social media;Online reviews
+Singapore,Metro,44,Male,Secondary,2,54382.76,443.1,1,47,4,3,1,0,5.2,4140.86,Upfront,3,Up‑front price,Uncertain savings,Compact design,AC,In‑store demos;Friends/Family;Online reviews
+UAE,Tier‑2 city,38,Other,Secondary,1,74831.83,245.5,1,52,4,3,1,1,6.6,2867.23,Upfront,4,Up‑front price,Uncertain savings,Solar compatibility;Quiet motor;Compact design,Water‑heater,Govt portals;In‑store demos;Friends/Family
+Singapore,Metro,29,Female,Secondary,2,79153.91,217.5,2,65,2,2,1,0,2.0,3662.17,0‑interest EMI,1,Peer reviews,Other,5‑Star rating;Wi‑Fi control,Water‑heater,Friends/Family
+India,Rural,29,Male,Graduate,2,44289.43,304.4,4,36,4,4,0,1,9.6,2385.22,Upfront,6,Up‑front price,Low awareness,Solar compatibility,Dishwasher,In‑store demos
+UAE,Metro,41,Female,Graduate,1,38696.36,250.8,2,52,1,2,0,1,2.6,1677.78,Upfront,4,Brand,Other,Quiet motor,Dishwasher;Air‑purifier,Social media;Govt portals
+UAE,Metro,19,Female,Graduate,4,84446.57,318.7,4,71,3,4,0,0,8.6,4965.09,Upfront,2,Govt incentive,Low awareness,Compact design,Dishwasher,Friends/Family;In‑store demos
+Singapore,Metro,42,Female,Graduate,1,58769.87,285.9,2,47,3,4,0,1,8.3,2915.92,Upfront,2,Brand,Other,Quiet motor;Solar compatibility,Water‑heater;Dishwasher;Washer,Govt portals;Friends/Family
+Singapore,Metro,34,Female,Primary,3,89330.13,263.1,10,55,5,5,0,1,16.8,4424.12,Upfront,4,Govt incentive,Limited models,Quiet motor,Air‑purifier,Online reviews;Govt portals
+Singapore,Metro,32,Male,Graduate,2,110838.37,168.1,6,43,2,2,1,1,5.3,5972.97,Rental,3,Peer reviews,High cost,5‑Star rating;Solar compatibility;Quiet motor,Dishwasher;Air‑purifier,Govt portals
+India,Metro,44,Female,Secondary,3,17906.63,226.7,1,18,3,3,0,0,1.3,1184.43,Upfront,0,Peer reviews,Low awareness,Solar compatibility;Compact design,Air‑purifier,Friends/Family
+India,Tier‑2 city,40,Male,Graduate,3,211408.7,517.0,10,100,3,4,0,1,15.4,10263.81,0‑interest EMI,3,Brand,Low awareness,Solar compatibility;Quiet motor;Compact design,Dishwasher,Online reviews;Friends/Family
+UAE,Metro,31,Female,Graduate,5,47972.13,479.9,2,16,2,1,1,0,2.2,1961.84,BNPL,4,Energy saving,Other,Wi‑Fi control;Compact design;Quiet motor,Water‑heater,Online reviews
+India,Metro,31,Male,Secondary,1,16509.39,277.0,1,49,2,2,0,0,3.3,370.59,Upfront,4,Brand,Uncertain savings,Quiet motor;Compact design,Washer;AC;Water‑heater,Friends/Family
+India,Metro,28,Female,Secondary,4,25124.79,163.6,3,2,1,2,1,0,3.4,1754.29,Rental,1,Peer reviews,Limited models,5‑Star rating;Compact design;Quiet motor,AC;Refrigerator,Online reviews;Friends/Family;Govt portals
+Singapore,Tier‑2 city,33,Female,Graduate,2,71693.06,269.0,4,42,3,4,1,0,7.1,3627.49,Upfront,0,Govt incentive,Low awareness,Compact design;Quiet motor,Refrigerator;AC,Online reviews
+India,Metro,57,Female,Secondary,7,49140.08,117.5,5,55,3,2,1,1,9.8,2784.32,0‑interest EMI,3,Govt incentive,Low awareness,Compact design;5‑Star rating;Quiet motor,AC,Social media;Online reviews
+Singapore,Metro,47,Female,Secondary,3,67145.51,318.5,4,69,2,1,1,0,1.4,3490.69,0‑interest EMI,1,Energy saving,Uncertain savings,Quiet motor;Compact design,Refrigerator;Dishwasher;Washer,Govt portals;Social media
+UAE,Metro,50,Male,Secondary,5,106784.69,484.5,5,61,2,1,0,1,11.3,6537.75,0‑interest EMI,2,Govt incentive,Uncertain savings,Wi‑Fi control;Compact design,Water‑heater,Govt portals
+Singapore,Metro,40,Female,Secondary,1,65944.85,405.0,10,47,3,4,0,1,5.4,3543.36,BNPL,3,Brand,High cost,Compact design,Dishwasher;Air‑purifier;Water‑heater,In‑store demos;Online reviews;Govt portals
+Singapore,Metro,43,Female,Secondary,3,110815.31,185.4,4,60,3,3,1,1,8.3,5171.62,0‑interest EMI,2,Up‑front price,Low awareness,Solar compatibility,Refrigerator,Social media;Online reviews
+India,Metro,30,Male,Graduate,1,34709.87,381.0,3,52,3,3,1,0,6.1,1358.33,BNPL,1,Peer reviews,High cost,5‑Star rating;Quiet motor,Washer;Air‑purifier;Refrigerator,In‑store demos;Friends/Family
+UAE,Metro,37,Female,Post‑grad,2,64275.59,412.6,4,64,2,3,0,0,2.7,3777.01,BNPL,3,Energy saving,Uncertain savings,5‑Star rating;Quiet motor,Refrigerator;Washer;Water‑heater,In‑store demos;Online reviews;Govt portals
+India,Tier‑2 city,38,Male,Graduate,2,16819.06,421.8,0,14,3,4,0,0,7.0,577.38,Upfront,6,Govt incentive,Uncertain savings,Wi‑Fi control;Solar compatibility,Refrigerator;Water‑heater;AC,Online reviews
+UAE,Metro,46,Female,Secondary,3,87777.49,307.8,7,23,4,4,1,1,6.9,4380.86,Upfront,4,Peer reviews,Limited models,5‑Star rating,Water‑heater;Dishwasher,Govt portals;In‑store demos
+Singapore,Metro,35,Female,Graduate,5,95643.42,470.6,5,60,5,5,1,1,10.4,4882.99,BNPL,1,Peer reviews,High cost,Compact design;Solar compatibility,Air‑purifier;AC,Social media
+Singapore,Metro,38,Female,Post‑grad,4,91562.55,293.1,10,50,1,2,0,0,8.3,5017.93,Upfront,3,Govt incentive,High cost,Solar compatibility;5‑Star rating,Refrigerator,Online reviews;Govt portals;Friends/Family
+UAE,Metro,41,Female,Graduate,5,80621.01,1372.4,3,31,2,2,0,0,7.5,3733.64,Upfront,3,Up‑front price,High cost,Solar compatibility;Wi‑Fi control,Air‑purifier,Online reviews;Govt portals;In‑store demos
+India,Metro,24,Female,Graduate,3,14662.49,287.1,1,30,5,4,0,1,18.1,235.59,0‑interest EMI,3,Brand,Uncertain savings,Wi‑Fi control;Quiet motor,Water‑heater,Friends/Family;Social media
+India,Metro,28,Female,Secondary,2,18479.63,424.9,1,41,3,3,1,0,2.9,708.36,0‑interest EMI,6,Energy saving,High cost,5‑Star rating,AC;Dishwasher;Refrigerator,Govt portals;Friends/Family
+India,Metro,36,Male,Graduate,2,13723.12,209.2,3,34,1,2,1,1,4.6,50.0,0‑interest EMI,1,Peer reviews,Low awareness,Wi‑Fi control;Quiet motor,Dishwasher,Social media;Govt portals
+UAE,Metro,47,Male,Secondary,6,61691.3,354.2,2,35,2,1,1,0,5.0,2962.25,0‑interest EMI,4,Govt incentive,Uncertain savings,Solar compatibility;Wi‑Fi control,Air‑purifier;Water‑heater;Dishwasher,Social media;Govt portals
+India,Metro,37,Other,Secondary,3,23153.7,271.4,5,30,4,4,0,1,4.6,1401.46,0‑interest EMI,3,Peer reviews,High cost,5‑Star rating,Dishwasher;Washer,Govt portals;In‑store demos
+Singapore,Metro,19,Female,Secondary,5,140066.48,244.6,8,74,2,3,1,1,12.5,7360.54,0‑interest EMI,2,Peer reviews,High cost,Quiet motor;5‑Star rating,Water‑heater,Friends/Family;In‑store demos
+UAE,Metro,18,Male,Secondary,2,56838.55,388.5,4,48,2,3,1,0,1.9,2920.67,0‑interest EMI,4,Up‑front price,Limited models,Compact design,Dishwasher;AC,Social media
+UAE,Metro,34,Female,Secondary,1,68188.26,478.5,4,32,4,4,0,1,12.1,3485.19,0‑interest EMI,2,Peer reviews,High cost,Quiet motor;Wi‑Fi control,Water‑heater,Social media;Online reviews
+Singapore,Metro,35,Male,Secondary,1,82485.64,191.6,1,45,3,3,1,1,10.2,4292.82,0‑interest EMI,2,Govt incentive,Limited models,Compact design;Solar compatibility;Quiet motor,Refrigerator;AC,Social media
+UAE,Metro,27,Female,Primary,3,71828.21,576.2,3,52,1,2,0,1,7.7,4332.18,0‑interest EMI,1,Brand,Low awareness,Wi‑Fi control,Washer;Water‑heater;Air‑purifier,Online reviews;Friends/Family
+Singapore,Metro,37,Female,Secondary,2,86178.29,374.6,3,67,3,2,1,1,8.7,4997.52,0‑interest EMI,5,Govt incentive,Other,Solar compatibility;5‑Star rating,Dishwasher;AC;Water‑heater,Friends/Family;Social media;Govt portals
+UAE,Metro,33,Female,Graduate,1,58568.84,251.2,3,43,2,1,0,0,0.8,3484.03,0‑interest EMI,1,Govt incentive,Limited models,Wi‑Fi control;Quiet motor;Compact design,Air‑purifier,Friends/Family
+UAE,Metro,32,Female,Post‑grad,2,47162.33,501.7,5,11,3,2,0,1,12.6,3571.0,Upfront,5,Energy saving,High cost,Solar compatibility,Air‑purifier;Dishwasher;Water‑heater,Social media;Online reviews
+India,Metro,41,Female,Secondary,4,22339.89,196.3,1,45,2,1,0,0,3.4,1234.93,Rental,1,Energy saving,Other,Solar compatibility;5‑Star rating;Compact design,Air‑purifier,Friends/Family;Online reviews
+UAE,Metro,39,Male,Primary,1,81337.36,447.3,3,43,4,3,0,0,7.4,4021.97,0‑interest EMI,4,Energy saving,Uncertain savings,Solar compatibility;5‑Star rating;Wi‑Fi control,Water‑heater;Dishwasher;Refrigerator,Social media;Govt portals
+India,Metro,21,Male,Graduate,4,7882.85,299.6,2,37,4,4,1,0,4.9,592.91,Upfront,4,Peer reviews,Other,5‑Star rating;Quiet motor;Solar compatibility,AC,Online reviews;Govt portals
+UAE,Metro,36,Female,Secondary,6,49182.62,427.8,2,11,2,2,0,1,15.6,2563.3,BNPL,2,Brand,Uncertain savings,5‑Star rating;Quiet motor,Water‑heater;Washer,Online reviews;Friends/Family;Govt portals
+India,Metro,40,Male,Graduate,2,27735.87,130.9,3,46,3,4,0,1,13.7,1763.94,Rental,3,Peer reviews,Other,5‑Star rating;Quiet motor,Washer,In‑store demos
+India,Metro,30,Male,Graduate,2,279625.4,226.2,10,100,3,3,0,1,19.4,13675.07,Upfront,2,Peer reviews,High cost,Solar compatibility,Washer;Dishwasher;Air‑purifier,In‑store demos;Social media;Online reviews
+India,Tier‑2 city,44,Male,Primary,5,9973.88,441.1,1,48,1,1,0,0,2.2,955.89,BNPL,4,Govt incentive,Low awareness,Solar compatibility;Compact design,Air‑purifier,Friends/Family;Online reviews;Social media
+India,Metro,32,Male,Secondary,3,29600.58,371.9,5,63,4,4,0,0,5.8,1589.83,Rental,2,Govt incentive,Limited models,Compact design;Quiet motor;Solar compatibility,Air‑purifier;Washer,In‑store demos;Social media
+India,Metro,29,Male,Post‑grad,5,16326.97,341.1,2,48,2,3,1,1,10.6,407.96,Upfront,4,Peer reviews,Other,5‑Star rating;Compact design,Refrigerator;Washer,Social media;In‑store demos
+India,Metro,46,Male,Primary,4,28157.08,267.3,3,6,4,5,0,1,11.0,1996.17,Rental,4,Energy saving,Low awareness,Wi‑Fi control;Compact design;Solar compatibility,Washer;Refrigerator;Water‑heater,Govt portals
+UAE,Metro,38,Male,Graduate,2,96032.69,312.8,3,43,5,4,1,0,5.7,4808.86,BNPL,0,Brand,Uncertain savings,Compact design,Refrigerator;Water‑heater;Air‑purifier,Govt portals;In‑store demos
+India,Metro,28,Male,Secondary,3,18052.17,198.3,1,26,5,4,1,1,13.2,1623.76,0‑interest EMI,0,Govt incentive,Uncertain savings,Wi‑Fi control;Compact design,Water‑heater,In‑store demos;Govt portals
+UAE,Metro,38,Male,Secondary,1,51136.07,232.7,4,59,4,5,1,1,5.0,3355.84,0‑interest EMI,2,Up‑front price,High cost,5‑Star rating,Dishwasher;Water‑heater;AC,In‑store demos;Social media
+UAE,Metro,31,Female,Secondary,4,44279.95,261.7,6,59,4,3,1,0,7.6,2392.53,Upfront,2,Brand,Other,Wi‑Fi control;5‑Star rating,Dishwasher,Online reviews;Govt portals;Friends/Family
+Singapore,Metro,45,Male,Secondary,2,114490.45,275.4,10,82,1,1,1,0,2.1,6014.28,0‑interest EMI,2,Peer reviews,Other,Wi‑Fi control;Compact design,Water‑heater;AC;Dishwasher,Govt portals;Social media;Online reviews
+Singapore,Metro,26,Female,Secondary,5,107831.55,181.7,6,77,1,1,1,0,1.2,4736.88,Upfront,1,Peer reviews,Uncertain savings,Wi‑Fi control,AC,Govt portals
+India,Metro,38,Male,Graduate,2,12685.01,145.4,1,31,3,4,0,0,5.5,505.14,Rental,4,Brand,Other,Solar compatibility;Wi‑Fi control;Compact design,Dishwasher,Govt portals
+India,Metro,39,Female,Post‑grad,2,25875.52,258.1,3,35,1,2,1,0,1.9,1346.2,0‑interest EMI,4,Brand,Other,Wi‑Fi control;Compact design,Dishwasher;Air‑purifier;Refrigerator,Online reviews;In‑store demos
+India,Metro,39,Male,Secondary,1,18923.94,192.1,2,48,5,4,1,1,13.5,787.84,0‑interest EMI,0,Up‑front price,High cost,Compact design;5‑Star rating;Quiet motor,Air‑purifier;AC,Social media;In‑store demos;Online reviews
+India,Metro,27,Male,Graduate,4,16973.92,244.5,1,29,2,1,1,0,9.3,580.84,BNPL,3,Brand,Limited models,Quiet motor;Solar compatibility;Wi‑Fi control,AC;Water‑heater,Friends/Family;Govt portals
+India,Tier‑2 city,39,Female,Secondary,1,16026.98,283.4,1,49,4,4,0,1,8.3,1148.93,0‑interest EMI,3,Up‑front price,Uncertain savings,Wi‑Fi control;Compact design,Refrigerator;Water‑heater;Dishwasher,Govt portals
+Singapore,Metro,32,Male,Graduate,5,116673.13,362.2,6,42,5,4,1,1,15.7,4544.25,0‑interest EMI,5,Up‑front price,Uncertain savings,Compact design;Wi‑Fi control,Washer,In‑store demos;Govt portals
+India,Metro,42,Female,Graduate,2,14704.17,234.7,0,36,3,2,1,1,13.2,1297.11,BNPL,3,Brand,Limited models,5‑Star rating;Wi‑Fi control;Solar compatibility,Dishwasher;Air‑purifier;Refrigerator,In‑store demos;Online reviews;Friends/Family
+Singapore,Metro,38,Female,Graduate,3,106448.44,434.9,6,60,1,1,1,1,5.9,5509.08,Upfront,1,Up‑front price,Uncertain savings,Quiet motor;Wi‑Fi control,Washer;Air‑purifier,Friends/Family
+India,Tier‑2 city,33,Female,Graduate,3,16638.29,335.4,1,53,1,2,1,1,4.3,242.42,0‑interest EMI,3,Peer reviews,Limited models,5‑Star rating;Solar compatibility;Wi‑Fi control,Air‑purifier;Refrigerator,Friends/Family;Social media;Govt portals
+Singapore,Metro,32,Male,Secondary,4,73055.55,238.7,5,16,5,4,1,1,16.3,4535.36,Upfront,3,Peer reviews,Uncertain savings,Quiet motor;Compact design,Dishwasher;Refrigerator;Air‑purifier,Govt portals;Social media
+UAE,Tier‑2 city,29,Male,Graduate,5,32493.0,306.5,3,41,5,4,1,1,6.8,1799.76,Upfront,3,Govt incentive,High cost,Solar compatibility;5‑Star rating,Washer,Friends/Family;Govt portals;Online reviews
+India,Tier‑2 city,27,Female,Graduate,3,23122.62,177.2,3,59,3,4,1,1,6.3,1414.98,Upfront,3,Brand,Other,Solar compatibility,AC;Dishwasher;Air‑purifier,Online reviews;Friends/Family;Govt portals
+India,Metro,58,Male,Primary,4,43772.55,357.9,1,59,5,5,0,1,6.7,2927.35,BNPL,3,Up‑front price,High cost,Wi‑Fi control;Quiet motor;Solar compatibility,Air‑purifier;Washer;Refrigerator,Social media;In‑store demos;Online reviews
+India,Metro,26,Male,Primary,7,18497.94,227.6,1,32,3,4,1,0,7.7,432.88,0‑interest EMI,3,Up‑front price,Other,Wi‑Fi control,Refrigerator,Social media;Online reviews;In‑store demos
+India,Metro,25,Male,Graduate,2,12399.79,203.3,1,21,3,3,0,0,0.9,942.0,0‑interest EMI,1,Peer reviews,Low awareness,Solar compatibility,Washer,Online reviews;Social media;In‑store demos
+UAE,Metro,31,Female,Secondary,1,107995.23,232.3,3,48,2,1,0,0,3.7,5718.42,BNPL,1,Energy saving,Other,Quiet motor,Water‑heater;Refrigerator,Friends/Family
+UAE,Metro,22,Male,Secondary,4,78830.52,404.5,6,60,4,5,0,0,2.3,4837.53,Upfront,6,Peer reviews,Limited models,5‑Star rating;Quiet motor,Refrigerator;Water‑heater;Washer,Online reviews;In‑store demos
+India,Metro,46,Male,Secondary,2,27285.95,211.4,4,21,4,4,0,1,28.0,1959.74,0‑interest EMI,2,Peer reviews,Limited models,Wi‑Fi control;Quiet motor;5‑Star rating,Refrigerator;Water‑heater;Washer,Friends/Family;Govt portals;Social media
+India,Metro,35,Male,Graduate,4,21739.16,102.2,2,47,5,4,1,1,10.8,374.37,BNPL,2,Brand,High cost,5‑Star rating;Wi‑Fi control;Quiet motor,Washer,Govt portals;Social media;Online reviews
+India,Metro,32,Female,Secondary,2,20851.94,417.9,3,51,1,1,0,1,2.0,1352.37,0‑interest EMI,4,Govt incentive,Low awareness,5‑Star rating,Dishwasher,In‑store demos;Online reviews;Govt portals
+UAE,Metro,43,Female,Secondary,3,80177.03,554.1,6,51,3,3,0,1,8.9,4904.7,0‑interest EMI,2,Peer reviews,High cost,Solar compatibility;Quiet motor,Refrigerator;Washer,Friends/Family
+UAE,Metro,45,Male,Post‑grad,2,31822.58,550.7,4,9,2,3,1,0,2.1,663.5,0‑interest EMI,1,Energy saving,Low awareness,5‑Star rating;Quiet motor,Washer,Social media;In‑store demos
+Singapore,Metro,36,Female,Graduate,5,94429.18,237.5,3,49,3,4,1,1,10.4,4233.61,Upfront,1,Up‑front price,Uncertain savings,Solar compatibility;Compact design;Wi‑Fi control,Washer;Water‑heater,Govt portals
+India,Rural,37,Female,Post‑grad,3,26462.83,225.9,4,27,5,4,0,0,3.6,1580.7,Rental,3,Up‑front price,Limited models,5‑Star rating;Compact design,Water‑heater,Friends/Family;Social media
+India,Metro,44,Male,Primary,5,22986.14,263.5,2,58,1,2,0,0,4.9,1755.05,0‑interest EMI,6,Govt incentive,Uncertain savings,Solar compatibility;Wi‑Fi control;5‑Star rating,AC,Govt portals;In‑store demos
+Singapore,Metro,22,Female,Graduate,2,96450.54,528.2,7,60,4,5,0,1,17.6,5455.16,0‑interest EMI,4,Govt incentive,Other,5‑Star rating,Washer;Refrigerator;Air‑purifier,Govt portals;Online reviews
+India,Metro,41,Female,Graduate,4,55835.14,304.4,7,55,5,5,1,1,12.5,2987.82,Upfront,4,Peer reviews,Other,Solar compatibility;Wi‑Fi control,Water‑heater;AC,Govt portals;Friends/Family;Online reviews
+UAE,Metro,46,Male,Secondary,2,51808.62,661.4,4,66,1,1,0,0,2.0,1317.24,0‑interest EMI,2,Energy saving,High cost,5‑Star rating;Compact design,Air‑purifier,In‑store demos;Friends/Family
+India,Tier‑2 city,24,Female,Graduate,1,20980.72,230.3,2,63,2,2,0,0,3.1,1484.68,Rental,4,Brand,Other,Solar compatibility,Water‑heater;Refrigerator;Air‑purifier,Online reviews;Govt portals;In‑store demos
+UAE,Metro,42,Male,Secondary,5,52349.78,178.8,2,37,2,1,1,0,3.0,2482.36,Rental,4,Brand,High cost,5‑Star rating;Solar compatibility;Wi‑Fi control,Washer;AC,Social media;In‑store demos;Friends/Family
+India,Metro,49,Female,Graduate,1,28062.32,139.4,1,57,1,1,1,1,1.9,2019.92,0‑interest EMI,2,Energy saving,Other,Solar compatibility;Compact design,Washer;AC,Friends/Family
+India,Metro,46,Male,Graduate,5,27943.96,204.1,1,15,1,1,1,1,15.9,1053.15,Upfront,1,Govt incentive,Low awareness,Quiet motor;Compact design;5‑Star rating,Air‑purifier;Refrigerator,Online reviews;Friends/Family;Govt portals
+India,Tier‑2 city,45,Male,Primary,2,26701.38,270.2,1,37,3,2,1,0,3.8,1325.42,Upfront,3,Energy saving,Uncertain savings,Wi‑Fi control;Compact design,AC;Washer;Water‑heater,Govt portals;Online reviews
+Singapore,Metro,18,Male,Post‑grad,2,89353.05,529.9,3,51,3,4,1,1,3.6,4972.03,Upfront,3,Brand,Limited models,Compact design,Water‑heater;Refrigerator;Washer,Online reviews
+India,Metro,49,Male,Secondary,3,20479.03,433.2,0,50,1,2,0,0,3.1,546.79,0‑interest EMI,4,Govt incentive,Low awareness,Solar compatibility;Compact design;Quiet motor,Air‑purifier;AC,In‑store demos;Social media
+India,Tier‑2 city,30,Male,Graduate,3,44896.05,154.4,5,53,4,3,0,1,15.9,2279.42,Upfront,3,Peer reviews,High cost,Wi‑Fi control;Quiet motor;Compact design,Air‑purifier,Govt portals
+India,Metro,27,Male,Graduate,4,12203.73,465.3,0,44,1,1,0,0,2.7,467.61,Upfront,1,Energy saving,High cost,5‑Star rating;Wi‑Fi control;Compact design,Air‑purifier;AC,In‑store demos
+Singapore,Metro,26,Male,Secondary,8,96536.89,231.6,10,38,4,3,0,0,4.9,4470.91,0‑interest EMI,4,Govt incentive,Uncertain savings,5‑Star rating;Wi‑Fi control;Compact design,Water‑heater,Social media
+India,Rural,30,Female,Graduate,3,21204.37,313.0,3,58,2,2,0,0,3.5,1629.46,Upfront,5,Peer reviews,Low awareness,Solar compatibility;Wi‑Fi control,Water‑heater;Refrigerator;Air‑purifier,In‑store demos
+India,Metro,47,Female,Graduate,5,24707.18,268.8,4,34,5,4,1,1,13.8,748.42,0‑interest EMI,0,Peer reviews,High cost,Wi‑Fi control,AC;Air‑purifier,Social media;Govt portals
+UAE,Tier‑2 city,22,Female,Graduate,2,51996.56,734.9,4,37,3,4,1,1,12.2,3478.07,0‑interest EMI,3,Energy saving,High cost,5‑Star rating,Refrigerator,Govt portals
+India,Metro,22,Female,Graduate,1,42041.03,521.5,3,35,1,1,0,0,3.0,896.56,0‑interest EMI,3,Govt incentive,High cost,Compact design;5‑Star rating;Quiet motor,Refrigerator,Govt portals
+India,Metro,57,Male,Graduate,2,12950.73,365.6,3,24,3,2,1,1,7.2,345.33,0‑interest EMI,3,Govt incentive,High cost,Solar compatibility,Dishwasher,Online reviews;Social media
+Singapore,Metro,23,Male,Secondary,2,109976.42,183.7,7,63,3,4,1,1,5.8,5337.19,0‑interest EMI,2,Brand,Limited models,Compact design,Dishwasher;Refrigerator;Water‑heater,In‑store demos
+UAE,Tier‑2 city,29,Male,Primary,3,97090.94,471.8,4,49,2,1,0,1,17.8,4702.63,BNPL,3,Energy saving,Limited models,Wi‑Fi control;Quiet motor;5‑Star rating,Water‑heater;Refrigerator,Online reviews;Social media
+India,Metro,23,Male,Graduate,3,16109.55,163.8,3,32,2,1,0,0,3.6,1701.02,0‑interest EMI,1,Peer reviews,Low awareness,Compact design;Quiet motor,AC;Dishwasher;Air‑purifier,Social media;Friends/Family
+India,Metro,28,Male,Primary,5,23118.91,214.5,5,38,4,3,1,1,8.5,920.94,0‑interest EMI,2,Peer reviews,Other,Wi‑Fi control;Compact design,Water‑heater;Dishwasher,Friends/Family;Online reviews
+UAE,Metro,27,Female,Secondary,6,57936.13,308.6,7,36,4,3,0,0,9.3,2337.23,Rental,2,Govt incentive,High cost,Wi‑Fi control;Compact design;5‑Star rating,Refrigerator;Water‑heater,In‑store demos;Social media
+Singapore,Metro,41,Female,Graduate,2,104152.69,368.5,3,27,1,2,0,0,3.2,4571.08,Upfront,3,Peer reviews,Low awareness,Compact design;Solar compatibility;Quiet motor,AC;Water‑heater,Online reviews
+Singapore,Metro,44,Male,Graduate,4,72504.42,321.7,4,37,4,3,1,0,7.7,4055.47,Upfront,0,Brand,Limited models,Quiet motor;Solar compatibility;5‑Star rating,Washer,In‑store demos;Social media
+UAE,Metro,37,Male,Graduate,5,30556.81,355.1,3,47,1,1,0,0,3.2,918.8,0‑interest EMI,7,Govt incentive,Limited models,5‑Star rating;Wi‑Fi control;Quiet motor,Refrigerator;AC,Govt portals
+India,Metro,47,Male,Graduate,2,22143.6,215.2,1,43,4,5,0,1,18.8,1613.94,0‑interest EMI,3,Brand,Uncertain savings,5‑Star rating;Quiet motor;Wi‑Fi control,AC;Refrigerator,In‑store demos
+India,Rural,33,Female,Graduate,3,31525.75,349.0,7,42,2,1,0,0,3.3,2317.9,Upfront,0,Peer reviews,Low awareness,Quiet motor;Compact design;5‑Star rating,Air‑purifier;Dishwasher,Govt portals;Social media;In‑store demos
+India,Metro,34,Female,Graduate,2,17533.35,252.4,4,48,2,2,1,0,5.7,226.31,Rental,3,Up‑front price,Limited models,5‑Star rating,Air‑purifier;Water‑heater,Govt portals;Online reviews;Friends/Family
+India,Metro,44,Female,Primary,4,14967.05,298.5,0,35,2,2,0,1,10.3,647.89,0‑interest EMI,0,Peer reviews,Uncertain savings,Compact design,Washer,Online reviews
+India,Metro,18,Male,Graduate,3,9994.08,205.9,2,5,4,5,1,1,8.6,932.84,Rental,3,Energy saving,High cost,Compact design,Water‑heater,Social media
+India,Metro,24,Male,Post‑grad,2,34723.17,208.7,1,44,4,5,0,1,11.3,2635.08,BNPL,5,Energy saving,Limited models,Solar compatibility,Washer,Friends/Family
+India,Metro,35,Male,Graduate,2,15997.32,131.6,3,22,2,1,0,0,3.4,847.08,Upfront,2,Brand,Low awareness,Quiet motor;5‑Star rating;Wi‑Fi control,Dishwasher;Washer,Social media;Govt portals
+India,Metro,47,Other,Secondary,1,20671.21,124.1,1,45,3,2,1,0,3.3,1713.98,Rental,3,Up‑front price,Low awareness,Wi‑Fi control;Compact design,Washer,Online reviews
+UAE,Metro,33,Male,Graduate,8,45030.5,606.8,2,57,5,5,1,1,23.3,3102.03,0‑interest EMI,5,Peer reviews,Low awareness,5‑Star rating;Compact design,Air‑purifier;Dishwasher,Online reviews;Friends/Family;In‑store demos
+UAE,Metro,27,Male,Graduate,3,122636.37,408.9,4,78,5,4,1,1,16.7,5888.08,Upfront,0,Energy saving,Limited models,Solar compatibility,Refrigerator;Dishwasher,Social media
+UAE,Metro,34,Male,Secondary,2,52732.0,426.8,4,46,5,5,1,1,11.3,3967.51,BNPL,2,Brand,Limited models,Quiet motor;Solar compatibility,Washer;Refrigerator;Dishwasher,Online reviews
+India,Tier‑2 city,33,Female,Graduate,1,9495.74,273.6,1,24,1,1,1,0,3.7,1006.06,0‑interest EMI,4,Brand,Limited models,Wi‑Fi control;5‑Star rating;Solar compatibility,Water‑heater;AC,Friends/Family
+Singapore,Metro,52,Male,Secondary,3,88257.32,310.5,3,50,1,1,1,0,6.7,4445.45,0‑interest EMI,1,Peer reviews,Other,5‑Star rating;Solar compatibility,AC,Online reviews;In‑store demos
+India,Metro,33,Male,Post‑grad,2,35854.32,192.6,1,71,3,3,0,1,10.5,1537.7,Upfront,2,Brand,Other,5‑Star rating,Air‑purifier;Dishwasher,Social media;Online reviews;In‑store demos
+Singapore,Metro,26,Male,Primary,4,104836.36,213.5,5,58,4,3,0,0,3.1,5342.8,Upfront,4,Govt incentive,Other,Compact design,Water‑heater,Govt portals;Online reviews;In‑store demos
+UAE,Metro,18,Female,Secondary,4,45027.42,999.9,4,42,4,5,1,1,18.6,2526.95,Upfront,4,Govt incentive,High cost,5‑Star rating;Compact design,AC,In‑store demos;Online reviews
+UAE,Metro,27,Male,Post‑grad,3,121819.45,701.9,10,62,3,3,0,1,4.5,5729.01,Upfront,2,Peer reviews,Other,Wi‑Fi control;5‑Star rating;Compact design,Air‑purifier,Social media;Govt portals
+India,Metro,38,Male,Secondary,5,7963.97,350.7,1,54,1,1,1,1,5.3,767.24,Upfront,0,Govt incentive,Uncertain savings,Quiet motor;Wi‑Fi control;Solar compatibility,Air‑purifier;Washer;Dishwasher,Govt portals;Online reviews
+Singapore,Metro,42,Male,Graduate,2,106845.21,150.9,7,53,3,4,0,1,8.2,5366.66,Upfront,3,Peer reviews,Low awareness,Wi‑Fi control;Compact design;Quiet motor,AC;Air‑purifier,Govt portals;Online reviews
+UAE,Metro,56,Male,Primary,3,98480.22,358.8,5,91,1,2,0,0,1.4,4234.32,BNPL,0,Peer reviews,Uncertain savings,Quiet motor;5‑Star rating,Air‑purifier;Washer,Social media
+UAE,Metro,30,Other,Primary,4,59885.97,616.0,4,17,5,4,0,0,9.2,2313.22,0‑interest EMI,4,Peer reviews,Low awareness,Wi‑Fi control;Solar compatibility;5‑Star rating,Air‑purifier;Dishwasher;Water‑heater,Govt portals
+India,Metro,32,Female,Primary,3,28363.47,144.6,4,51,4,3,0,0,11.3,1284.79,Upfront,3,Govt incentive,Uncertain savings,Compact design,Air‑purifier,Friends/Family
+UAE,Metro,44,Female,Secondary,4,66701.46,255.8,2,42,2,3,0,0,4.7,2371.42,Upfront,5,Peer reviews,Other,Solar compatibility;5‑Star rating,AC,Govt portals;Online reviews;Social media
+Singapore,Metro,42,Female,Secondary,1,77281.96,201.3,4,51,2,2,1,0,4.7,3901.99,Upfront,6,Govt incentive,Low awareness,Quiet motor;5‑Star rating,Dishwasher;Water‑heater,In‑store demos
+UAE,Metro,43,Female,Secondary,3,47728.84,472.9,7,63,3,3,1,1,3.6,2784.26,Upfront,4,Brand,Low awareness,Wi‑Fi control,Air‑purifier;AC,In‑store demos;Govt portals;Social media
+Singapore,Metro,33,Other,Primary,2,105902.31,341.1,8,76,4,3,0,0,5.2,4260.19,Upfront,2,Up‑front price,Other,Solar compatibility,Water‑heater;Air‑purifier,Friends/Family
+Singapore,Metro,55,Male,Graduate,1,70995.77,228.1,3,71,3,2,0,0,3.4,4725.22,Upfront,5,Peer reviews,Low awareness,Wi‑Fi control;Solar compatibility;5‑Star rating,Dishwasher;Water‑heater;Refrigerator,Govt portals;Online reviews;Friends/Family
+UAE,Tier‑2 city,23,Male,Graduate,2,86877.38,333.2,6,56,4,5,1,1,14.7,4446.63,Rental,4,Energy saving,Low awareness,Solar compatibility;Wi‑Fi control,Water‑heater,Online reviews
+India,Metro,41,Male,Secondary,2,29067.25,433.9,0,68,1,2,0,1,4.4,2043.31,Rental,2,Brand,Low awareness,Solar compatibility;Wi‑Fi control;5‑Star rating,Washer,Govt portals;Online reviews
+India,Metro,40,Male,Secondary,1,32892.8,237.0,4,28,4,5,0,0,10.8,852.98,Upfront,2,Peer reviews,High cost,Wi‑Fi control;5‑Star rating;Solar compatibility,Refrigerator,Social media;Online reviews
+UAE,Metro,36,Female,Secondary,3,158168.95,432.8,9,46,2,2,1,0,1.4,7675.0,Upfront,4,Brand,Uncertain savings,Compact design;Quiet motor;5‑Star rating,Dishwasher;AC,Social media
+India,Metro,45,Male,Secondary,5,14903.13,287.4,3,34,1,2,0,0,1.9,428.66,0‑interest EMI,4,Peer reviews,Low awareness,5‑Star rating;Solar compatibility;Wi‑Fi control,Washer;Dishwasher;Refrigerator,Online reviews
+India,Rural,35,Male,Secondary,2,14966.86,195.2,2,42,3,3,0,1,4.5,389.93,0‑interest EMI,4,Govt incentive,Uncertain savings,Quiet motor;Solar compatibility,Washer;Air‑purifier;Refrigerator,Online reviews;In‑store demos
+UAE,Metro,18,Male,Post‑grad,3,71578.62,567.3,4,66,5,5,1,1,11.5,4099.91,0‑interest EMI,5,Govt incentive,Limited models,Quiet motor,Air‑purifier;Refrigerator,In‑store demos;Online reviews
+India,Rural,34,Male,Graduate,3,15999.79,168.8,0,23,3,2,0,0,4.8,1137.82,0‑interest EMI,3,Energy saving,Limited models,5‑Star rating;Compact design;Solar compatibility,AC;Air‑purifier;Dishwasher,Social media;Online reviews;Govt portals
+Singapore,Metro,52,Male,Secondary,4,169410.08,559.6,10,68,2,2,1,1,9.1,8073.7,Upfront,3,Up‑front price,Limited models,5‑Star rating;Quiet motor;Wi‑Fi control,Dishwasher;Air‑purifier;Refrigerator,Friends/Family;Online reviews
+India,Tier‑2 city,23,Female,Graduate,2,23021.74,172.4,1,30,2,2,0,1,7.1,73.04,Rental,1,Up‑front price,Low awareness,Solar compatibility;Wi‑Fi control;Compact design,AC;Air‑purifier,Friends/Family;Social media;In‑store demos
+India,Metro,43,Male,Secondary,6,13181.26,228.0,1,39,4,4,1,1,22.7,1373.54,0‑interest EMI,2,Peer reviews,Other,5‑Star rating,Air‑purifier,Friends/Family
+India,Metro,25,Female,Graduate,3,43455.44,223.5,2,54,3,4,0,1,5.7,2300.45,0‑interest EMI,3,Energy saving,High cost,Quiet motor,Washer;AC;Refrigerator,Friends/Family;Online reviews;Govt portals
+India,Tier‑2 city,41,Male,Post‑grad,8,12138.57,141.6,0,24,5,4,1,0,10.4,347.48,Rental,4,Govt incentive,High cost,Compact design;Quiet motor;Solar compatibility,Water‑heater;Air‑purifier,Friends/Family;Govt portals
+UAE,Metro,30,Female,Graduate,4,100504.58,245.8,10,82,5,4,1,1,18.0,4274.32,BNPL,4,Peer reviews,Other,Quiet motor,AC;Air‑purifier,Online reviews;Social media;Govt portals
+India,Rural,32,Male,Primary,3,23327.11,266.9,0,44,4,5,0,1,18.2,740.33,Upfront,1,Energy saving,High cost,Wi‑Fi control;Compact design;Solar compatibility,Washer;Water‑heater,Friends/Family;In‑store demos;Online reviews
+UAE,Metro,38,Male,Secondary,3,50052.69,351.2,5,41,5,5,1,0,9.6,3093.53,0‑interest EMI,1,Energy saving,Other,Compact design;5‑Star rating;Solar compatibility,Washer,Online reviews;Govt portals
+UAE,Metro,41,Male,Graduate,4,121389.18,409.4,6,80,5,5,0,1,10.8,5694.86,Upfront,1,Up‑front price,Uncertain savings,Compact design;Wi‑Fi control,Refrigerator;Water‑heater;Dishwasher,Online reviews;Friends/Family;Social media
+India,Tier‑2 city,50,Female,Graduate,3,41329.4,199.8,1,41,1,1,1,0,0.8,2321.19,Upfront,5,Brand,High cost,5‑Star rating,Dishwasher;Washer;Refrigerator,In‑store demos;Friends/Family;Online reviews
+India,Rural,37,Male,Secondary,3,13540.3,313.0,2,19,5,4,1,1,9.6,310.95,0‑interest EMI,5,Energy saving,Low awareness,Solar compatibility;Wi‑Fi control,Water‑heater,In‑store demos;Govt portals;Online reviews
+India,Metro,39,Male,Secondary,5,22393.28,151.2,2,4,5,5,1,1,14.8,916.75,Upfront,2,Energy saving,Uncertain savings,Wi‑Fi control,Washer;Air‑purifier;AC,Online reviews;Govt portals;Friends/Family
+Singapore,Metro,30,Other,Secondary,3,125135.49,441.2,6,55,3,4,1,1,10.2,6321.56,Rental,3,Brand,Other,Solar compatibility,Refrigerator;Water‑heater,Govt portals;Friends/Family;Social media
+India,Rural,41,Male,Post‑grad,2,19249.61,213.2,4,17,2,1,1,0,2.4,941.48,0‑interest EMI,3,Brand,High cost,Solar compatibility;5‑Star rating;Compact design,AC;Air‑purifier;Refrigerator,Friends/Family;Social media
+Singapore,Metro,42,Male,Graduate,1,72017.42,571.4,8,68,5,4,0,1,15.5,3491.13,Upfront,1,Peer reviews,Other,Compact design;Solar compatibility;5‑Star rating,Washer,In‑store demos
+India,Tier‑2 city,49,Female,Primary,1,27551.01,268.2,0,44,1,2,0,0,2.9,521.58,Rental,2,Brand,Low awareness,Wi‑Fi control;Compact design;Solar compatibility,Dishwasher;Air‑purifier,Social media;Govt portals
+Singapore,Metro,31,Female,Graduate,5,35034.07,374.6,0,61,3,3,1,1,13.1,1530.51,Rental,2,Govt incentive,Uncertain savings,Solar compatibility;Wi‑Fi control,Air‑purifier;Washer;Dishwasher,Online reviews
+UAE,Metro,18,Female,Post‑grad,3,47141.17,526.0,7,47,4,5,1,1,7.9,2743.37,0‑interest EMI,1,Brand,Limited models,Compact design,Water‑heater;Dishwasher;Refrigerator,Social media;In‑store demos;Govt portals
+India,Metro,34,Female,Primary,5,18728.94,290.5,6,60,2,1,0,0,2.6,995.67,0‑interest EMI,4,Up‑front price,Other,Quiet motor,Refrigerator,Govt portals;Friends/Family;Social media
+India,Metro,32,Male,Graduate,3,12658.49,327.4,1,61,1,1,1,1,5.0,219.09,Rental,2,Peer reviews,Low awareness,Solar compatibility;Compact design,Air‑purifier;Water‑heater,Govt portals;Friends/Family
+Singapore,Metro,18,Female,Graduate,1,119481.27,356.1,6,61,4,3,0,1,9.3,5960.76,Upfront,1,Energy saving,Limited models,Quiet motor,Dishwasher;Air‑purifier;Washer,Friends/Family;In‑store demos
+UAE,Metro,33,Female,Post‑grad,4,80771.46,257.8,7,53,4,4,0,1,7.2,3534.44,Upfront,3,Brand,Limited models,5‑Star rating,AC;Air‑purifier;Washer,In‑store demos;Govt portals
+India,Metro,45,Male,Secondary,4,27967.26,256.4,1,49,5,4,1,1,11.1,996.82,0‑interest EMI,2,Govt incentive,High cost,Quiet motor;Wi‑Fi control,Water‑heater,Govt portals
+UAE,Tier‑2 city,39,Female,Post‑grad,1,63219.18,235.7,3,36,3,4,1,1,5.6,2414.54,0‑interest EMI,3,Energy saving,Other,Wi‑Fi control;Quiet motor;5‑Star rating,Air‑purifier;Washer,Social media;Govt portals
+UAE,Metro,24,Female,Graduate,5,44247.93,314.6,2,39,2,2,0,0,2.8,2688.37,BNPL,5,Peer reviews,High cost,Compact design;5‑Star rating;Quiet motor,Air‑purifier;Refrigerator;Dishwasher,Online reviews
+India,Metro,28,Female,Primary,1,12541.97,217.4,4,49,1,1,1,0,2.8,741.56,0‑interest EMI,4,Brand,Other,Compact design,Air‑purifier,In‑store demos;Friends/Family
+India,Rural,23,Female,Post‑grad,2,14061.97,426.8,2,31,2,3,0,0,2.7,642.49,Upfront,3,Peer reviews,Uncertain savings,Solar compatibility;Compact design,Water‑heater,Social media;Govt portals;Online reviews
+UAE,Metro,26,Male,Post‑grad,3,181804.82,324.3,10,76,1,1,1,1,8.5,8679.34,0‑interest EMI,2,Energy saving,Other,Solar compatibility,Washer,Govt portals
+UAE,Metro,32,Male,Secondary,2,82308.97,672.5,2,85,4,5,0,1,8.0,4601.21,Upfront,2,Govt incentive,Other,Wi‑Fi control;Quiet motor;Compact design,Air‑purifier;Washer,Govt portals;Online reviews
+India,Metro,30,Male,Graduate,3,21394.24,274.4,1,42,2,3,0,0,2.7,491.71,Rental,4,Brand,Low awareness,Quiet motor;Solar compatibility;5‑Star rating,Washer;Dishwasher;Refrigerator,Friends/Family
+India,Tier‑2 city,56,Male,Graduate,3,19682.99,197.9,5,17,3,4,1,1,8.7,1691.56,BNPL,1,Energy saving,High cost,5‑Star rating;Quiet motor;Compact design,Refrigerator;Air‑purifier,In‑store demos;Friends/Family
+India,Metro,51,Male,Secondary,1,32258.0,265.2,2,27,5,5,1,1,16.1,2075.34,Upfront,2,Brand,Low awareness,Wi‑Fi control,Refrigerator;Air‑purifier;Washer,Govt portals;Friends/Family
+India,Tier‑2 city,27,Male,Graduate,8,17782.48,176.5,2,51,3,2,0,0,3.2,1214.69,Rental,1,Up‑front price,Limited models,Quiet motor;5‑Star rating;Compact design,Air‑purifier;Refrigerator;AC,Social media;Govt portals
+India,Metro,28,Male,Secondary,4,24538.25,202.1,0,50,4,5,1,1,9.0,1096.45,0‑interest EMI,3,Energy saving,Other,Solar compatibility;Wi‑Fi control;Quiet motor,Dishwasher;Refrigerator,Govt portals
+UAE,Metro,26,Female,Graduate,1,102007.32,464.2,2,80,5,4,0,1,19.4,4421.45,Upfront,3,Energy saving,Limited models,Compact design;Quiet motor;Solar compatibility,Washer,Govt portals;Friends/Family
+India,Tier‑2 city,33,Female,Secondary,1,11802.01,464.9,0,44,2,3,0,1,11.7,1065.64,Upfront,3,Brand,High cost,5‑Star rating;Compact design,Water‑heater;Washer,Friends/Family;Online reviews;Govt portals
+UAE,Metro,23,Female,Secondary,2,45032.75,368.6,2,72,3,2,1,1,16.3,3263.86,Upfront,0,Peer reviews,Limited models,Compact design;Solar compatibility;Wi‑Fi control,AC;Dishwasher,Online reviews
+UAE,Metro,46,Female,Secondary,4,98180.27,171.0,10,67,2,3,0,0,3.5,4840.23,Upfront,1,Up‑front price,High cost,Quiet motor;Compact design,Air‑purifier;Dishwasher,Online reviews;Govt portals;In‑store demos
+India,Metro,36,Female,Secondary,2,22877.86,382.3,3,45,5,5,1,0,6.8,1517.16,0‑interest EMI,2,Brand,Limited models,Wi‑Fi control;Quiet motor,Washer;Air‑purifier;Water‑heater,In‑store demos
+India,Metro,48,Female,Post‑grad,2,31728.16,198.6,1,49,4,4,1,1,13.6,1145.13,0‑interest EMI,1,Brand,Limited models,5‑Star rating;Solar compatibility,Water‑heater,Social media;Friends/Family
+Singapore,Metro,42,Male,Graduate,2,73720.26,513.7,1,39,5,5,1,1,7.7,3422.3,0‑interest EMI,3,Brand,Limited models,Compact design,AC,Online reviews;Friends/Family
+Singapore,Metro,32,Female,Secondary,4,108467.46,532.1,5,77,2,3,1,1,9.3,5344.45,Upfront,1,Brand,Low awareness,Solar compatibility,Refrigerator,In‑store demos;Social media;Friends/Family
+India,Metro,42,Male,Graduate,4,28143.1,246.1,2,37,1,2,1,0,3.2,2120.94,Upfront,0,Brand,Limited models,Quiet motor;Wi‑Fi control,Dishwasher;Washer,Online reviews;Friends/Family
+UAE,Metro,46,Female,Primary,3,60970.62,300.5,5,65,4,3,1,1,21.8,3374.02,BNPL,1,Brand,Limited models,5‑Star rating;Wi‑Fi control;Compact design,Air‑purifier;Water‑heater,Online reviews;Social media;In‑store demos
+India,Metro,25,Male,Secondary,1,30260.49,568.2,4,41,4,5,1,0,1.7,1020.48,0‑interest EMI,4,Brand,Low awareness,Compact design,Washer;Dishwasher,Online reviews;Social media
+Singapore,Metro,29,Male,Graduate,3,61694.01,159.9,4,68,2,3,1,1,10.1,2542.8,Upfront,0,Govt incentive,High cost,5‑Star rating,Washer,In‑store demos
+India,Rural,18,Male,Graduate,3,19512.66,236.3,2,43,2,3,1,1,4.1,637.69,0‑interest EMI,2,Energy saving,Uncertain savings,Solar compatibility;Quiet motor;Wi‑Fi control,Refrigerator;Water‑heater;Dishwasher,Social media
+India,Metro,22,Female,Secondary,2,24529.73,442.9,4,26,4,4,0,0,6.2,348.78,Rental,2,Up‑front price,Limited models,Wi‑Fi control,AC;Air‑purifier,Govt portals;Online reviews;Friends/Family
+Singapore,Metro,37,Female,Secondary,3,130999.4,296.9,6,67,3,3,0,1,8.7,6624.02,Upfront,1,Up‑front price,High cost,Compact design;Quiet motor;Wi‑Fi control,Air‑purifier,Friends/Family;Social media;In‑store demos
+UAE,Tier‑2 city,43,Female,Secondary,2,113306.37,471.4,5,53,2,3,1,1,7.7,6805.92,0‑interest EMI,3,Govt incentive,Other,Solar compatibility;Wi‑Fi control,Dishwasher,Friends/Family;Online reviews;Social media
+India,Tier‑2 city,18,Male,Primary,5,23076.19,251.7,2,42,4,4,0,1,13.3,479.27,0‑interest EMI,5,Brand,High cost,Compact design,Water‑heater,Govt portals
+India,Tier‑2 city,38,Male,Secondary,1,18726.97,548.8,1,35,3,2,1,0,7.2,1531.85,Upfront,4,Energy saving,Uncertain savings,Quiet motor;Compact design,Refrigerator,Social media;In‑store demos
+India,Metro,34,Female,Graduate,6,19846.36,567.6,2,43,1,1,0,0,2.6,989.01,0‑interest EMI,1,Peer reviews,High cost,Solar compatibility,AC;Washer,Govt portals;Social media;Online reviews
+India,Metro,33,Male,Post‑grad,4,23522.37,97.3,1,49,5,5,1,1,24.1,1504.01,Rental,3,Govt incentive,Other,Compact design;Solar compatibility,Air‑purifier,Friends/Family
+UAE,Metro,26,Female,Secondary,3,32290.33,474.5,2,43,2,3,1,0,2.5,1442.04,Upfront,0,Peer reviews,Uncertain savings,5‑Star rating;Solar compatibility;Wi‑Fi control,Refrigerator;AC,Online reviews;Friends/Family
+India,Rural,40,Male,Graduate,6,19387.84,290.0,6,49,4,3,0,0,4.4,830.68,Rental,0,Brand,Limited models,Wi‑Fi control,Washer,Online reviews
+India,Rural,20,Female,Primary,2,35232.17,265.7,2,31,2,2,1,0,6.0,1608.31,Upfront,3,Energy saving,Other,Wi‑Fi control;Quiet motor,Refrigerator,Online reviews
+India,Tier‑2 city,40,Female,Secondary,1,26431.03,289.1,2,41,3,3,0,0,4.5,1520.13,Upfront,1,Govt incentive,Limited models,Compact design;Quiet motor;Wi‑Fi control,Washer,Friends/Family;In‑store demos
+India,Metro,40,Female,Primary,3,17287.02,288.9,0,39,4,5,1,1,11.4,496.94,0‑interest EMI,4,Energy saving,Uncertain savings,Solar compatibility,Dishwasher,Govt portals
+India,Tier‑2 city,42,Male,Primary,2,31327.06,315.4,3,31,3,4,0,1,6.1,785.51,Upfront,4,Govt incentive,Low awareness,Wi‑Fi control,AC;Washer;Air‑purifier,Friends/Family;Online reviews
+UAE,Metro,25,Male,Secondary,10,106403.1,517.7,8,38,4,5,1,1,8.7,5428.07,Upfront,4,Energy saving,Limited models,5‑Star rating,Washer;Water‑heater;Air‑purifier,Social media;In‑store demos
+India,Metro,24,Female,Graduate,1,20985.43,242.9,3,35,4,4,1,0,5.8,579.56,Upfront,1,Peer reviews,Other,Quiet motor,Washer,Online reviews;Social media
+India,Metro,34,Female,Secondary,3,15051.78,232.3,1,0,1,2,1,1,3.6,899.66,Upfront,4,Energy saving,High cost,Compact design;Wi‑Fi control,AC;Air‑purifier;Dishwasher,Social media;Govt portals
+Singapore,Metro,37,Female,Secondary,3,60743.96,255.4,2,46,1,1,0,0,2.3,3032.38,0‑interest EMI,2,Energy saving,Limited models,Quiet motor,Air‑purifier;Refrigerator;Washer,Online reviews
+UAE,Metro,40,Male,Graduate,4,118821.52,338.8,10,67,4,3,1,1,7.4,6870.04,Upfront,2,Peer reviews,Uncertain savings,Solar compatibility;Wi‑Fi control;5‑Star rating,Dishwasher,Govt portals;Online reviews
+UAE,Metro,46,Female,Post‑grad,2,31058.24,682.3,3,51,4,5,1,0,2.5,2790.96,Upfront,4,Brand,Low awareness,5‑Star rating;Compact design,Refrigerator,Govt portals
+India,Tier‑2 city,29,Male,Graduate,6,11400.61,220.3,1,30,1,2,0,0,1.0,1232.17,Upfront,1,Brand,High cost,Solar compatibility,Dishwasher;AC;Washer,Friends/Family
+India,Metro,46,Female,Graduate,7,10324.46,152.4,2,32,3,2,1,0,3.2,50.0,Upfront,0,Govt incentive,Uncertain savings,Wi‑Fi control;Quiet motor,Air‑purifier;Dishwasher;Washer,In‑store demos;Online reviews
+India,Metro,18,Female,Secondary,2,18981.26,184.7,1,29,1,1,1,0,2.8,50.0,BNPL,4,Energy saving,Uncertain savings,5‑Star rating;Solar compatibility;Quiet motor,Dishwasher,In‑store demos
+India,Metro,34,Male,Graduate,1,29286.21,323.3,2,54,1,1,1,1,2.4,2249.17,0‑interest EMI,4,Brand,Limited models,5‑Star rating;Wi‑Fi control;Solar compatibility,Washer;Water‑heater,Social media;In‑store demos
+India,Metro,25,Female,Primary,5,24774.59,210.4,0,33,2,1,0,0,3.0,977.08,BNPL,3,Govt incentive,Limited models,5‑Star rating;Quiet motor,Water‑heater,Govt portals
+India,Metro,48,Other,Secondary,4,36490.14,378.3,5,58,1,1,0,0,5.4,1120.63,0‑interest EMI,3,Govt incentive,High cost,Solar compatibility,AC,Govt portals;In‑store demos;Friends/Family
+Singapore,Metro,26,Male,Primary,2,64581.44,248.9,1,45,2,1,1,0,8.3,3324.47,0‑interest EMI,0,Energy saving,Limited models,Solar compatibility,Air‑purifier;AC,In‑store demos
+UAE,Metro,27,Male,Secondary,3,59445.03,648.0,5,25,4,4,0,0,6.4,3137.79,Upfront,3,Brand,Uncertain savings,Wi‑Fi control;Compact design,Dishwasher;Refrigerator,Govt portals;Online reviews;Friends/Family
+UAE,Metro,39,Female,Graduate,4,62455.81,562.0,5,8,3,4,0,0,6.0,3311.59,BNPL,4,Brand,High cost,Quiet motor,Water‑heater;Dishwasher,Online reviews
+UAE,Metro,33,Female,Secondary,3,38344.46,669.1,4,46,4,4,0,1,15.3,1803.67,0‑interest EMI,1,Peer reviews,Uncertain savings,Compact design,Refrigerator;Washer;Air‑purifier,Govt portals;Friends/Family
+India,Tier‑2 city,38,Male,Graduate,3,16948.58,293.0,1,32,5,4,1,1,15.6,1068.56,Upfront,3,Peer reviews,Limited models,Compact design;5‑Star rating,Dishwasher;Refrigerator,Social media
+India,Tier‑2 city,41,Male,Secondary,3,16389.51,309.2,3,83,3,4,0,1,10.0,606.77,Upfront,3,Govt incentive,Uncertain savings,Quiet motor,AC;Water‑heater,Govt portals;Friends/Family;In‑store demos
+India,Metro,28,Male,Secondary,4,15878.65,330.4,2,32,3,2,1,0,3.9,1170.91,Rental,4,Energy saving,Other,Compact design;Wi‑Fi control;Solar compatibility,Dishwasher,Social media;Friends/Family;In‑store demos
+Singapore,Metro,34,Male,Graduate,1,113227.4,741.6,6,72,2,1,1,1,7.1,6318.6,0‑interest EMI,2,Up‑front price,Other,Quiet motor;5‑Star rating,Washer;AC;Dishwasher,In‑store demos;Govt portals
+India,Metro,36,Female,Post‑grad,2,22488.11,417.2,4,22,3,3,1,1,11.7,942.14,0‑interest EMI,1,Energy saving,Uncertain savings,Quiet motor,Washer,Social media;Friends/Family
+India,Metro,31,Female,Graduate,3,23992.19,385.2,3,64,4,5,0,1,6.2,1041.31,0‑interest EMI,1,Energy saving,Other,Solar compatibility,AC;Washer;Refrigerator,In‑store demos;Online reviews
+India,Tier‑2 city,27,Female,Post‑grad,2,39580.42,305.2,2,50,2,2,1,0,3.6,2186.52,0‑interest EMI,1,Govt incentive,Low awareness,Compact design;Solar compatibility,Washer,Social media;Friends/Family
+Singapore,Metro,26,Female,Secondary,2,68998.53,103.1,5,95,1,1,1,1,7.5,2908.46,Upfront,3,Energy saving,Limited models,Wi‑Fi control;Quiet motor;5‑Star rating,AC;Refrigerator,Social media;Online reviews;In‑store demos
+Singapore,Metro,36,Female,Graduate,2,110184.85,192.5,10,58,5,5,1,1,18.6,5374.99,0‑interest EMI,0,Up‑front price,Uncertain savings,Quiet motor,Refrigerator,Social media
+India,Metro,26,Male,Secondary,3,46228.33,384.3,2,43,3,4,1,1,9.4,2472.19,0‑interest EMI,5,Govt incentive,Uncertain savings,5‑Star rating;Wi‑Fi control,Refrigerator,Govt portals;Online reviews;Friends/Family
+India,Rural,37,Male,Post‑grad,2,15721.21,233.6,3,25,5,5,1,1,10.9,613.88,BNPL,3,Energy saving,Uncertain savings,Quiet motor;Solar compatibility;5‑Star rating,Dishwasher,Friends/Family
+Singapore,Metro,33,Female,Secondary,2,88777.09,271.7,1,84,3,4,1,1,6.5,4546.19,Upfront,4,Peer reviews,Uncertain savings,Compact design,Refrigerator;Dishwasher,In‑store demos
+Singapore,Metro,18,Male,Secondary,5,82174.85,343.4,8,72,1,1,0,0,5.4,3990.45,Upfront,4,Energy saving,High cost,Wi‑Fi control,Air‑purifier,In‑store demos;Govt portals;Online reviews
+UAE,Metro,38,Female,Graduate,3,47631.06,227.2,4,40,4,5,0,1,17.2,1763.0,Rental,2,Up‑front price,High cost,5‑Star rating;Solar compatibility,Washer,Friends/Family;Social media;In‑store demos
+Singapore,Metro,48,Male,Secondary,7,90851.96,296.7,5,66,1,1,0,0,4.0,4946.83,Upfront,1,Up‑front price,Low awareness,Compact design;Solar compatibility,AC,Friends/Family;Online reviews;Social media
+UAE,Metro,27,Male,Primary,3,50343.43,787.6,4,43,3,2,0,0,2.4,2797.99,0‑interest EMI,3,Brand,Low awareness,Wi‑Fi control,Water‑heater,Friends/Family
+India,Rural,39,Male,Secondary,1,9600.9,255.6,0,39,4,4,1,0,5.0,956.92,BNPL,2,Brand,Other,Compact design;5‑Star rating,AC;Washer,Social media;In‑store demos;Govt portals
+India,Tier‑2 city,26,Female,Primary,2,39341.36,647.2,4,17,5,4,1,1,11.3,2374.28,Upfront,3,Up‑front price,High cost,Quiet motor;Compact design,Refrigerator;Air‑purifier,Friends/Family
+Singapore,Metro,40,Male,Graduate,2,192997.76,224.8,10,80,3,3,1,1,6.5,10227.22,Upfront,3,Energy saving,Other,5‑Star rating,Water‑heater,Social media;Friends/Family;In‑store demos
+India,Metro,39,Male,Post‑grad,2,15623.2,269.8,0,39,3,4,1,1,5.3,1160.31,0‑interest EMI,2,Govt incentive,High cost,Wi‑Fi control;5‑Star rating,Refrigerator,In‑store demos;Govt portals
+India,Metro,33,Male,Secondary,4,18527.05,188.8,4,21,1,2,1,0,2.9,751.9,BNPL,3,Brand,Other,5‑Star rating;Compact design;Wi‑Fi control,Refrigerator;Air‑purifier,In‑store demos
+India,Metro,36,Female,Graduate,4,136845.27,207.7,10,47,1,1,0,1,2.8,6693.23,Upfront,3,Govt incentive,Other,Quiet motor;Solar compatibility,Air‑purifier;Refrigerator,Friends/Family;Govt portals;In‑store demos
+India,Metro,34,Male,Secondary,2,27943.35,177.3,2,63,3,4,1,1,8.6,1412.98,BNPL,4,Peer reviews,Uncertain savings,Wi‑Fi control;5‑Star rating,AC,Social media;In‑store demos;Online reviews
+India,Tier‑2 city,35,Male,Secondary,1,14607.92,287.7,1,4,2,2,0,1,3.3,561.18,0‑interest EMI,4,Energy saving,Limited models,Wi‑Fi control;Compact design,Washer,Govt portals
+India,Tier‑2 city,23,Male,Secondary,3,21125.15,288.5,1,24,4,3,0,1,18.3,802.11,BNPL,3,Govt incentive,Low awareness,Wi‑Fi control,Dishwasher;Washer,Friends/Family;Govt portals;In‑store demos
+Singapore,Metro,29,Male,Primary,2,102669.99,162.3,4,36,2,3,1,1,10.2,4869.67,Upfront,1,Up‑front price,Other,5‑Star rating;Quiet motor;Compact design,Air‑purifier;AC;Water‑heater,Friends/Family;Govt portals
+India,Rural,30,Male,Secondary,2,14961.54,324.1,3,53,5,5,0,1,10.4,610.86,0‑interest EMI,3,Energy saving,High cost,Quiet motor,Dishwasher;Washer,Govt portals;Online reviews
+India,Metro,26,Female,Primary,4,14576.85,184.7,4,23,3,2,1,0,5.6,731.64,Upfront,1,Govt incentive,Low awareness,Quiet motor,Air‑purifier,Online reviews
+Singapore,Metro,37,Female,Primary,3,119648.61,195.5,6,72,5,4,1,1,13.9,5498.13,Upfront,3,Govt incentive,Limited models,Compact design,Air‑purifier;Water‑heater,Friends/Family;Govt portals
+Singapore,Metro,30,Male,Graduate,2,89560.01,341.0,4,27,2,2,0,1,13.1,4693.38,0‑interest EMI,2,Energy saving,Limited models,Compact design;5‑Star rating,AC;Air‑purifier,Online reviews;Social media
+UAE,Metro,46,Female,Secondary,3,86304.08,377.9,5,51,2,2,0,1,6.9,3803.17,Upfront,2,Govt incentive,Limited models,5‑Star rating;Compact design,Dishwasher,Govt portals;Friends/Family;Online reviews
+Singapore,Metro,35,Female,Secondary,4,126671.46,299.2,10,67,2,1,1,0,2.0,6929.83,Upfront,1,Brand,Uncertain savings,Wi‑Fi control;5‑Star rating;Solar compatibility,AC,Online reviews;Social media
+UAE,Tier‑2 city,21,Male,Graduate,4,47071.11,279.8,2,37,2,1,1,0,5.0,2477.06,0‑interest EMI,2,Energy saving,Low awareness,Solar compatibility;Compact design;Wi‑Fi control,Water‑heater,In‑store demos
+UAE,Metro,36,Female,Post‑grad,1,46727.16,326.7,1,42,4,4,0,1,22.0,1396.78,0‑interest EMI,3,Govt incentive,High cost,Wi‑Fi control;Compact design;5‑Star rating,Water‑heater;Refrigerator;Dishwasher,Govt portals;Online reviews;Social media
+Singapore,Metro,33,Female,Graduate,2,65642.14,233.6,7,52,1,2,1,0,1.3,3488.63,Upfront,3,Up‑front price,Other,Compact design,AC;Refrigerator,Online reviews;Govt portals
+UAE,Metro,29,Female,Secondary,3,86094.51,619.3,6,82,4,4,0,0,2.7,3739.91,Upfront,0,Govt incentive,High cost,Compact design,Refrigerator;Dishwasher,Online reviews;Govt portals
+Singapore,Metro,48,Male,Graduate,2,116828.9,457.2,2,88,3,2,0,0,5.9,5025.47,Upfront,1,Energy saving,Other,Wi‑Fi control;Compact design;Solar compatibility,Refrigerator,Friends/Family
+India,Metro,50,Female,Secondary,2,18700.31,226.3,2,20,5,4,0,1,13.6,1385.41,0‑interest EMI,1,Up‑front price,Other,Quiet motor;Wi‑Fi control,Dishwasher,In‑store demos;Govt portals
+India,Rural,26,Male,Graduate,1,21333.09,277.2,3,23,4,3,1,0,5.0,867.8,Upfront,3,Peer reviews,Limited models,Quiet motor;Solar compatibility,Washer;Water‑heater;AC,Govt portals
+UAE,Metro,32,Female,Post‑grad,3,96656.49,266.2,6,46,2,1,0,1,3.0,4583.54,Upfront,4,Brand,Other,Quiet motor;Solar compatibility;Compact design,Water‑heater;Air‑purifier;Dishwasher,Online reviews;Social media;Govt portals
+India,Tier‑2 city,28,Female,Graduate,3,25847.06,249.9,3,47,2,3,0,0,3.4,1601.53,BNPL,4,Energy saving,Uncertain savings,Quiet motor;Wi‑Fi control;5‑Star rating,Refrigerator;Dishwasher;AC,Social media;Friends/Family;Govt portals
+UAE,Metro,23,Female,Primary,5,84548.63,453.6,5,38,2,2,0,0,6.1,4655.73,0‑interest EMI,2,Up‑front price,Limited models,Quiet motor;Compact design,Water‑heater,Social media;Friends/Family;In‑store demos
+UAE,Metro,48,Female,Graduate,1,57464.83,203.2,1,46,4,5,1,1,12.0,2565.26,Upfront,2,Up‑front price,Uncertain savings,Wi‑Fi control,Dishwasher;Water‑heater,In‑store demos
+UAE,Metro,25,Female,Secondary,3,56824.87,638.1,4,25,2,2,0,0,2.0,2591.02,Upfront,3,Energy saving,High cost,5‑Star rating;Solar compatibility,Washer;AC;Water‑heater,Online reviews
+UAE,Metro,53,Female,Secondary,3,89259.11,298.5,6,49,2,3,1,1,3.2,5066.05,Upfront,0,Brand,Other,Solar compatibility;Wi‑Fi control,Air‑purifier,Friends/Family
+India,Metro,18,Male,Secondary,3,15392.37,210.0,1,48,1,2,1,1,10.9,1198.48,Rental,3,Peer reviews,Uncertain savings,5‑Star rating,AC;Air‑purifier;Water‑heater,Online reviews;Friends/Family
+UAE,Metro,59,Male,Primary,2,82740.18,415.3,4,78,3,4,1,1,10.7,3545.64,Upfront,1,Govt incentive,Limited models,Wi‑Fi control,Refrigerator;Dishwasher;AC,Govt portals
+Singapore,Metro,43,Male,Secondary,1,203512.04,364.6,10,87,3,2,0,1,7.5,10028.02,Upfront,1,Energy saving,Uncertain savings,Solar compatibility;Compact design,Washer;Dishwasher,In‑store demos;Friends/Family;Social media
+India,Metro,25,Male,Primary,1,28457.12,297.1,0,50,4,4,0,0,3.1,675.06,Rental,2,Up‑front price,Limited models,Wi‑Fi control;Solar compatibility;Quiet motor,Refrigerator,Govt portals;Online reviews;In‑store demos
+UAE,Metro,35,Female,Secondary,3,39258.79,286.9,3,54,4,5,1,1,16.1,1720.95,BNPL,2,Up‑front price,Uncertain savings,Compact design,Refrigerator;Dishwasher,In‑store demos;Social media;Online reviews
+India,Metro,34,Female,Primary,2,19090.43,201.0,3,24,5,5,0,1,14.0,1310.24,BNPL,2,Up‑front price,Limited models,5‑Star rating;Quiet motor,Dishwasher;Refrigerator,Social media;Online reviews
+UAE,Metro,31,Female,Post‑grad,2,50767.02,411.8,4,68,5,5,0,1,20.3,2716.37,0‑interest EMI,0,Up‑front price,Limited models,Wi‑Fi control;Compact design,Washer;Refrigerator;AC,Friends/Family;Social media;Govt portals
+India,Metro,34,Male,Post‑grad,2,11888.13,124.5,0,54,3,2,0,0,4.8,50.0,Upfront,2,Brand,Uncertain savings,Solar compatibility;Quiet motor,AC;Air‑purifier,Friends/Family;Govt portals
+Singapore,Metro,31,Female,Primary,6,117227.92,314.9,4,56,2,3,1,1,5.4,6171.05,Rental,3,Up‑front price,Low awareness,Quiet motor;Compact design,Water‑heater;Dishwasher;Refrigerator,Social media
+UAE,Metro,18,Male,Secondary,7,53510.71,345.1,2,20,4,5,0,1,15.1,2244.55,Upfront,4,Energy saving,High cost,Wi‑Fi control;Solar compatibility;Quiet motor,Air‑purifier;Water‑heater;AC,Social media;Govt portals
+India,Metro,56,Male,Graduate,3,20248.34,453.0,2,36,3,3,0,1,6.1,673.96,Upfront,1,Govt incentive,Limited models,5‑Star rating,Washer,Govt portals;Social media;Online reviews
+UAE,Metro,31,Male,Secondary,3,43269.96,134.4,3,61,1,1,0,0,3.5,2040.51,0‑interest EMI,2,Up‑front price,Low awareness,Solar compatibility;Wi‑Fi control;5‑Star rating,Water‑heater;AC;Dishwasher,Online reviews
+India,Metro,33,Female,Graduate,4,16085.53,270.5,4,47,4,5,1,1,6.4,848.26,0‑interest EMI,2,Govt incentive,Low awareness,Compact design;Wi‑Fi control,Air‑purifier,In‑store demos;Online reviews;Social media
+Singapore,Metro,32,Male,Graduate,2,111601.38,298.5,3,55,1,2,1,0,2.6,5543.42,Upfront,4,Up‑front price,Low awareness,Wi‑Fi control;Solar compatibility;Compact design,Air‑purifier,Govt portals;Friends/Family;In‑store demos
+India,Metro,35,Male,Primary,9,14290.21,109.3,3,28,2,1,0,0,1.7,592.65,0‑interest EMI,2,Brand,High cost,5‑Star rating,AC,In‑store demos
+India,Metro,41,Male,Secondary,4,12183.27,174.4,6,22,1,1,0,0,1.0,1422.63,0‑interest EMI,1,Energy saving,Low awareness,5‑Star rating;Solar compatibility;Compact design,Air‑purifier,Online reviews;Friends/Family
+India,Tier‑2 city,24,Female,Graduate,5,44049.35,282.3,4,52,4,3,0,0,6.7,3073.01,BNPL,1,Energy saving,Limited models,Solar compatibility,Refrigerator,Online reviews;Govt portals
+India,Metro,23,Female,Secondary,1,32099.04,101.6,4,23,1,2,0,0,3.5,1773.35,0‑interest EMI,4,Up‑front price,Other,5‑Star rating;Quiet motor,Air‑purifier,Friends/Family;Online reviews
+Singapore,Metro,25,Female,Secondary,2,88944.66,279.8,8,81,2,2,1,1,6.6,5412.2,Upfront,0,Govt incentive,Low awareness,Wi‑Fi control,Air‑purifier,Govt portals;Social media
+India,Tier‑2 city,27,Female,Post‑grad,3,46402.28,150.0,6,33,5,5,1,1,16.0,2476.99,Upfront,4,Brand,Low awareness,Wi‑Fi control;Compact design;Quiet motor,Washer,Social media;Online reviews;Friends/Family
+India,Metro,21,Other,Primary,3,18858.19,431.3,2,43,1,1,1,0,1.6,2068.67,0‑interest EMI,0,Energy saving,Limited models,Wi‑Fi control,Air‑purifier;AC;Washer,In‑store demos;Online reviews
+India,Tier‑2 city,25,Male,Secondary,4,20775.66,152.1,2,31,3,4,0,0,2.5,1792.97,BNPL,1,Peer reviews,Uncertain savings,Wi‑Fi control;Compact design,Washer;AC;Water‑heater,Govt portals
+UAE,Metro,47,Female,Primary,4,29169.43,212.8,2,49,3,2,0,1,17.0,1798.41,0‑interest EMI,4,Energy saving,Limited models,Solar compatibility;5‑Star rating,Water‑heater,Govt portals;Social media;In‑store demos
+India,Tier‑2 city,33,Male,Graduate,3,23193.65,147.2,5,25,5,5,0,1,6.4,466.9,0‑interest EMI,5,Up‑front price,Other,Wi‑Fi control;5‑Star rating;Solar compatibility,Dishwasher;AC,Govt portals
+Singapore,Metro,41,Male,Secondary,3,91584.15,280.0,5,44,1,1,0,0,2.4,3728.96,Upfront,3,Govt incentive,Other,Compact design,AC;Washer,Social media;Online reviews
+Singapore,Metro,18,Male,Secondary,2,84823.72,428.5,6,33,2,2,1,1,3.6,4411.45,Upfront,4,Up‑front price,Limited models,5‑Star rating;Solar compatibility,Washer;Water‑heater,Friends/Family;Online reviews
+Singapore,Metro,28,Female,Secondary,2,74398.77,535.2,7,61,4,5,1,1,17.2,3567.77,Upfront,2,Up‑front price,Other,Quiet motor;5‑Star rating;Wi‑Fi control,Refrigerator;AC,Social media;Online reviews
+India,Tier‑2 city,47,Female,Secondary,3,27601.03,377.5,1,33,1,2,0,0,3.1,1570.42,Rental,5,Energy saving,Limited models,Compact design,AC,In‑store demos
+India,Metro,37,Female,Post‑grad,2,11699.25,103.0,1,64,5,5,0,1,19.2,1031.53,0‑interest EMI,2,Peer reviews,Low awareness,Solar compatibility;Compact design;5‑Star rating,Air‑purifier;Washer;AC,Friends/Family
+India,Tier‑2 city,46,Male,Post‑grad,5,15098.41,498.6,5,39,5,4,0,0,9.3,474.73,BNPL,5,Peer reviews,Uncertain savings,Solar compatibility;Wi‑Fi control;Quiet motor,Refrigerator;Dishwasher;Water‑heater,Online reviews;In‑store demos;Govt portals
+UAE,Metro,18,Female,Primary,2,80109.21,484.8,5,60,2,1,1,1,4.7,4256.93,0‑interest EMI,5,Up‑front price,High cost,Solar compatibility,Water‑heater;Dishwasher;Air‑purifier,Friends/Family
+India,Metro,39,Female,Graduate,7,31798.48,153.5,4,62,2,2,0,1,13.6,1791.32,Upfront,3,Govt incentive,Limited models,Solar compatibility,AC;Dishwasher;Water‑heater,Friends/Family;In‑store demos;Govt portals
+India,Tier‑2 city,33,Female,Graduate,4,12853.79,217.8,2,46,5,4,0,0,6.7,50.0,Upfront,1,Peer reviews,Uncertain savings,Wi‑Fi control;Quiet motor,AC,In‑store demos
+India,Metro,25,Female,Graduate,4,13178.75,258.0,1,27,2,2,1,1,6.9,50.0,Rental,4,Brand,Low awareness,5‑Star rating,Air‑purifier;Refrigerator,Friends/Family;Social media
+UAE,Metro,49,Female,Graduate,2,60608.32,642.7,6,50,3,4,1,1,10.1,3256.51,0‑interest EMI,2,Up‑front price,Other,Quiet motor;Compact design,Water‑heater;Air‑purifier;Washer,Govt portals
+India,Tier‑2 city,18,Male,Graduate,5,17235.44,198.0,2,62,3,2,0,0,7.6,130.14,0‑interest EMI,3,Brand,Limited models,Solar compatibility,Washer;AC,Govt portals
+Singapore,Metro,22,Male,Graduate,4,79959.02,393.6,8,20,3,4,1,1,13.0,4501.83,BNPL,4,Up‑front price,Limited models,5‑Star rating;Solar compatibility;Wi‑Fi control,Refrigerator;Air‑purifier,Social media;Friends/Family
+India,Metro,35,Female,Graduate,3,14843.59,277.3,3,22,5,5,0,1,7.7,997.27,0‑interest EMI,3,Peer reviews,Uncertain savings,Solar compatibility,AC,In‑store demos;Social media
+India,Metro,43,Male,Graduate,2,18390.84,309.2,3,30,4,4,1,1,11.7,442.82,0‑interest EMI,0,Peer reviews,Other,5‑Star rating,Washer;AC,Govt portals
+UAE,Metro,33,Other,Post‑grad,3,65611.03,700.8,5,53,1,1,0,0,6.4,3211.27,Upfront,6,Brand,Uncertain savings,Quiet motor,Water‑heater;AC,Friends/Family
+India,Metro,42,Other,Graduate,6,33966.98,279.6,5,52,4,5,1,1,9.8,2145.24,0‑interest EMI,2,Up‑front price,Uncertain savings,Compact design;Wi‑Fi control;Quiet motor,Water‑heater;AC;Refrigerator,Social media;Govt portals;In‑store demos
+India,Metro,20,Male,Graduate,2,13589.88,403.2,6,59,1,2,0,0,2.6,50.0,0‑interest EMI,2,Up‑front price,High cost,Quiet motor;Solar compatibility;5‑Star rating,Water‑heater,Social media;In‑store demos
+India,Tier‑2 city,32,Male,Graduate,3,11967.18,206.8,3,33,5,4,1,1,22.8,50.0,0‑interest EMI,3,Up‑front price,Other,Compact design,Dishwasher;Washer,Online reviews
+India,Rural,38,Female,Secondary,4,50794.29,150.8,6,45,2,2,1,0,1.0,2407.18,0‑interest EMI,3,Govt incentive,Uncertain savings,Wi‑Fi control;Compact design,Refrigerator;Dishwasher,In‑store demos;Friends/Family
+Singapore,Metro,46,Male,Graduate,2,155925.89,531.1,7,82,2,2,0,1,6.9,7608.14,Upfront,0,Peer reviews,Limited models,5‑Star rating,AC,Govt portals
+India,Tier‑2 city,43,Female,Graduate,2,18727.7,175.6,3,28,2,3,1,0,2.3,1432.0,Upfront,0,Peer reviews,High cost,5‑Star rating;Compact design,Dishwasher;Air‑purifier,Friends/Family;In‑store demos
+India,Metro,37,Female,Graduate,3,22878.57,331.1,1,0,3,3,1,1,8.9,1728.24,Upfront,0,Govt incentive,Uncertain savings,Wi‑Fi control;Solar compatibility,Refrigerator;Washer;AC,In‑store demos;Friends/Family;Social media
+Singapore,Metro,31,Male,Primary,4,125237.36,212.0,9,44,1,1,1,1,5.9,6637.15,Upfront,4,Up‑front price,Other,Compact design;Solar compatibility;Quiet motor,Refrigerator;AC;Water‑heater,Govt portals;Friends/Family;Online reviews
+UAE,Metro,32,Female,Graduate,3,87326.26,340.1,9,62,1,1,1,0,3.6,5157.51,Rental,3,Brand,Other,5‑Star rating;Wi‑Fi control;Quiet motor,Washer;Water‑heater,In‑store demos;Online reviews;Friends/Family
+India,Metro,48,Male,Graduate,1,25572.2,192.5,3,54,4,3,0,1,18.5,676.99,Rental,2,Govt incentive,Other,5‑Star rating,Dishwasher,Friends/Family
+Singapore,Tier‑2 city,56,Male,Graduate,2,89655.1,348.9,3,35,5,5,1,1,9.9,3993.3,Upfront,3,Brand,Other,Compact design;Solar compatibility;Wi‑Fi control,Dishwasher,Online reviews;In‑store demos;Govt portals
+UAE,Metro,39,Male,Graduate,3,48352.89,363.2,5,37,4,3,0,0,5.4,2235.49,0‑interest EMI,0,Brand,Limited models,Compact design;Quiet motor;5‑Star rating,Dishwasher;Air‑purifier;AC,Govt portals
+India,Metro,40,Female,Secondary,2,19423.15,191.8,1,16,1,2,0,0,2.3,1680.01,Rental,3,Up‑front price,High cost,Solar compatibility;5‑Star rating;Compact design,Refrigerator;Washer,In‑store demos;Online reviews
+India,Metro,25,Female,Secondary,6,21998.91,411.2,1,41,2,3,1,1,6.5,921.13,Upfront,4,Brand,Limited models,Solar compatibility;Quiet motor,Dishwasher;Water‑heater;Air‑purifier,Social media;Govt portals
+UAE,Metro,26,Female,Secondary,1,58840.53,205.6,2,43,3,2,0,1,18.7,4031.47,Upfront,2,Brand,Limited models,Compact design;Wi‑Fi control,Dishwasher,In‑store demos;Friends/Family;Social media
+Singapore,Tier‑2 city,42,Male,Secondary,1,46430.81,503.9,2,45,5,4,1,1,15.9,2032.93,Upfront,3,Brand,Other,Solar compatibility;Wi‑Fi control;5‑Star rating,Air‑purifier;Refrigerator;Water‑heater,In‑store demos;Govt portals
+India,Metro,40,Male,Graduate,1,20978.29,338.0,5,30,5,5,0,1,7.8,1416.25,Upfront,4,Govt incentive,High cost,Compact design;5‑Star rating;Wi‑Fi control,Dishwasher;Washer,Social media;In‑store demos
+India,Tier‑2 city,37,Female,Post‑grad,2,18120.72,397.2,2,45,3,3,0,1,12.1,1918.48,BNPL,1,Brand,Uncertain savings,Compact design;Solar compatibility,Refrigerator;Air‑purifier;Dishwasher,Friends/Family;Social media
+UAE,Metro,43,Male,Graduate,5,72744.36,574.4,3,53,4,4,1,1,10.2,3824.06,Upfront,5,Peer reviews,Low awareness,Wi‑Fi control;Solar compatibility,Washer;AC,Social media;Friends/Family;Govt portals
+UAE,Metro,34,Female,Primary,4,67503.44,222.3,6,47,3,3,0,1,6.0,3421.66,Upfront,2,Up‑front price,Limited models,Wi‑Fi control,Air‑purifier;Dishwasher,Social media;In‑store demos;Online reviews
+Singapore,Metro,22,Female,Graduate,2,101210.93,208.3,5,55,4,5,0,1,19.8,4765.89,BNPL,2,Brand,Low awareness,Quiet motor;Wi‑Fi control;5‑Star rating,Water‑heater;Washer,Govt portals
+India,Rural,32,Male,Graduate,5,28068.77,160.8,1,43,1,1,0,0,1.6,860.07,BNPL,4,Up‑front price,Uncertain savings,Solar compatibility;Compact design,Water‑heater,Govt portals;Online reviews;In‑store demos
+India,Tier‑2 city,18,Female,Secondary,2,28863.79,409.1,1,62,5,4,0,1,10.5,1046.92,0‑interest EMI,2,Peer reviews,Other,Quiet motor,Washer,Friends/Family
+UAE,Metro,18,Male,Secondary,2,55634.33,405.6,4,42,2,2,1,1,10.3,2469.54,Upfront,2,Brand,High cost,Wi‑Fi control;5‑Star rating;Compact design,Refrigerator,Social media;Govt portals
+UAE,Metro,19,Male,Secondary,2,33413.01,300.9,5,34,2,2,1,0,7.1,1687.68,Rental,3,Govt incentive,High cost,Solar compatibility,Refrigerator,In‑store demos
+Singapore,Metro,44,Female,Graduate,3,92338.8,288.3,6,53,1,2,1,1,8.6,4199.99,Upfront,3,Brand,Other,5‑Star rating,Dishwasher;Water‑heater;Washer,Social media
+India,Tier‑2 city,22,Male,Secondary,6,21293.06,164.8,2,32,3,4,1,1,9.8,1549.39,BNPL,5,Govt incentive,Uncertain savings,5‑Star rating,Refrigerator;Washer;Water‑heater,Govt portals;In‑store demos;Online reviews
+India,Metro,34,Male,Secondary,1,22340.87,283.2,1,40,2,2,0,0,5.2,1673.55,Rental,3,Energy saving,Uncertain savings,Quiet motor,Air‑purifier,Friends/Family;Online reviews
+India,Metro,37,Female,Secondary,2,19122.18,199.3,2,41,4,5,0,1,7.5,1081.2,Rental,2,Peer reviews,Other,5‑Star rating,Water‑heater;Refrigerator;AC,In‑store demos;Online reviews;Govt portals
+UAE,Metro,19,Other,Graduate,2,40196.79,290.3,2,40,1,2,1,0,0.9,1958.04,0‑interest EMI,3,Brand,Uncertain savings,Compact design;Solar compatibility,Water‑heater;Dishwasher;Air‑purifier,Govt portals;Friends/Family;In‑store demos
+UAE,Metro,22,Male,Secondary,7,38560.11,275.6,3,50,5,5,0,1,14.2,2317.19,BNPL,4,Govt incentive,Low awareness,Wi‑Fi control;Quiet motor,Refrigerator;Dishwasher;Water‑heater,Social media;Friends/Family
+UAE,Metro,30,Female,Graduate,2,88520.57,274.8,3,40,1,2,1,1,3.2,4274.4,0‑interest EMI,5,Up‑front price,High cost,Quiet motor;5‑Star rating,Dishwasher;Water‑heater;AC,Social media;Govt portals
+UAE,Tier‑2 city,18,Female,Graduate,4,52219.89,600.4,4,47,5,4,1,0,4.6,2057.08,Rental,2,Brand,Low awareness,Solar compatibility;5‑Star rating,Water‑heater;Refrigerator;Washer,Friends/Family;Online reviews
+India,Tier‑2 city,25,Male,Graduate,1,23856.95,150.6,1,30,4,3,0,1,13.9,1345.7,0‑interest EMI,2,Energy saving,Limited models,Compact design,Water‑heater;AC;Refrigerator,Social media;Online reviews;Govt portals
+India,Metro,42,Male,Secondary,4,16032.53,555.5,2,30,5,5,0,0,4.3,79.11,Rental,4,Energy saving,Uncertain savings,5‑Star rating;Compact design,Refrigerator;Washer,Friends/Family;Govt portals
+UAE,Metro,41,Male,Graduate,4,136949.28,337.8,3,65,1,2,1,0,3.4,6993.42,Upfront,3,Govt incentive,Uncertain savings,Solar compatibility,AC;Refrigerator;Washer,Online reviews;In‑store demos
+India,Tier‑2 city,36,Female,Secondary,4,10261.59,798.4,1,54,3,3,1,0,8.3,653.38,Rental,0,Peer reviews,Uncertain savings,Quiet motor;5‑Star rating,Air‑purifier;Dishwasher,Govt portals;Social media;In‑store demos
+India,Tier‑2 city,50,Male,Graduate,3,9398.63,172.9,1,44,4,3,1,1,4.9,50.0,Upfront,4,Govt incentive,Other,Compact design;Wi‑Fi control;Solar compatibility,Refrigerator;Air‑purifier;Water‑heater,In‑store demos;Social media;Govt portals
+UAE,Metro,26,Female,Post‑grad,1,39962.58,441.1,7,39,2,3,0,0,4.7,976.21,Upfront,3,Up‑front price,Uncertain savings,Solar compatibility,Dishwasher;Washer;Air‑purifier,Govt portals;In‑store demos
+UAE,Metro,32,Male,Graduate,1,157849.73,459.1,9,91,2,2,1,1,4.8,8498.87,Upfront,4,Peer reviews,Other,Solar compatibility;Compact design;Wi‑Fi control,Washer,Social media;Online reviews
+UAE,Metro,39,Female,Primary,1,41654.72,225.4,2,54,1,2,1,0,0.8,1550.11,BNPL,1,Brand,Uncertain savings,5‑Star rating,Air‑purifier;Water‑heater,In‑store demos
+India,Tier‑2 city,29,Female,Graduate,9,13881.36,313.9,1,41,5,4,1,1,12.5,319.5,Rental,2,Brand,High cost,Compact design;Solar compatibility,Refrigerator,Online reviews;In‑store demos
+Singapore,Metro,42,Other,Primary,3,91330.64,451.2,5,67,2,2,1,0,7.8,3987.65,Upfront,2,Brand,High cost,Wi‑Fi control,Air‑purifier;Water‑heater,Social media
+India,Metro,46,Male,Secondary,3,41399.22,363.1,4,28,1,2,0,0,4.5,1663.81,0‑interest EMI,2,Peer reviews,Limited models,Solar compatibility,Dishwasher;Air‑purifier;Water‑heater,Online reviews;In‑store demos;Friends/Family
+Singapore,Metro,23,Male,Primary,4,54285.89,201.2,3,47,4,4,1,1,8.5,2835.84,Upfront,0,Peer reviews,Low awareness,Wi‑Fi control,AC,Social media;Friends/Family
+UAE,Metro,48,Male,Post‑grad,5,33759.6,225.3,1,24,5,4,0,1,8.2,1454.75,BNPL,4,Up‑front price,Low awareness,Compact design,AC;Water‑heater,Social media;Friends/Family;Govt portals
+Singapore,Metro,35,Female,Secondary,1,75191.1,162.4,5,50,5,5,1,1,25.6,4390.18,0‑interest EMI,0,Brand,High cost,Compact design;Solar compatibility;Quiet motor,Washer;Water‑heater;Refrigerator,Govt portals;Social media;Online reviews
+UAE,Metro,34,Male,Graduate,4,100769.08,312.1,4,49,2,2,0,1,9.1,4449.91,Upfront,5,Peer reviews,High cost,Wi‑Fi control;Solar compatibility,Air‑purifier,In‑store demos;Friends/Family
+Singapore,Metro,37,Female,Primary,6,59668.06,292.2,6,42,5,4,1,1,16.9,3039.2,Upfront,3,Up‑front price,Low awareness,Solar compatibility;Compact design,Refrigerator,Social media;Govt portals;Online reviews
+India,Metro,36,Male,Primary,2,24585.71,262.7,1,48,2,3,0,1,5.5,1175.54,0‑interest EMI,3,Brand,High cost,Solar compatibility;Wi‑Fi control;5‑Star rating,Washer,Online reviews;Govt portals;Friends/Family
+India,Tier‑2 city,55,Female,Graduate,1,13611.85,381.9,0,10,3,4,0,0,3.7,690.69,Upfront,6,Up‑front price,High cost,Wi‑Fi control;Quiet motor;5‑Star rating,Washer,In‑store demos
+India,Tier‑2 city,32,Female,Secondary,4,25239.26,331.6,3,50,5,5,0,1,12.7,789.63,0‑interest EMI,3,Energy saving,Limited models,Compact design;Solar compatibility,Dishwasher,In‑store demos;Social media;Online reviews
+India,Metro,42,Female,Graduate,4,46743.54,235.1,5,49,4,5,0,1,15.3,2334.17,Upfront,4,Peer reviews,High cost,Compact design;Solar compatibility,Refrigerator;Dishwasher,Friends/Family;Online reviews
+UAE,Metro,18,Female,Secondary,2,129349.12,234.6,9,64,2,3,0,0,2.0,6858.02,Rental,1,Brand,Uncertain savings,Solar compatibility;5‑Star rating;Wi‑Fi control,Dishwasher;Water‑heater,In‑store demos;Online reviews;Friends/Family
+India,Metro,28,Other,Graduate,3,30015.38,313.3,2,26,3,2,1,0,2.5,2017.76,0‑interest EMI,2,Govt incentive,High cost,Quiet motor;Compact design;Wi‑Fi control,Dishwasher;Air‑purifier;Refrigerator,Online reviews
+UAE,Metro,28,Female,Graduate,3,61925.6,325.6,3,41,1,2,1,0,2.2,2972.89,BNPL,3,Brand,Limited models,5‑Star rating,Refrigerator;Dishwasher;Water‑heater,Friends/Family;Social media;Govt portals
+UAE,Metro,21,Female,Graduate,1,52302.99,673.5,3,42,3,2,1,0,2.6,1534.25,BNPL,5,Brand,High cost,5‑Star rating,AC,In‑store demos;Govt portals
+India,Metro,40,Male,Graduate,1,31716.3,315.7,4,32,5,5,1,1,9.4,2296.03,Upfront,3,Peer reviews,Uncertain savings,Solar compatibility;5‑Star rating,Washer,Online reviews;Social media
+UAE,Tier‑2 city,45,Female,Secondary,5,42876.05,574.8,4,60,1,2,1,1,3.3,1995.75,0‑interest EMI,0,Peer reviews,Uncertain savings,Quiet motor,Air‑purifier,Govt portals;Friends/Family;Online reviews
+UAE,Metro,47,Male,Secondary,4,67169.46,202.4,2,51,1,2,1,1,5.4,3158.49,Rental,3,Energy saving,High cost,Compact design,Water‑heater,Friends/Family
+Singapore,Metro,44,Female,Graduate,3,52903.09,345.6,4,44,4,4,1,1,3.9,3426.09,Upfront,2,Govt incentive,High cost,Solar compatibility;5‑Star rating,Dishwasher,Online reviews;Social media;In‑store demos
+Singapore,Metro,32,Female,Secondary,2,72288.65,248.3,5,35,3,3,1,0,5.2,3786.35,Upfront,4,Up‑front price,Uncertain savings,Quiet motor,Refrigerator;Water‑heater,Social media;Online reviews
+Singapore,Metro,21,Male,Post‑grad,2,81720.21,462.8,5,45,3,4,1,1,9.7,4079.36,BNPL,3,Up‑front price,Limited models,Quiet motor,Refrigerator,Social media;In‑store demos
+UAE,Metro,35,Male,Post‑grad,1,92314.08,406.1,5,59,5,4,0,1,7.4,3709.43,Upfront,2,Up‑front price,Other,Quiet motor;Compact design;Solar compatibility,Refrigerator;AC;Dishwasher,Social media
+UAE,Metro,27,Male,Post‑grad,7,129121.24,288.9,9,53,3,4,1,1,9.6,6692.71,BNPL,4,Up‑front price,High cost,Wi‑Fi control,Refrigerator;Air‑purifier;Dishwasher,In‑store demos
+UAE,Metro,33,Female,Post‑grad,3,75149.0,402.2,6,49,2,3,1,1,4.9,3558.98,Upfront,3,Peer reviews,Limited models,Solar compatibility;Wi‑Fi control;Compact design,Water‑heater;Refrigerator;Dishwasher,In‑store demos
+India,Metro,25,Female,Secondary,1,17319.45,140.1,4,59,3,4,0,0,2.7,50.0,Rental,3,Energy saving,High cost,Quiet motor;Compact design,Washer,In‑store demos;Online reviews
+India,Metro,18,Female,Secondary,1,21333.41,332.4,1,28,1,2,1,0,2.0,912.95,0‑interest EMI,4,Up‑front price,Low awareness,Compact design,Washer;AC;Water‑heater,Friends/Family;In‑store demos;Online reviews
+UAE,Metro,42,Female,Graduate,2,46559.82,679.5,3,20,3,2,0,1,9.7,2694.14,BNPL,3,Peer reviews,Low awareness,5‑Star rating,AC;Water‑heater;Air‑purifier,Friends/Family
+UAE,Metro,28,Female,Secondary,2,27915.24,277.9,4,23,1,2,0,0,1.5,1556.93,Rental,3,Energy saving,Uncertain savings,Compact design,Dishwasher;Washer;Refrigerator,Online reviews
+India,Metro,31,Female,Post‑grad,5,23957.72,293.5,3,25,3,4,0,0,3.5,1429.46,Upfront,3,Brand,Limited models,Wi‑Fi control,AC;Air‑purifier,Friends/Family
+India,Metro,49,Male,Secondary,3,13949.22,216.9,4,36,2,3,1,1,6.2,1113.61,BNPL,2,Energy saving,Low awareness,Compact design,Dishwasher;Washer,Social media;In‑store demos;Friends/Family
+UAE,Metro,31,Male,Graduate,1,137792.68,660.5,9,100,2,1,0,0,3.4,6837.37,0‑interest EMI,3,Up‑front price,High cost,Quiet motor;Compact design,Dishwasher;AC;Washer,In‑store demos;Friends/Family;Govt portals
+India,Metro,37,Male,Post‑grad,2,10171.53,450.6,0,35,4,5,0,1,11.5,303.93,BNPL,1,Up‑front price,Limited models,Solar compatibility,Water‑heater,Social media
+Singapore,Metro,19,Female,Graduate,2,73474.65,604.7,0,50,5,4,1,1,26.7,4107.69,Upfront,1,Energy saving,High cost,Quiet motor,Water‑heater,Friends/Family
+India,Metro,53,Female,Post‑grad,5,23266.37,229.6,1,30,4,4,0,1,7.9,402.77,BNPL,1,Govt incentive,Limited models,Wi‑Fi control;Compact design,Air‑purifier,Govt portals
+UAE,Tier‑2 city,38,Male,Graduate,6,139726.65,256.3,10,62,1,2,0,0,10.9,7209.83,Upfront,2,Peer reviews,Uncertain savings,Solar compatibility,Air‑purifier,In‑store demos;Social media;Online reviews
+India,Metro,33,Male,Graduate,2,27317.06,259.8,3,46,2,3,0,0,4.2,310.05,Upfront,1,Up‑front price,Other,Quiet motor;Wi‑Fi control;Solar compatibility,Air‑purifier;Water‑heater,Govt portals;Social media;Online reviews
+India,Metro,36,Female,Graduate,3,14521.07,668.8,1,27,1,2,0,0,4.4,971.18,0‑interest EMI,3,Energy saving,Low awareness,Wi‑Fi control;5‑Star rating,Washer;Air‑purifier,Friends/Family;In‑store demos;Govt portals
+UAE,Metro,42,Female,Graduate,2,67218.22,328.7,3,44,3,3,0,1,10.9,3065.97,0‑interest EMI,4,Govt incentive,Limited models,Wi‑Fi control,Air‑purifier;Washer,Govt portals;Social media
+UAE,Metro,28,Male,Post‑grad,1,30397.53,565.6,1,56,1,1,1,1,4.3,830.31,Upfront,1,Peer reviews,Other,5‑Star rating;Solar compatibility;Compact design,Washer,Friends/Family;Online reviews
+India,Rural,38,Male,Secondary,4,15834.72,440.3,4,3,4,3,0,1,20.4,419.52,Rental,2,Brand,High cost,Wi‑Fi control,Refrigerator;Air‑purifier,Social media;Friends/Family
+UAE,Metro,24,Male,Graduate,3,103808.53,425.4,9,51,3,3,1,1,11.6,4799.11,0‑interest EMI,3,Govt incentive,High cost,Compact design,Refrigerator;AC,Social media;Online reviews;Friends/Family
+India,Metro,33,Female,Secondary,2,20764.9,385.5,1,41,3,4,0,0,8.7,902.21,Upfront,1,Peer reviews,Uncertain savings,Compact design;5‑Star rating,Water‑heater,Govt portals;Online reviews;In‑store demos
+Singapore,Metro,30,Female,Primary,2,192466.66,294.2,10,90,5,4,0,0,12.7,9035.67,Upfront,3,Brand,Low awareness,5‑Star rating;Solar compatibility,Dishwasher;Air‑purifier,Friends/Family;Govt portals
+UAE,Metro,35,Male,Graduate,4,109763.53,231.0,10,50,2,3,1,1,9.1,6121.79,0‑interest EMI,0,Peer reviews,Low awareness,Compact design;Quiet motor,Washer;AC,Govt portals
+UAE,Metro,34,Female,Secondary,2,49307.98,324.8,0,49,2,1,1,0,5.9,1913.42,Upfront,5,Brand,Uncertain savings,Wi‑Fi control;Solar compatibility;Quiet motor,Dishwasher;AC,Social media
+Singapore,Metro,29,Female,Post‑grad,2,74400.43,446.4,5,61,2,1,1,1,15.2,3096.5,0‑interest EMI,3,Up‑front price,Other,Compact design,Air‑purifier;Refrigerator,Govt portals;Friends/Family;In‑store demos
+India,Tier‑2 city,28,Male,Graduate,4,34993.18,277.2,1,41,1,1,0,0,0.8,2402.39,0‑interest EMI,5,Up‑front price,Low awareness,Wi‑Fi control;5‑Star rating,AC;Refrigerator;Air‑purifier,Friends/Family;Online reviews
+India,Metro,36,Other,Graduate,2,16042.97,246.6,3,50,4,4,1,1,10.8,473.16,Rental,0,Up‑front price,Uncertain savings,Quiet motor;Compact design,AC,Social media;Friends/Family;In‑store demos
+India,Metro,45,Male,Secondary,4,27343.91,413.3,4,28,2,1,1,0,5.4,2278.66,0‑interest EMI,3,Up‑front price,Low awareness,Compact design,Dishwasher,Social media
+UAE,Metro,23,Male,Post‑grad,3,104659.09,538.8,10,69,4,3,1,0,4.2,4580.33,Upfront,1,Energy saving,Limited models,Quiet motor;Solar compatibility,Refrigerator;Dishwasher;Washer,Online reviews;Social media
+India,Metro,53,Female,Primary,1,28329.26,182.5,3,46,1,1,0,1,5.5,692.44,0‑interest EMI,3,Peer reviews,Limited models,Quiet motor,AC;Water‑heater,In‑store demos
+Singapore,Metro,46,Female,Secondary,3,113330.96,342.8,2,60,1,1,1,1,3.0,5379.81,BNPL,4,Peer reviews,High cost,Compact design;Wi‑Fi control,AC,Social media;Online reviews
+Singapore,Metro,19,Male,Secondary,4,63823.62,283.4,5,43,2,3,1,0,4.5,2964.71,0‑interest EMI,0,Up‑front price,Uncertain savings,Compact design;Quiet motor,Refrigerator;Water‑heater;Dishwasher,Social media;Friends/Family
+India,Tier‑2 city,38,Female,Graduate,5,14090.32,89.1,0,63,2,2,0,1,12.2,1682.31,Upfront,2,Energy saving,Uncertain savings,Solar compatibility;Wi‑Fi control,Refrigerator;AC;Dishwasher,Online reviews
+India,Metro,21,Female,Post‑grad,6,19032.0,224.4,2,33,2,3,1,0,6.0,1223.86,0‑interest EMI,2,Peer reviews,Uncertain savings,Quiet motor,Washer;Dishwasher;Water‑heater,In‑store demos;Online reviews
+India,Metro,30,Male,Graduate,4,29280.15,288.7,1,32,3,4,0,1,10.7,645.05,Upfront,6,Up‑front price,Uncertain savings,5‑Star rating;Quiet motor,Washer;Refrigerator;Dishwasher,Govt portals;Online reviews
+Singapore,Metro,46,Female,Graduate,4,64358.13,375.1,4,39,1,1,1,1,7.8,3318.66,0‑interest EMI,4,Up‑front price,Other,Quiet motor;5‑Star rating;Compact design,Dishwasher;Water‑heater,Social media
+India,Metro,35,Other,Primary,4,9728.08,322.4,2,30,5,5,1,1,7.2,535.22,Upfront,3,Energy saving,Other,Wi‑Fi control;Compact design;5‑Star rating,Air‑purifier;Dishwasher;Water‑heater,Social media
+India,Metro,28,Male,Graduate,1,13805.2,1067.2,0,35,2,2,1,0,3.6,1084.0,Rental,2,Govt incentive,High cost,Solar compatibility,Refrigerator;Washer;Air‑purifier,Friends/Family
+Singapore,Metro,32,Male,Secondary,1,62911.03,355.2,4,70,2,1,0,1,14.8,4058.94,Rental,2,Up‑front price,High cost,Solar compatibility;Compact design,Air‑purifier,Govt portals;In‑store demos
+India,Rural,41,Male,Secondary,3,13092.17,636.8,4,40,4,5,1,1,11.0,302.86,0‑interest EMI,3,Peer reviews,Other,Solar compatibility,Dishwasher;Air‑purifier;Water‑heater,In‑store demos;Govt portals;Friends/Family
+UAE,Metro,18,Male,Secondary,4,77253.63,553.6,5,62,2,3,1,1,7.9,3670.23,Upfront,2,Govt incentive,Uncertain savings,Compact design;Solar compatibility,Washer;Water‑heater,Govt portals
+UAE,Metro,33,Male,Post‑grad,1,97114.47,359.7,8,56,3,4,0,0,3.1,4584.75,Upfront,1,Govt incentive,Other,Compact design;5‑Star rating,Air‑purifier;Water‑heater,Social media;In‑store demos;Online reviews
+India,Tier‑2 city,32,Male,Secondary,2,224729.28,151.3,10,91,3,3,0,1,11.9,10900.88,BNPL,2,Brand,Other,5‑Star rating;Wi‑Fi control;Compact design,Refrigerator,Govt portals;Social media;In‑store demos
+India,Rural,38,Female,Secondary,7,10368.14,202.9,2,6,5,4,1,1,10.1,522.79,Upfront,3,Up‑front price,Other,Wi‑Fi control;Quiet motor,Washer;AC;Refrigerator,Govt portals
+UAE,Metro,43,Female,Primary,2,47877.07,636.8,2,52,5,5,1,1,14.0,2030.48,0‑interest EMI,4,Peer reviews,Low awareness,Quiet motor,Water‑heater;Air‑purifier,Govt portals
+Singapore,Metro,50,Female,Primary,1,88765.23,1011.2,5,34,1,1,0,0,4.2,4138.6,Upfront,4,Peer reviews,High cost,Wi‑Fi control;Quiet motor;5‑Star rating,Washer;Water‑heater;Dishwasher,Social media;In‑store demos;Govt portals
+UAE,Metro,24,Male,Primary,3,49328.8,556.7,6,35,2,2,0,0,5.2,2036.58,0‑interest EMI,3,Peer reviews,Limited models,Compact design,Refrigerator;Dishwasher;AC,Social media;Govt portals;Friends/Family
+India,Metro,38,Female,Secondary,5,20776.93,240.9,3,33,3,3,0,1,14.3,687.08,0‑interest EMI,3,Energy saving,Limited models,Solar compatibility;Wi‑Fi control;Quiet motor,Refrigerator;AC,In‑store demos;Govt portals
+UAE,Metro,19,Other,Post‑grad,5,108671.4,677.0,2,49,2,1,1,1,9.2,4921.73,Upfront,0,Up‑front price,High cost,5‑Star rating;Compact design,Air‑purifier;Water‑heater,Online reviews;Friends/Family
+India,Rural,34,Male,Secondary,2,13609.39,464.4,1,21,5,5,0,0,8.8,800.64,Rental,1,Peer reviews,Limited models,5‑Star rating,Washer,Social media;Friends/Family;Online reviews
+India,Rural,35,Male,Secondary,1,20143.15,261.0,5,27,3,2,0,0,4.2,1341.74,BNPL,0,Govt incentive,Limited models,Compact design;Quiet motor,Water‑heater;Refrigerator,In‑store demos;Govt portals;Friends/Family
+India,Rural,26,Female,Secondary,2,17492.3,223.4,0,23,5,5,0,1,10.4,425.07,0‑interest EMI,3,Energy saving,Uncertain savings,Compact design;Wi‑Fi control,Refrigerator;Air‑purifier;AC,Social media;Govt portals;Friends/Family
+Singapore,Metro,40,Male,Primary,2,89278.34,310.9,7,46,5,5,1,1,18.5,4792.95,Upfront,4,Up‑front price,Low awareness,5‑Star rating;Wi‑Fi control;Compact design,Refrigerator;AC,Social media;In‑store demos
+UAE,Tier‑2 city,18,Other,Secondary,3,59005.94,519.4,3,32,3,4,0,1,12.1,3088.06,Upfront,2,Govt incentive,High cost,5‑Star rating;Compact design,AC,Govt portals
+Singapore,Metro,40,Female,Post‑grad,2,39810.71,230.5,2,16,4,3,1,1,7.8,2107.83,Rental,3,Govt incentive,High cost,Wi‑Fi control;Compact design,Washer;Air‑purifier;Refrigerator,Online reviews
