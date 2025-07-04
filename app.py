@@ -20,18 +20,32 @@ st.set_page_config(layout="wide", page_title="EcoWise Insight Studio")
 st.title("🌿 EcoWise Insight Studio 2025")
 st.caption("Sustainable‑appliance market intelligence dashboard")
 
-# ---------- DATA LOADING ----------
-@st.cache_data(show_spinner=False)
-def load_data(url:str) -> pd.DataFrame:
-    return pd.read_csv(url)
+# ---- DATA LOADING HELPER ----
+from pathlib import Path
+import pandas as pd
+import streamlit as st
 
-DATA_URL = st.secrets.get("DATA_URL", "https://raw.githubusercontent.com/openai-sample/ecowise/main/ecowise_survey_arm_ready.csv")
-df = load_data(DATA_URL)
+@st.cache_data(show_spinner=True)
+def load_data(local_fname: str, url_fallback: str | None) -> pd.DataFrame:
+    """Load a CSV from the repo if present, else from a URL."""
+    local_path = Path(__file__).parent / local_fname
+    if local_path.exists():
+        st.caption(f"✅ Loaded data from local file: {local_path.name}")
+        return pd.read_csv(local_path)
+    if url_fallback:
+        try:
+            st.caption("🔄 Fetching data from remote URL…")
+            return pd.read_csv(url_fallback)
+        except Exception as e:
+            st.error(f"Could not fetch CSV from `{url_fallback}`\\n{e}")
+            st.stop()
+    st.error("⚠️  No dataset found. Add the CSV to the repo **or** set a DATA_URL secret.")
+    st.stop()
 
-# Helper to download dataframe
-def get_csv_download(df_in: pd.DataFrame, filename: str) -> BytesIO:
-    csv = df_in.to_csv(index=False).encode()
-    return BytesIO(csv)
+# ---- CALL IT ----
+DATA_URL = st.secrets.get("DATA_URL", "")
+df = load_data("ecowise_survey_arm_ready.csv", DATA_URL)
+
 
 # Sidebar filters
 with st.sidebar:
