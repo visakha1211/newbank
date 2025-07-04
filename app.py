@@ -43,7 +43,7 @@ def load_csv(local_fname: str, url_fallback: str | None) -> pd.DataFrame:
     )
     st.stop()
 
-LOCAL_CSV = "ecowise_synthetic.csv"      # adjust if your path differs
+LOCAL_CSV = "ecowise_full_arm_ready.csv"      # adjust if your path differs
 DATA_URL  = st.secrets.get("DATA_URL", "")
 df = load_csv(LOCAL_CSV, DATA_URL)
 
